@@ -1,0 +1,251 @@
+{
+  "ROUTES": [
+    {
+      "Family": "Peashooter",
+      "TargetType": "appeasemint",
+      "TryingLevels": [],
+      "Medals": [
+        "peashooter",
+        "repeater",
+        "pvine",
+        "threepeater",
+        "splitpea",
+        "peapod",
+        "starfruit",
+        "pinkstarfruit",
+        "shootingstarfruit",
+        "seashooter",
+        "bowlingbulb",
+        "xshot",
+        "gatling",
+        "megagatling",
+        "primalpeashooter"
+      ]
+    },
+    {
+      "Family": "Sun",
+      "TargetType": "enlightenmint",
+      "TryingLevels": [],
+      "Medals": [
+        "sunflower",
+        "twinsunflower",
+        "magnifyinggrass",
+        "solartomato",
+        "sunshroom",
+        "sunbean",
+        "plantern",
+        "goldleaf",
+        "toadstool",
+        "shinevine",
+        "solarsage",
+        "primalsunflower",
+        "goldbloom"
+      ]
+    },
+    {
+      "Family": "Defence",
+      "TargetType": "reinforcemint",
+      "TryingLevels": [
+        "reinforce_mint_try1",
+        "reinforce_mint_try2",
+        "reinforce_mint_try3"
+      ],
+      "Medals": [
+        "wallnut",
+        "tallnut",
+        "holonut",
+        "pumpkin",
+        "gumnut",
+        "peanut",
+        "chardguard",
+        "sweetpotato",
+        "endurian",
+        "turnip",
+        "lychee",
+        "bamboozle",
+        "primalwallnut",
+        "umbrellaleaf"
+      ]
+    },
+    {
+      "Family": "Explosive",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "potatomine",
+        "cherry_bomb",
+        "doomshroom",
+        "atombomb_seedling",
+        "strawburst",
+        "dandelion",
+        "grapeshot",
+        "primalpotatomine",
+        "explodeonut",
+        "escaperoot"
+      ]
+    },
+    {
+      "Family": "Lobber",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "cabbagepult",
+        "kernelpult",
+        "coconutcannon",
+        "melonpult",
+        "applemortar",
+        "banana",
+        "akee",
+        "cantaloupe"
+      ]
+    },
+    {
+      "Family": "Sharp",
+      "TargetType": "spearmint",
+      "TryingLevels": [],
+      "Medals": [
+        "bloomerang",
+        "spikeweed",
+        "spikerock",
+        "laser_bean",
+        "hollyknight",
+        "homingthistle",
+        "bambooshoot",
+        "cactus"
+      ]
+    },
+    {
+      "Family": "Cold",
+      "TargetType": "wintermint",
+      "TryingLevels": [],
+      "Medals": [
+        "iceburg",
+        "iceweed",
+        "snowdrop",
+        "wintermelon",
+        "glaciershroom",
+        "missiletoe",
+        "icebloom",
+        "hurrikale",
+        "snowpea",
+        "coldsnapdragon"
+      ]
+    },
+    {
+      "Family": "Melee",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "bonkchoy",
+        "buttercup",
+        "squash",
+        "tanglekelp",
+        "guacodile",
+        "chomper",
+        "parsnip",
+        "ghostpepper",
+        "phatbeet",
+        "celerystalker"
+      ]
+    },
+    {
+      "Family": "Fire",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "snapdragon",
+        "jalapeno",
+        "pepperpult",
+        "hotpotato",
+        "firepeashooter",
+        "jackolantern",
+        "torchwood",
+        "hotdate",
+        "pyrevine",
+        "lavaguava",
+        "firegourd",
+        "meteorflower"
+      ]
+    },
+    {
+      "Family": "Poison",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "chilibean",
+        "puffshroom",
+        "fumeshroom",
+        "vamporcini",
+        "scaredyshroom",
+        "seashroom",
+        "garlic",
+        "sporeshroom",
+        "bloominghearts"
+      ]
+    },
+    {
+      "Family": "Electricity",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "lightningreed",
+        "electricpeashooter",
+        "electriccurrant",
+        "citron",
+        "powerplant",
+        "empea",
+        "magnetshroom",
+        "electricblueberry"
+      ]
+    },
+    {
+      "Family": "Magic",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "hypnoshroom",
+        "aloe",
+        "peach",
+        "zoybeanpod",
+        "intensivecarrot",
+        "caulipower",
+        "shrinkingviolet",
+        "powerlily"
+      ]
+    },
+    {
+      "Family": "Shadow",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "moonflower",
+        "nightshade",
+        "shadowshroom",
+        "dusklobber",
+        "grimrose",
+        "gloomvine",
+        "gloomshroom",
+        "dragonbruit",
+        "noctarine",
+        "murkadamianut",
+        "shadowpeashooter"
+      ]
+    },
+    {
+      "Family": "Slow",
+      "TargetType": "",
+      "TryingLevels": [],
+      "Medals": [
+        "gravebuster",
+        "springbean",
+        "sapfling",
+        "marigold",
+        "blover",
+        "stunion",
+        "stallia",
+        "thymewarp",
+        "cranjelly"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "89dca4f8-e75e-4a4e-8196-0a29da03eff1",
+  "name": "Sentry's Quality Of Life",
+  "version": "1.0.0",
+  "priority": 1000,
+  "description": "A simple mod that adds nice QOL features",
+  "author": "Sentry Gaming",
+  "formatVersion": 1,
+  "gameVersion": "0.7.1",
+  "gpNextVersion": ">=1.0.0"  
+}

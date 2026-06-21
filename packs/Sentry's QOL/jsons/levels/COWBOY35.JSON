@@ -1,0 +1,176 @@
+{
+  "#comment": "Cowboy Zomboss",
+  "objects": [
+    {
+      "objclass": "LevelDefinition",
+      "objdata": {
+        "Description": "[PLAYERS_TRIP_TO_WEST]",
+        "FirstIntroNarrative": "COWBOY_35_INTRO",
+        "FirstOutroNarrative": "COWBOY_35_OUTRO",
+        "ReplayIntroNarrative": "COWBOY_35_INTRO",
+        "ReplayOutroNarrative": "COWBOY_35_OUTRO",        
+        "ForceToWorldMap": true,
+        "GameFeaturesToUnlock": [
+          "world_trophy_cowboy"
+        ],
+        "LevelNumber": 35,
+        "LoadDefaultMusic": false,
+        "Loot": "RTID(DefaultLoot@LevelModules)",
+        "Modules": [
+          "RTID(ZombossIntro@LevelModules)",
+          "RTID(ConveyorBelt@CurrentLevel)",
+          "RTID(ZombossBattle@CurrentLevel)",
+          "RTID(CowboyRails@CurrentLevel)",
+          "RTID(DefaultZombieWinCondition@LevelModules)",
+          "RTID(NewWaves@CurrentLevel)"
+        ],
+        "MusicType": "MiniGame_A",
+        "Name": "[WEST_LEVEL_NAME]",
+        "NormalPresentTable": "cowboy_normal_01",
+        "RepeatPlayForceToWorldMap": true,
+        "ShinyPresentTable": "cowboy_shiny_01",
+        "StageModule": "RTID(WestStage@LevelModules)",
+        "VictoryModule": "RTID(ZombossVictoryOutro@LevelModules)"
+      }
+    },
+    {
+      "aliases": [
+        "CowboyRails"
+      ],
+      "objclass": "RailcartProperties",
+      "objdata": {
+        "RailcartType": "railcart_cowboy",
+        "Railcarts": [
+          {
+            "Column": 0,
+            "Row": 2
+          },
+          {
+            "Column": 5,
+            "Row": 0
+          },
+          {
+            "Column": 5,
+            "Row": 3
+          }
+        ],
+        "Rails": [
+          {
+            "Column": 0,
+            "RowEnd": 4,
+            "RowStart": 0
+          },
+          {
+            "Column": 5,
+            "RowEnd": 1,
+            "RowStart": 0
+          },
+          {
+            "Column": 5,
+            "RowEnd": 4,
+            "RowStart": 3
+          }
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "ConveyorBelt"
+      ],
+      "objclass": "ConveyorSeedBankProperties",
+      "objdata": {
+        "DropDelayConditions": [
+          {
+            "Delay": 2,
+            "MaxPackets": 0
+          },
+          {
+            "Delay": 3,
+            "MaxPackets": 2
+          },
+          {
+            "Delay": 5,
+            "MaxPackets": 4
+          },
+          {
+            "Delay": 8,
+            "MaxPackets": 8
+          }
+        ],
+        "InitialPlantList": [
+          {
+            "MaxCount": 4,
+            "MaxWeightFactor": 0,
+            "PlantType": "iceburg",
+            "Weight": 20
+          },
+          {
+            "MaxCount": 15,
+            "MinWeightFactor": 5,
+            "PlantType": "lightningreed",
+            "Weight": 100
+          },
+          {
+            "MaxCount": 5,
+            "MaxWeightFactor": 0,
+            "PlantType": "electricpeashooter",
+            "Weight": 15
+          },
+          {
+            "MaxCount": 3,
+            "MaxWeightFactor": 0,
+            "PlantType": "magnetshroom",
+            "Weight": 10
+          },
+          {
+            "MaxCount": 1,
+            "MaxWeightFactor": 0,
+            "PlantType": "melonpult",
+            "Weight": 7
+          }
+        ],
+        "SpeedConditions": [
+          {
+            "MaxPackets": 0,
+            "Speed": 100
+          }
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "ZombossBattle"
+      ],
+      "objclass": "ZombossBattleModuleProperties",
+      "objdata": {
+        "ReservedColumnCount": 2,
+        "ZombossDeathColumn": 5,
+        "ZombossDeathRow": 3,
+        "ZombossMechType": "zombossmech_cowboy2",
+        "ZombossSpawnGridPosition": {
+          "mX": 6,
+          "mY": 3
+        }
+      }
+    },
+    {
+      "aliases": [
+        "NewWaves"
+      ],
+      "objclass": "WaveManagerModuleProperties",
+      "objdata": {
+        "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
+      }
+    },
+    {
+      "aliases": [
+        "WaveManagerProps"
+      ],
+      "objclass": "WaveManagerProperties",
+      "objdata": {
+        "Waves": []
+      }
+    }
+  ],
+  "version": 1
+}

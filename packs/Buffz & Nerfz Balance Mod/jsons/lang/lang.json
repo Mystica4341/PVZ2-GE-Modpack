@@ -1,0 +1,487 @@
+{
+  "SettingLyrics": {
+    "Title": {
+      "en": "Settings",
+      "zh": "设置",
+      "es": "Ajustes"
+    },
+    "MusicSpeed": {
+      "en": "Music Speed",
+      "zh": "音乐速率",
+      "es": "Velocidad de la música"
+    },
+    "Music": {
+      "en": "Music",
+      "zh": "音乐",
+      "es": "Música"
+    },
+    "SoundFX": {
+      "en": "Sound Effects",
+      "zh": "音效",
+      "es": "Efectos de sonido"
+    },
+    "Language": {
+      "en": "Language",
+      "zh": "语言",
+      "es": "Idioma"
+    },
+    "Difficulty": {
+      "en": "Difficulty",
+      "zh": "难度",
+      "es": "Dificultad"
+    },
+    "Resolution": {
+      "en": "Resolution",
+      "zh": "分辨率",
+      "es": "Resolución"
+    },
+    "ResolutionDefault": {
+      "en": "Default",
+      "zh": "默认",
+      "es": "Predeterminado"
+    },
+    "CursorStyle": {
+      "en": "Cursor Appearance",
+      "zh": "鼠标样式",
+      "es": "Estilo del cursor"
+    },
+    "CursorStyleOptions": {
+      "Default": {
+        "en": "Default",
+        "zh": "默认",
+        "es": "Predeterminado"
+      },
+      "Soft": {
+        "en": "Soft",
+        "zh": "柔边",
+        "es": "Suave"
+      },
+      "Unchanged": {
+        "en": "Unchanged",
+        "zh": "跟随系统",
+        "es": "Sin cambios"
+      }
+    },
+    "CardLayer": {
+      "Title": {
+        "en": "Seedbank Layering",
+        "zh": "卡槽图层"
+      },
+      "Bottom": {
+        "en": "Below",
+        "zh": "置底"
+      },
+      "Transparent": {
+        "en": "Transparent",
+        "zh": "半透明"
+      },
+      "Top": {
+        "en": "Above",
+        "zh": "置顶"
+      }
+    },
+    "AllowCheat": {
+      "en": "Allow Cheat",
+      "zh": "作弊",
+      "es": "Permitir trampas"
+    },
+    "ShowKeyboardTip": {
+      "en": "Show Keybinds",
+      "zh": "显示键位",
+      "es": "Mostrar teclas"
+    },
+    "PlantKeyboardTip": {
+      "en": "Show Seedbank Keybinds",
+      "zh": "显示植物键位",
+      "es": "Mostrar teclas de plantas"
+    },
+    "KeyBinds": {
+      "en": "Keybinds",
+      "zh": "键位绑定",
+      "es": "Asignación de teclas"
+    },
+    "ShowFPS": {
+      "en": "Show FPS",
+      "zh": "显示帧率",
+      "es": "Mostrar FPS"
+    },
+    "SandBoxLevel": {
+      "en": "Sandbox Level",
+      "zh": "沙盒关卡",
+      "es": "Nivel sandbox"
+    },
+    "SquareTipMode": {
+      "en": "Planting Indicator Style",
+      "zh": "可种植点指示",
+      "es": "Estilo del indicador de plantación"
+    },
+    "SquareTipModeOptions": {
+      "EachSquare": {
+        "en": "Every tile",
+        "zh": "每一格",
+        "es": "Cada casilla"
+      },
+      "Crossing": {
+        "en": "Crossing (vanilla)",
+        "zh": "十字",
+        "es": "Cruz"
+      },
+      "None": {
+        "en": "Clear (none)",
+        "zh": "无",
+        "es": "Ninguno"
+      }
+    },
+    "FullScreen": {
+      "en": "Full Screen",
+      "zh": "全屏",
+      "es": "Pantalla completa"
+    },
+    "AnimationMaxFrameRate": {
+      "en": "Max Frame Rate",
+      "zh": "最大帧率",
+      "es": "Frecuencia máxima de fotogramas"
+    },
+    "AnimationMaxFrameRateUnlimited": {
+      "en": "Unlimited",
+      "zh": "不限制",
+      "es": "Ilimitado"
+    },
+    "AnimationMaxFrameRateSuggestion": {
+      "en": "(Best to restart the game when changing it/entering a level)",
+      "zh": "(建议在进入关卡后调整时，重新启动游戏)",
+      "es": "(Es mejor reiniciar el juego si lo cambias tras entrar en un nivel)"
+    },
+    "AudioLoadMode": {
+      "en": "Audio Load Mode",
+      "zh": "音频加载模式",
+      "es": "Modo de carga de audio"
+    },
+    "WebAudio": {
+      "en": "WEB\n(plays immediately, can be laggy)",
+      "zh": "WEB\n(加载更快，但音频可能卡顿)",
+      "es": "WEB\n(reproduce al instante, pero puede trabarse)"
+    },
+    "DomAudio": {
+      "en": "DOM\n(perfect but deferred quality)",
+      "zh": "DOM\n(保证音质，但可能延迟)",
+      "es": "DOM\n(calidad perfecta, pero puede retrasarse)"
+    },
+    "QuitGame": {
+      "en": "Quit Game",
+      "zh": "退出",
+      "es": "Salir del juego"
+    },
+    "Bilibili": {
+      "EnterBilibili": {
+        "en": "Enter Bilibili UID(DO NOT ENTER RANDOMLY)",
+        "zh": "输入哔哩哔哩UID（建议复制粘贴再确认）",
+        "es": "Introduce el UID de Bilibili (no lo escribas al azar)"
+      },
+      "Confirm": {
+        "en": "CONFIRM",
+        "zh": "确认！",
+        "es": "CONFIRMAR"
+      },
+      "WhiteListRequire": {
+        "en": "",
+        "zh": "请跟作者沟通获取中文翻译白名单，或游玩木乃伊记忆无尽模式 3 小时"
+      }
+      }
+    },
+"LoadingTips": 
+        [
+              {
+                "en": "While Peashooters cost more sun, you better place your Sunflowers in the back. \nProtect those that cannot protect themselves!",
+                "zh": "虽然豌豆射手需要更多阳光，但你最好把向日葵放在后方。\n保护那些无法保护自己的生命！"
+              },
+              {
+                "en": "Puff-Shrooms can survive for an indefinite amount of time.",
+                "zh": "噗噗菇可以无限期地存活。"
+              },
+              {
+                "en": "DON'T play Kongfu Temple after Lost City. \nAnd don't tell me that I didn't warn you.",
+                "zh": "玩完“失落之城”之后，千万别玩“功夫神殿”。\n别跟我说我没警告过你。"
+              },
+              {
+                "en": "Primal peas and Scaredy-Shroom spores knockback zombies into the air so Blover works with them.",
+                "zh": "原始豌豆和胆小菇孢子能将僵尸击飞到空中，所以三叶草与它们配合使用。"
+              },
+              {
+                "en": "Chip-lings can be planted in water.",
+                "zh": "薯片种子可以水培。"
+              },
+              {
+                "en": "Better play worlds (except Kongfu Temple) in order.",
+                "zh": "最好按顺序游玩各个世界（功夫寺除外）。"
+              },
+			  {
+                "en": "Press the key '<KEYCODE_ALL_COLLECT>' to collect all sun and coins on the lawn.",
+                "zh": "按下键盘 <KEYCODE_ALL_COLLECT> 键拾取所有的阳光和硬币。"
+              },
+              {
+                "en": "Gardendless is a fan-game, not a mod.",
+                "zh": "请注意，Gardendless是一款粉丝自制游戏，并非MOD。"
+              },
+              {
+                "en": "Perfume-Shrooms melt Zomboni ice. \nThat perfume might be hotter than you think.",
+                "zh": "香水蘑菇能融化僵尸冰车的冰块。\n那款香水可能比你想象的更火辣。"
+              },
+              {
+                "en": "Try Squash with Hurrikale. \n Or just use Jalapeno.",
+                "zh": "试试用南瓜配飓风甘蓝。\n或者直接用墨西哥辣椒。"
+              },
+              {
+                "en": "Sea-peas extinguish torches, bombs, and other firey utilities.",
+                "zh": "海豌豆可以扑灭火炬、炸弹和其他易燃物品。"
+              },
+              {
+                "en": "This mod adds more adventure plants to each world.",
+                "zh": "这个模组为每个世界添加了更多冒险植物。"
+              },
+              {
+                "en": "Every coin has two sides.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Scaredy-shroom feels safe when protected by Pumpkins.",
+                "zh": "胆小鬼在南瓜的保护下感到安全。"
+              },
+              {
+                "en": "Heavenly Peaches give plants short durations of invincibility. \nDoes not go well with Lychee and Garlic.",
+                "zh": "天堂桃能使植物在短时间内保持无敌状态。不宜与荔枝和大蒜搭配食用。"
+              },
+			  {
+                "en": "Aloes aren't always better than Heavenly Peaches.",
+                "zh": "芦荟并不总是比天堂桃更好。"
+              },
+			  {
+                "en": "Tall-Nuts act like heavy-duty Resistant Radishes.",
+                "zh": "高果的作用类似于耐旱的萝卜。"
+              },
+			  {
+                "en": "Jalapenos have the shortest recharge of all heavy-damage explosives.",
+                "zh": "在所有高威力炸药中，墨西哥辣椒的冷却时间最短。"
+              },
+			  {
+                "en": "Grave Busters can eat arcade cabinets, tents, backpacks, surfboards, weapon stands, and surprisingly, graves too.",
+                "zh": "掘墓者可以吞噬街机、帐篷、背包、冲浪板、武器架，令人惊讶的是，它还可以吞噬坟墓。"
+              },
+			  {
+                "en": "Octopi don't like playing hot potato.",
+                "zh": "哈哈这里没有翻译。"
+              },
+			  {
+                "en": "Try tiering up some of your plants to match your playstyle!",
+                "zh": "哈哈这里没有翻译。"
+              },
+			  {
+                "en": "Buy tiers in the upgrades section of the shop!",
+                "zh": "哈哈这里没有翻译。"
+              },
+			  {
+                "en": "Torchwood can turn flaming peas into plasma peas, so better place 2 columns. \nPlantfooded Torchwoods turn snow peas into firey ones.",
+                "zh": "火炬木可以将火焰豌豆变成等离子豌豆，所以最好放置两列。\n喂食植物食物的火炬木可以将雪豌豆变成火焰豌豆。"
+              },
+			  {
+                "en": "Try to stall with Potato Mines or other early-game plants to harvest extra sun.",
+                "zh": "尝试用土豆地雷或其他早期游戏植物来拖延时间，以获取额外的阳光。"
+              },
+			  {
+                "en": "You can use Shrinking Violet's speed reducing to your advantage by shrinking zombies and illuminating them with Solar Sage right after.",
+                "zh": "你可以利用缩小紫罗兰的减速效果，将僵尸缩小，然后立即用太阳圣贤照亮它们。"
+              },
+			  {
+                "en": "Fire Peashooter have chances to shoot plasma peas.",
+                "zh": "火焰豌豆射手有几率发射等离子豌豆。"
+              },
+			  {
+                "en": "Pepper-pults heat plants. \nSo do Red Marigolds.",
+                "zh": "辣椒喷射器会加热植物。\n红万寿菊也是如此。"
+              },
+			  {
+                "en": "Murkadamia Nuts have more toughness on their jelly when first powered; they get 50% more at first.",
+                "zh": "澳洲坚果坚果刚磨成粉末时，果冻的韧性更强；刚开始磨成粉末时，韧性会增加 50%。"
+              },
+			  {
+                "en": "Unlock power mints with plant medals in the Zen Garden!",
+                "zh": "在禅意花园中使用植物勋章解锁能量薄荷糖！"
+              },
+			  {
+                "en": "Noctarines, Gold Blooms and Cran Jellies can be placed on top of plants without needing the shovel.",
+                "zh": "夜来香、金花和蔓越莓果冻可以直接放在植物顶部，无需使用铲子。"
+              },
+			  {
+                "en": "Ground plants can't be stolen by parrots.",
+                "zh": "埋在地下的植物鹦鹉是偷不到的。"
+              },
+			  {
+                "en": "E.M. Peach disables more than you think. \nTry it on motor surfboards and Zombie Bulls.",
+                "zh": "哈哈这里没有翻译。"
+              },
+			  {
+                "en": "Try some of the reworked levels!",
+                "zh": "试试一些重新设计的关卡吧！"
+              },
+			  {
+                "en": "This mod adds Tumbleweed in the form of Bowling Primal Wall-Nut.",
+                "zh": "写这篇文章非常费力。"
+              },
+			  {
+                "en": "Check for polls in the mod forum for future balancing changes!",
+                "zh": "你看过MOD论坛吗？"
+              },
+			  {
+                "en": "Chip-ling originates from mR.",
+                "zh": "也玩玩其他的MOD 游戏吧！"
+              },
+			  {
+                "en": "南Garden is such a peak developer. \nSo are the others.",
+                "zh": "南Garden 真是个顶尖的开发者。其他开发者也一样。"
+              },
+              {
+                "en": "Try Cycloquat with Banana Launcher or Pod Pilots!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Do not try Blover or Hurrikale in Aerial Fortress!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Use your Shovel Boost to get a quick refund from plants that are about to be consumed!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Who cares about playing \"mowerless\", \"PFless\", or on 4 peppers? \nPlay how you like, enjoying the game comes first!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Imagine this mod as one that combines some of RFL's best changes with interesting reworks built off of vanilla!.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Both of Shadow Pea's forms provide pros and cons. \nUnpowered ones poison and powered ones pierce.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "You can tier up plants by buying them in the shop and changing their level using the \"level\" button in the almanac.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Lantern Cherry is one of the best budget heaters out there!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Make sure to get the base plant that you're looking to tier up. \nThey don't show up in the shop until you actually have the base!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Not every level can be checked when a balancing change is made. \nIf a change happens to hinder your progress, make sure to report!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Fire Gourd and chilling plants make a great team; \nChill from afar and deal great damage if critical!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "You can use Infi-nut's PF effect to block octopi and fishermen's hooks, however the latter will inflict damage!.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Try using cheap plants like Puff-shroom to block All-stars, and Sea-shroom or Lily Pad to block fishermen.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "The game is actively being developed, be patient for new contents to come!",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Press the key '<KEYCODE_BANANA>' to activate a Banana Launcher or Missile Toe.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Knockback causes Barrel Rollers to stop rolling their barrels",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Wasabi Whip is great for heating and dishing out high, crowd-control damage. \nBonk Choy is a good budget pick for the early game.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Lobbers may handle the \"Imp\" part of Battleplane Imp, but get your Moonbeans and Cycloquats for the \"Battleplane\" part.",
+                "zh": "每枚硬币都有两面。"
+              },
+              {
+                "en": "Collect each medal for each plant in a family,\nthen you can unlock their respective mint!",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Struggling to counter a zombie? \nCheck the zombie almanac (written by Sentry)!",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Check out the repolished and comprehensive plant almanac for stats like \nsplash damage, production rates, fire intervals, PF stats, etc.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Try pairing Plantern's PF and Sweet Potato for the ultimate lane diverter.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Don't frown upon Pea-nut, it has the same damage as Repeater, for a fraction of the cost!",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Apple Mortar my belove- I mean Apple Mortar is great for stunning groups of zombies.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Escape Root's roots are thin enough to slide through Pirate Seas' planks.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Spinapple can deflect nearly every hostile projectile, even Jester's reflected peas!",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Intensive Carrot provides 50% more HP to plants it has used sorcery on.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Want to use Tangle Kelp and Seashooter on land? \nTry Waturnip.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "You can see where certain premium plants are unlocked by seeing their icon above levels. \nIf a level has an icon above it, but isn't a boss fight, it means the level will give you the plant upon completion!",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Doom-shroom's crater lasts for a hefty 3 minutes.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Gumnut can be used to prevent Breakdancers from moving zombies and Gargantuars from throwing their imps.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Coconut Cannon deals light knockback.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Peashooter has lain outclassed for ages, what could possibly save that?",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Twin Sunflowers are not always worse than Sun-shroom or Primal Sunflower.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Quest Branches reward you with epic qust plants upon completion! \nThough playing them before having a sufficient line-up isn't always the best idea.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              },
+              {
+                "en": "Some expansions should be ignored until you have a stronger plant arsenal at your disposal.",
+                "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！"
+              }
+            ]
+}

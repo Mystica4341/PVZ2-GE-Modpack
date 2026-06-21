@@ -1,0 +1,483 @@
+{
+  "#comment": "Iceage Zomboss",
+  "objects": [
+    {
+      "objclass": "LevelDefinition",
+      "objdata": {
+        "Description": "[PLAYERS_TRIP_TO_ICEAGE]",
+        "ForceToWorldMap": true,
+        "LevelNumber": 40,
+        "FlickPowerupRightEdgeOffset": -205,
+        "Loot": "RTID(DefaultLoot@LevelModules)",
+        "Modules": [
+          "RTID(IceageZombossIntro@LevelModules)",
+          "RTID(ConveyorBelt@CurrentLevel)",
+          "RTID(ZombossBattle@CurrentLevel)",
+          "RTID(DefaultZombieWinCondition@LevelModules)",
+          "RTID(NewWaves@CurrentLevel)",
+          "RTID(GlacierModule@CurrentLevel)"
+        ],
+        "MusicType": "MiniGame_A",
+        "Name": "[ICEAGE_LEVEL_NAME]",
+        "NormalPresentTable": "egypt_normal_01",
+        "RepeatPlayForceToWorldMap": true,
+        "ShinyPresentTable": "egypt_shiny_01",
+        "StageModule": "RTID(IceageStage@LevelModules)",
+        "VictoryModule": "RTID(ZombossVictoryOutro@LevelModules)",
+        "GameFeaturesToUnlock": [
+          "world_trophy_iceage"
+        ],
+        "LoadDefaultMusic": false
+      }
+    },
+    {
+      "aliases": [
+        "zombossmech_iceage"
+      ],
+      "objclass": "ZombieProperties",
+      "objdata": {
+        "MissileType": "zomboss_missile_iceage",
+        "CannotBeEnlightenedBySolarSage": true,
+        "ImmuneToSweetPotato": true,
+        "ImmuneToShrinkingViolet": true,
+        "ZombieSort": "Zomboss",
+        "CannotBeGrabbedByPtero": true,
+        "CannotBeDetectedByPowerToss": true,
+        "CannotBeDraggedByTangleKelp": true,
+        "CannotBeTossedByCitron": true,
+        "CannotBeDetectedBySapfling": true,
+        "CannotBeSwallowedByChomper": true,
+        "ChiliStunDurationMult": 0,
+        "CannotCarryPlantfoodsInWaves": true,
+        "LivesInDeepWater": true,
+        "FoeEatDamageReflectPct": 0.5,
+        "WalkSPS": 0.185,
+        "EatDPS": 100,
+        "Toughness": 190,
+        "ImmuneToGarlic": true,
+        "WavePointCost": 100,
+        "Weight": 0,
+        "HitRect": "RTID(IceageZombossMechHitRect@RectangleProps)",
+        "AttackRect": "RTID(IceageZombossMechAttackRect@RectangleProps)",
+        "IdleColumn": 6,
+        "ZombossMechLevel": 0,
+        "ZombossStages": [
+          {
+            "Actions": [
+              {
+                "actionName": "summon",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1100,
+                  "pointMax": 3000
+                },
+                "weight": 5,
+                "repeatMax": 1,
+                "repeatMin": 1
+              },
+              {
+                "actionName": "rush",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1000,
+                  "pointMax": 2000
+                },
+                "weight": 6,
+                "repeatMax": 1,
+                "repeatMin": 2
+              },
+              {
+                "actionName": "shoot",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1000,
+                  "pointMax": 2000
+                },
+                "weight": 10,
+                "repeatMax": 1,
+                "repeatMin": 2
+              }
+            ],
+            "AnimRateModifier": 1,
+            "ChilledDurationFromFrozen": 10,
+            "DamageIndexFull": 0,
+            "DamageIndexHalf": 0,
+            "HitPoints": 5000,
+            "MaxIdleTime": 2.5,
+            "MinIdleTime": 1.5,
+            "StunDamageScale": 1.25,
+            "StunStaggerBackMovement": 1,
+            "StunStaggerBackTime": 0.4,
+            "StunTime": 3
+          },
+          {
+            "Actions": [
+              {
+                "actionName": "summon",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1100,
+                  "pointMax": 3000
+                },
+                "weight": 5,
+                "repeatMax": 1,
+                "repeatMin": 1
+              },
+              {
+                "actionName": "rush",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1000,
+                  "pointMax": 2000
+                },
+                "weight": 6,
+                "repeatMax": 1,
+                "repeatMin": 2
+              },
+              {
+                "actionName": "shoot",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1000,
+                  "pointMax": 2000
+                },
+                "weight": 10,
+                "repeatMax": 1,
+                "repeatMin": 2
+              }
+            ],
+            "AnimRateModifier": 1.1,
+            "ChilledDurationFromFrozen": 10,
+            "DamageIndexFull": 3,
+            "DamageIndexHalf": 3,
+            "HitPoints": 4000,
+            "MaxIdleTime": 2,
+            "MinIdleTime": 1,
+            "StunDamageScale": 1.25,
+            "StunStaggerBackMovement": 1,
+            "StunStaggerBackTime": 0.4,
+            "StunTime": 2.5
+          },
+          {
+            "Actions": [
+              {
+                "actionName": "summon",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1100,
+                  "pointMax": 3000
+                },
+                "weight": 5,
+                "repeatMax": 1,
+                "repeatMin": 1
+              },
+              {
+                "actionName": "rush",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1000,
+                  "pointMax": 2000
+                },
+                "weight": 6,
+                "repeatMax": 1,
+                "repeatMin": 2
+              },
+              {
+                "actionName": "shoot",
+                "summonProps": {
+                  "zombieList": [],
+                  "pointMin": 1000,
+                  "pointMax": 2000
+                },
+                "weight": 8,
+                "repeatMax": 1,
+                "repeatMin": 2
+              }
+            ],
+            "AnimRateModifier": 1.25,
+            "ChilledDurationFromFrozen": 10,
+            "DamageIndexFull": 6,
+            "DamageIndexHalf": 6,
+            "HitPoints": 4000,
+            "MaxIdleTime": 1.5,
+            "MinIdleTime": 0.75,
+            "StunDamageScale": 1.25,
+            "StunStaggerBackMovement": 1,
+            "StunStaggerBackTime": 0.4,
+            "StunTime": 2
+          }
+        ],
+        "GlacierToughness": 1750,
+        "GlacierBlockZombieList": [
+          [],
+          [
+            "iceage",
+            "iceage_weasel",
+            "iceage_imp",
+            ""
+          ],
+          [
+            "iceage",
+            "iceage_imp",
+            ""
+          ],
+          [
+            "iceage",
+            "iceage_imp",
+            ""
+          ],
+          [
+            "iceage",
+            "iceage_hunter",
+            "iceage_armor3"
+          ],
+          [
+            "iceage_armor3",
+            "iceage_hunter",
+            "iceage_dodo"
+          ],
+          [
+            "iceage_armor3",
+            "iceage_hunter",
+            "iceage_dodo"
+          ],
+          [
+            "iceage_armor3",
+            "iceage_hunter",
+            "iceage_dodo"
+          ]
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "ConveyorBelt"
+      ],
+      "objclass": "ConveyorSeedBankProperties",
+      "objdata": {
+        "DropDelayConditions": [
+          {
+            "Delay": 2,
+            "MaxPackets": 0
+          },
+          {
+            "Delay": 3,
+            "MaxPackets": 2
+          },
+          {
+            "Delay": 5,
+            "MaxPackets": 4
+          },
+          {
+            "Delay": 8,
+            "MaxPackets": 8
+          }
+        ],
+        "InitialPlantList": [
+          {
+            "MaxCount": 1,
+            "MaxWeightFactor": 0,
+            "PlantType": "lavaguava",
+            "Weight": 10
+          },
+          {
+            "MaxCount": 1,
+            "MaxWeightFactor": 0,
+            "PlantType": "hurrikale",
+            "Weight": 10
+          },
+          {
+            "MaxCount": 3,
+            "MaxWeightFactor": 0,
+            "PlantType": "meteorflower",
+            "Weight": 20
+          },
+          {
+            "MaxCount": 2,
+            "MaxWeightFactor": 0,
+            "PlantType": "hotdate",
+            "Weight": 17
+          },
+          {
+            "MaxCount": 7,
+            "MaxWeightFactor": 0,
+            "PlantType": "firepeashooter",
+            "Weight": 25
+          },
+          {
+            "MaxCount": 4,
+            "MaxWeightFactor": 0,
+            "PlantType": "pyrevine",
+            "Weight": 17
+          },
+          {
+            "MaxCount": 5,
+            "MaxWeightFactor": 0,
+            "PlantType": "gatling",
+            "Weight": 25
+          }
+        ],
+        "SpeedConditions": [
+          {
+            "MaxPackets": 0,
+            "Speed": 100
+          }
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "ZombossBattle"
+      ],
+      "objclass": "ZombossBattleModuleProperties",
+      "objdata": {
+        "ReservedColumnCount": 3,
+        "ZombossDeathColumn": 5,
+        "ZombossDeathRow": 3,
+        "ZombossMechType": "zombossmech_iceage2",
+        "ZombossSpawnGridPosition": {
+          "mX": 6,
+          "mY": 3
+        }
+      }
+    },
+    {
+      "aliases": [
+        "GlacierModule"
+      ],
+      "#comment": "Zombie Spawn Weights by Row From Left",
+      "objclass": "GlacierModuleProperties",
+      "objdata": {
+        "ZombieSpawnData": [
+          {
+            "Entries": [
+              {
+                "TypeName": "",
+                "Weight": 3
+              }
+            ]
+          },
+          {
+            "Entries": [
+              {
+                "TypeName": "",
+                "Weight": 2
+              },
+              {
+                "TypeName": "iceage_weasel",
+                "Weight": 3
+              },
+              {
+                "TypeName": "iceage_imp",
+                "Weight": 5
+              },
+              {
+                "TypeName": "iceage",
+                "Weight": 1
+              }
+            ]
+          },
+          {
+            "Entries": [
+              {
+                "TypeName": "",
+                "Weight": 1
+              },
+              {
+                "TypeName": "iceage_imp",
+                "Weight": 3
+              },
+              {
+                "TypeName": "iceage",
+                "Weight": 3
+              }
+            ]
+          },
+          {
+            "Entries": [
+              {
+                "TypeName": "",
+                "Weight": 1
+              },
+              {
+                "TypeName": "iceage_imp",
+                "Weight": 2
+              },
+              {
+                "TypeName": "iceage",
+                "Weight": 5
+              }
+            ]
+          },
+          {
+            "Entries": [
+              {
+                "TypeName": "",
+                "Weight": 0
+              },
+              {
+                "TypeName": "iceage_imp",
+                "Weight": 0
+              },
+              {
+                "TypeName": "iceage",
+                "Weight": 1
+              },
+              {
+                "TypeName": "iceage_armor3",
+                "Weight": 3
+              },
+              {
+                "TypeName": "iceage_hunter",
+                "Weight": 3
+              }
+            ]
+          },
+          {
+            "Entries": [
+              {
+                "TypeName": "",
+                "Weight": 0
+              },
+              {
+                "TypeName": "iceage",
+                "Weight": 0
+              },
+              {
+                "TypeName": "iceage_armor3",
+                "Weight": 4
+              },
+              {
+                "TypeName": "iceage_hunter",
+                "Weight": 3
+              },
+              {
+                "TypeName": "iceage_dodo",
+                "Weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "NewWaves"
+      ],
+      "objclass": "WaveManagerModuleProperties",
+      "objdata": {
+        "WaveManagerProps": "RTID(WaveManagerProps@CurrentLevel)"
+      }
+    },
+    {
+      "aliases": [
+        "WaveManagerProps"
+      ],
+      "objclass": "WaveManagerProperties",
+      "objdata": {
+        "Waves": []
+      }
+    }
+  ],
+  "version": 1
+}

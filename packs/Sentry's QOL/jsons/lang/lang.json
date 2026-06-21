@@ -1,0 +1,2671 @@
+{
+  "NPC": {
+    "ClickToContinue": {
+      "en": "CLICK TO CONTINUE",
+      "zh": "点击继续",
+      "es": "HAZ CLIC PARA CONTINUAR"
+    }
+  },
+  "CopyRight": {
+    "en": "©️ 2025 Electronic Arts lnc.",
+    "zh": "©️ 2025 Electronic Arts lnc.",
+    "es": "©️ 2025 Electronic Arts lnc."
+  },
+  "ZenGarden": {
+    "ShovelWindow": {
+      "Title": {
+        "en": "Are You Sure?",
+        "zh": "你确定吗？",
+        "es": "¿Estás seguro?"
+      },
+      "Remove": {
+        "en": "    You will lose the <PLANTNAME> and get nothing!",
+        "zh": "    你将会失去<PLANTNAME>，并且什么也得不到！",
+        "es": "Perderás <PLANTNAME> y no obtendrás nada."
+      },
+      "RemoveBoost": {
+        "en": "    You will lose the <PLANTNAME> but get a BOOST for it!",
+        "zh": "    你将会失去<PLANTNAME>，并为它争取到一次爆发！",
+        "es": "Perderás <PLANTNAME>, pero obtendrás un IMPULSO para ella."
+      },
+      "Boost": {
+        "en": "You've got a BOOST for the <PLANTNAME>!",
+        "zh": "你将会失去<PLANTNAME>，并为它争取到一次爆发！",
+        "es": "Has conseguido un IMPULSO para <PLANTNAME>."
+      },
+      "Cancel": {
+        "en": "CANCEL",
+        "zh": "取消",
+        "es": "CANCELAR"
+      },
+      "Confirm": {
+        "en": "CONFIRM",
+        "zh": "确定",
+        "es": "CONFIRMAR"
+      }
+    }
+  },
+  "LoadingScene": {
+    "ZenGarden": {
+      "en": "LOADING ZEN GARDEN...",
+      "zh": "载入禅境花园...",
+      "es": "CARGANDO JARDÍN ZEN..."
+    },
+    "Materials": {
+      "en": "LOADING MATERIALS...",
+      "zh": "载入材质...",
+      "es": "CARGANDO MATERIALES..."
+    },
+    "Plants": {
+      "en": "LOADING PLANTS...",
+      "zh": "载入植物...",
+      "es": "CARGANDO PLANTAS..."
+    },
+    "Zombies": {
+      "en": "LOADING ZOMBIES...",
+      "zh": "载入僵尸...",
+      "es": "CARGANDO ZOMBIS..."
+    },
+    "Dinosaurs": {
+      "en": "LOADING DINOSAURS...",
+      "zh": "载入恐龙...",
+      "es": "CARGANDO DINOSAURIOS..."
+    },
+    "Musics": {
+      "en": "LOADING MUSICS...",
+      "zh": "载入音乐...",
+      "es": "CARGANDO MÚSICA..."
+    },
+    "SFXs": {
+      "en": "LOADING SFXS...",
+      "zh": "载入音效...",
+      "es": "CARGANDO EFECTOS DE SONIDO..."
+    },
+    "Levels": {
+      "en": "LOADING LEVELS...",
+      "zh": "载入关卡...",
+      "es": "CARGANDO NIVELES..."
+    },
+    "Droppings": {
+      "en": "LOADING DROPPINGS...",
+      "zh": "载入掉落物...",
+      "es": "CARGANDO OBJETOS..."
+    },
+    "Trophies": {
+      "en": "LOADING TROPHIES...",
+      "zh": "载入奖杯...",
+      "es": "CARGANDO TROFEOS..."
+    },
+    "Particles": {
+      "en": "LOADING PARTICLES...",
+      "zh": "载入粒子...",
+      "es": "CARGANDO PARTÍCULAS..."
+    },
+    "Worldmaps": {
+      "en": "LOADING WORLDMAPS...",
+      "zh": "载入地图...",
+      "es": "CARGANDO MAPAS DEL MUNDO..."
+    },
+    "Others": {
+      "en": "LOADING OTHER OBJECTS...",
+      "zh": "载入其他...",
+      "es": "CARGANDO OTROS OBJETOS..."
+    }
+  },
+  "MainScene": {
+    "Play": {
+      "en": "Play",
+      "zh": "开始游戏",
+      "es": "Jugar"
+    }
+  },
+  "Arcade": {
+    "Title": {
+      "en": "Decoding Minigame!",
+      "zh": "附加小游戏！"
+    },
+    "PlantDecoding": {
+      "GemEarned": {
+        "en": "You've earned @ today!",
+        "zh": "你今天已获得 @ ！"
+      },
+      "GemMissed": {
+        "en": "You've missed the gems today!",
+        "zh": "你错过了今天的钻石！"
+      },
+      "BaseCount": {
+        "en": "Plant Count",
+        "zh": "植物数量"
+      },
+      "CodeCount": {
+        "en": "Code Length",
+        "zh": "密码长度"
+      },
+      "StepTitle": {
+        "en": "Guesses: ",
+        "zh": "推测次数："
+      },
+      "Change": {
+        "en": "Wrong Slot",
+        "zh": "栏位错误"
+      },
+      "Correct": {
+        "en": "Correct",
+        "zh": "完全正确"
+      },
+      "Half": {
+        "en": "Partial",
+        "zh": "部分正确"
+      },
+      "Fault": {
+        "en": "All Wrong",
+        "zh": "完全错误"
+      },
+      "Confirm": {
+        "en": "CONFIRM",
+        "zh": "确认"
+      }
+    }
+  },
+  "WorldUnlockerLyrics": {
+    "Unlock": {
+      "en": "UNLOCK",
+      "zh": "解锁",
+      "es": "DESBLOQUEAR"
+    }
+  },
+  "SettingLyrics": {
+    "Title": {
+      "en": "Settings",
+      "zh": "设置",
+      "es": "Ajustes"
+    },
+    "MusicSpeed": {
+      "en": "Music Speed",
+      "zh": "音乐速率",
+      "es": "Velocidad de la música"
+    },
+    "Music": {
+      "en": "Music",
+      "zh": "音乐",
+      "es": "Música"
+    },
+    "SoundFX": {
+      "en": "Sound FX",
+      "zh": "音效",
+      "es": "Efectos de sonido"
+    },
+    "Language": {
+      "en": "Language",
+      "zh": "语言",
+      "es": "Idioma"
+    },
+    "Difficulty": {
+      "en": "Difficulty",
+      "zh": "难度",
+      "es": "Dificultad"
+    },
+    "Resolution": {
+      "en": "Resolution",
+      "zh": "分辨率",
+      "es": "Resolución"
+    },
+    "ResolutionDefault": {
+      "en": "Default",
+      "zh": "默认",
+      "es": "Predeterminado"
+    },
+    "CursorStyle": {
+      "en": "Cursor Style",
+      "zh": "鼠标样式",
+      "es": "Estilo del cursor"
+    },
+    "CursorStyleOptions": {
+      "Default": {
+        "en": "Default",
+        "zh": "默认",
+        "es": "Predeterminado"
+      },
+      "Soft": {
+        "en": "Soft",
+        "zh": "柔边",
+        "es": "Suave"
+      },
+      "Unchanged": {
+        "en": "Unchanged",
+        "zh": "跟随系统",
+        "es": "Sin cambios"
+      }
+    },
+    "CardLayer": {
+      "Title": {
+        "en": "Seedbank Layering",
+        "zh": "卡槽图层"
+      },
+      "Bottom": {
+        "en": "BOTTOM",
+        "zh": "置底"
+      },
+      "Transparent": {
+        "en": "TRANSPARENT",
+        "zh": "半透明"
+      },
+      "Top": {
+        "en": "TOP",
+        "zh": "置顶"
+      }
+    },
+    "AllowCheat": {
+      "en": "Allow Cheat",
+      "zh": "作弊",
+      "es": "Permitir trampas"
+    },
+    "ShowKeyboardTip": {
+      "en": "Show Key Binds",
+      "zh": "显示键位",
+      "es": "Mostrar teclas"
+    },
+    "PlantKeyboardTip": {
+      "en": "Show Plant Key Binds",
+      "zh": "显示植物键位",
+      "es": "Mostrar teclas de plantas"
+    },
+    "KeyBinds": {
+      "en": "Key Binds",
+      "zh": "键位绑定",
+      "es": "Asignación de teclas"
+    },
+    "ShowFPS": {
+      "en": "Show FPS",
+      "zh": "显示帧率",
+      "es": "Mostrar FPS"
+    },
+    "SandBoxLevel": {
+      "en": "Sandbox Level",
+      "zh": "沙盒关卡",
+      "es": "Nivel sandbox"
+    },
+    "SquareTipMode": {
+      "en": "Planting Indication Style",
+      "zh": "可种植点指示",
+      "es": "Estilo del indicador de plantación"
+    },
+    "SquareTipModeOptions": {
+      "EachSquare": {
+        "en": "Each Square",
+        "zh": "每一格",
+        "es": "Cada casilla"
+      },
+      "Crossing": {
+        "en": "Crossing",
+        "zh": "十字",
+        "es": "Cruz"
+      },
+      "None": {
+        "en": "Clear",
+        "zh": "无",
+        "es": "Ninguno"
+      }
+    },
+    "FullScreen": {
+      "en": "Full Screen",
+      "zh": "全屏",
+      "es": "Pantalla completa"
+    },
+    "AnimationMaxFrameRate": {
+      "en": "Max Frame Rate",
+      "zh": "最大帧率",
+      "es": "Frecuencia máxima de fotogramas"
+    },
+    "AnimationMaxFrameRateUnlimited": {
+      "en": "Unlimited",
+      "zh": "不限制",
+      "es": "Ilimitado"
+    },
+    "AnimationMaxFrameRateSuggestion": {
+      "en": "(Best to restart the game afterwards)",
+      "zh": "(建议在进入关卡后调整时，重新启动游戏)",
+      "es": "(Es mejor reiniciar el juego si lo cambias tras entrar en un nivel)"
+    },
+    "AudioLoadMode": {
+      "en": "Audio Load Mode",
+      "zh": "音频加载模式",
+      "es": "Modo de carga de audio"
+    },
+    "WebAudio": {
+      "en": "WEB\n(plays immediately, can be laggy)",
+      "zh": "WEB\n(加载更快，但音频可能卡顿)",
+      "es": "WEB\n(reproduce al instante, pero puede trabarse)"
+    },
+    "DomAudio": {
+      "en": "DOM\n(perfect quality, but deferred quality)",
+      "zh": "DOM\n(保证音质，但可能延迟)",
+      "es": "DOM\n(calidad perfecta, pero puede retrasarse)"
+    },
+    "QuitGame": {
+      "en": "Quit Game",
+      "zh": "退出",
+      "es": "Salir del juego"
+    },
+    "Bilibili": {
+      "EnterBilibili": {
+        "en": "Enter Bilibili UID(DO NOT ENTER RANDOMLY)",
+        "zh": "输入哔哩哔哩UID（建议复制粘贴再确认）",
+        "es": "Introduce el UID de Bilibili (no lo escribas al azar)"
+      },
+      "Confirm": {
+        "en": "CONFIRM",
+        "zh": "确认！",
+        "es": "CONFIRMAR"
+      },
+      "WhiteListRequire": {
+        "en": "",
+        "zh": "请跟作者沟通获取中文翻译白名单，或游玩木乃伊记忆无尽模式 3 小时"
+      }
+    },
+    "TileTurnip": {
+      "en": "Tile Turnip Pattern",
+      "zh": "瓷砖萝卜样式",
+      "es": "Patrón de Nabo de baldosas"
+    },
+    "ClassicCardBG": {
+      "en": "Classic Card Background",
+      "zh": "经典卡槽背景",
+      "es": "Fondo clásico de cartas"
+    },
+    "PocketUI": {
+      "en": "Vanilla Style UI",
+      "zh": "更接近原版的UI布局",
+      "es": "Interfaz estilo clásico"
+    },
+    "ZombieAlert": {
+      "en": "Zombie Alert",
+      "zh": "僵尸警报",
+      "es": "Alerta zombi"
+    },
+    "PlayerProperties": {
+      "en": "Player Properties",
+      "zh": "玩家数据",
+      "es": "Propiedades del jugador"
+    }
+  },
+  "PlayerListLyrics": {
+    "Title": {
+      "en": "Player List",
+      "zh": "玩家列表",
+      "es": "Lista de jugadores"
+    },
+    "Cancel": {
+      "en": "CANCEL",
+      "zh": "取消",
+      "es": "CANCELAR"
+    },
+    "DeleteTitle": {
+      "en": "Are You Sure?",
+      "zh": "你确定吗？",
+      "es": "¿Estás seguro?"
+    },
+    "DeleteIllustration": {
+      "en": "      If you delete the player you've selected, it will never return.",
+      "zh": "    如果你删除了选好的玩家，其将不可再恢复。",
+      "es": "Si eliminas al jugador seleccionado, no podrá recuperarse."
+    },
+    "Create": {
+      "en": "CREATE",
+      "zh": "新建",
+      "es": "CREAR"
+    },
+    "Edit": {
+      "en": "EDIT",
+      "zh": "编辑",
+      "es": "EDITAR"
+    },
+    "Import": {
+      "en": "IMPORT",
+      "zh": "导入",
+      "es": "IMPORTAR"
+    },
+    "Export": {
+      "en": "EXPORT",
+      "zh": "导出",
+      "es": "EXPORTAR"
+    },
+    "Confirm": {
+      "en": "CONFIRM",
+      "zh": "确认",
+      "es": "CONFIRMAR"
+    },
+    "Delete": {
+      "en": "DELETE",
+      "zh": "删除",
+      "es": "ELIMINAR"
+    }
+  },
+  "PlayerPropsLyrics": {
+    "Title": {
+      "en": "PLAYER PROPERTIES",
+      "zh": "玩家数据",
+      "es": "PROPIEDADES DEL JUGADOR"
+    },
+    "Save": {
+      "en": "SAVE",
+      "zh": "保存",
+      "es": "GUARDAR"
+    }
+  },
+  "SandboxLevelSettingLyrics": {
+    "Title": {
+      "en": "Sandbox Level Settings",
+      "zh": "沙盒模式设置",
+      "es": "Ajustes del nivel sandbox"
+    },
+    "SwitchStageEffect": {
+      "en": "Switch Eighties Effects",
+      "zh": "切换魔音舞台效果",
+      "es": "Cambiar efectos ochenteros"
+    },
+    "SwitchMusic": {
+      "en": "Switch Music",
+      "zh": "切换音乐",
+      "es": "Cambiar música"
+    },
+    "PushTide": {
+      "en": "Push/Spawn Tide",
+      "zh": "推动（召唤）海浪",
+      "es": "Empujar/invocar marea"
+    },
+    "PullTide": {
+      "en": "Pull Tide",
+      "zh": "拉回海浪",
+      "es": "Retirar marea"
+    },
+    "ChangeCards": {
+      "en": "Change Cards",
+      "zh": "更换卡片",
+      "es": "Cambiar cartas"
+    },
+    "ChangeCardsKeyTip": {
+      "en": "Mouse Wheel At Cards",
+      "zh": "卡片处鼠标滚轮",
+      "es": "Rueda del ratón sobre las cartas"
+    },
+    "SuperSlow": {
+      "en": "Time Freeze",
+      "zh": "时间停滞",
+      "es": "Tiempo congelado"
+    },
+    "SpawnZombies": {
+      "en": "Spawn Random Zombies",
+      "zh": "召唤随机僵尸",
+      "es": "Invocar zombis aleatorios"
+    },
+    "SwitchLawn": {
+      "en": "Switch The Lawn",
+      "zh": "切换草坪",
+      "es": "Cambiar césped"
+    },
+    "FreePlant": {
+      "en": "Free Plants",
+      "zh": "无视阳光需求",
+      "es": "Plantas gratis"
+    },
+    "CoolDownOff": {
+      "en": "Cooldown Off",
+      "zh": "关闭卡槽冷却",
+      "es": "Sin enfriamiento"
+    },
+    "FreePlantfood": {
+      "en": "Free Plantfood",
+      "zh": "无视叶绿素需求",
+      "es": "Alimento vegetal gratis"
+    },
+    "DropSunFromSky": {
+      "en": "Drop Suns From Sky",
+      "zh": "天上阳光掉落",
+      "es": "Caída de soles"
+    }
+  },
+  "InGameScene": {
+    "LetsRock": {
+      "en": "Let's Rock!",
+      "zh": "一起摇滚吧！",
+      "es": "¡A luchar!"
+    },
+    "PresetLetsRock": {
+      "en": "Let's Rock!",
+      "zh": "开始！",
+      "es": "¡Empezar!"
+    },
+    "GamingWarn": {
+      "Ready": {
+        "en": "Ready...",
+        "zh": "准备...",
+        "es": "Preparados..."
+      },
+      "Set": {
+        "en": "Set...",
+        "zh": "好...",
+        "es": "Listos..."
+      },
+      "Fight": {
+        "en": "FIGHT!",
+        "zh": "开打！",
+        "es": "¡A LUCHAR!"
+      },
+      "Plant": {
+        "en": "PLANT!",
+        "zh": "种植！",
+        "es": "¡PLANTA!"
+      },
+      "Match": {
+        "en": "MATCH!",
+        "zh": "配对！",
+        "es": "¡EMPAREJA!"
+      },
+      "Swap": {
+        "en": "SWAP!",
+        "zh": "配对！",
+        "es": "¡INTERCAMBIA!"
+      },
+      "Roll": {
+        "en": "ROLL!",
+        "zh": "投球！",
+        "es": "¡LANZA!"
+      },
+      "Music": {
+        "en": "MUSIC!",
+        "zh": "音乐！",
+        "es": "¡MÚSICA!"
+      },
+      "Fire": {
+        "en": "FIRE!",
+        "zh": "开火！",
+        "es": "¡FUEGO!"
+      },
+      "PlanYourDefenses": {
+        "en": "Plan your defenses!",
+        "zh": "布阵！",
+        "es": "¡Prepara tus defensas!"
+      },
+      "HugeWave": {
+        "en": "A HUGE WAVE OF ZOMBIES IS APPROACHING!",
+        "zh": "一大波僵尸即将来临！",
+        "es": "¡SE ACERCA UNA ENORME OLA DE ZOMBIS!"
+      },
+      "FinalWave": {
+        "en": "FINAL WAVE!",
+        "zh": "最后一波攻势！",
+        "es": "¡OLA FINAL!"
+      }
+    },
+    "WaveEvent": {
+      "[WARNING_LEPRACHAUNS]": {
+        "LabelR": 50,
+        "LabelG": 250,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 255,
+        "OutLineG": 92,
+        "OutLineB": 0,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Leprechauns!",
+          "zh": "小矮妖来袭！"
+        }
+      },
+      "[WARNING_EGGS]": {
+        "LabelR": 255,
+        "LabelG": 0,
+        "LabelB": 245,
+        "LabelAInit": 0,
+        "OutLineR": 0,
+        "OutLineG": 184,
+        "OutLineB": 255,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "EGGS!",
+          "zh": "彩蛋！"
+        }
+      },
+      "[WARNING_THUNDER_STRIKE]": {
+        "LabelR": 0,
+        "LabelG": 235,
+        "LabelB": 255,
+        "LabelAInit": 0,
+        "OutLineR": 87,
+        "OutLineG": 87,
+        "OutLineB": 87,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Lightning Strike!",
+          "zh": "电闪雷鸣！",
+          "es": "¡Relámpagos!"
+        }
+      },
+      "[WARNING_QIGONG_STRIKE]": {
+        "LabelR": 255,
+        "LabelG": 143,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 255,
+        "OutLineG": 245,
+        "OutLineB": 0,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Qigong Strike!",
+          "zh": "气功突袭！",
+          "es": "¡Ataque de qigong!"
+        }
+      },
+      "[WARNING_QIGONG_HOLE]": {
+        "LabelR": 255,
+        "LabelG": 143,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 255,
+        "OutLineG": 245,
+        "OutLineB": 0,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Qigong Trial!",
+          "zh": "气功试炼！",
+          "es": "¡Prueba de qigong!"
+        }
+      },
+      "[WARNING_ROCKET_STRIKE]": {
+        "LabelR": 255,
+        "LabelG": 0,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 255,
+        "OutLineG": 245,
+        "OutLineB": 0,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Rocket Strike!",
+          "zh": "火箭突袭！",
+          "es": "¡Ataque con cohetes!"
+        }
+      },
+      "[WARNING_GRAVESTONE_SPAWN]": {
+        "LabelR": 255,
+        "LabelG": 68,
+        "LabelB": 255,
+        "LabelAInit": 0,
+        "OutLineR": 112,
+        "OutLineG": 0,
+        "OutLineB": 255,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Necromancy!",
+          "zh": "亡灵返乡！",
+          "es": "¡Nigromancia!"
+        }
+      },
+      "[WARNING_JETPACKRAIN]": {
+        "LabelR": 255,
+        "LabelG": 112,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 0,
+        "OutLineG": 42,
+        "OutLineB": 173,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Blastronautical Burst!",
+          "zh": "喷气暴乱！",
+          "es": "¡Estallido blastronáutico!"
+        }
+      },
+      "[WARNING_PILOTRAIN]": {
+        "LabelR": 202,
+        "LabelG": 255,
+        "LabelB": 253,
+        "LabelAInit": 0,
+        "OutLineR": 0,
+        "OutLineG": 34,
+        "OutLineB": 48,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Pilot Lightning!",
+          "zh": "闪电战！",
+          "es": "¡Relámpago aéreo!"
+        }
+      },
+      "[WARNING_SPIDERRAIN]": {
+        "LabelR": 255,
+        "LabelG": 214,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 82,
+        "OutLineG": 82,
+        "OutLineB": 82,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Bot Swarm!",
+          "zh": "机械虫灾！",
+          "es": "¡Enjambre de bots!"
+        }
+      },
+      "[WARNING_SAPSPAWN]": {
+        "LabelR": 255,
+        "LabelG": 184,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 255,
+        "OutLineG": 92,
+        "OutLineB": 0,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Sap Spawn!",
+          "zh": "琥珀复苏！",
+          "es": "¡Brote de savia!"
+        }
+      },
+      "[WARNING_MISSILE]": {
+        "LabelR": 255,
+        "LabelG": 184,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 0,
+        "OutLineG": 0,
+        "OutLineB": 0,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Missile Loaded!",
+          "zh": "导弹上膛！",
+          "es": "¡Misil cargado!"
+        }
+      },
+      "[WARNING_LOW_TIDE]": {
+        "LabelR": 0,
+        "LabelG": 255,
+        "LabelB": 255,
+        "LabelAInit": 0,
+        "OutLineR": 0,
+        "OutLineG": 82,
+        "OutLineB": 121,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Low Tide!",
+          "zh": "退潮！",
+          "es": "¡Marea baja!"
+        }
+      },
+      "[WARNING_PARACHUTERAIN]": {
+        "LabelR": 255,
+        "LabelG": 102,
+        "LabelB": 0,
+        "LabelAInit": 0,
+        "OutLineR": 1,
+        "OutLineG": 110,
+        "OutLineB": 119,
+        "Sound": "SandStorm",
+        "Duration": 5,
+        "LabelInitScale": 4,
+        "LabelTargetScale": 0.5,
+        "InitTime": 0.33,
+        "StringMultiLanguage": {
+          "en": "Parachute Rain!",
+          "zh": "空袭！",
+          "es": "¡Lluvia de paracaídas!"
+        }
+      },
+      "Sandstorm": {
+        "en": "Sandstorm!",
+        "zh": "沙尘暴！",
+        "es": "¡Tormenta de arena!"
+      },
+      "Snowstorm": {
+        "en": "Snowstorm!",
+        "zh": "暴风雪！",
+        "es": "¡Tormenta de nieve!"
+      },
+      "RaidingParty": {
+        "en": "Raiding Party!",
+        "zh": "掠夺狂欢！",
+        "es": "¡Grupo de asalto!"
+      }
+    },
+    "GameLoseTip": {
+      "BrainEaten": {
+        "en": "THE ZOMBIES ATE YOUR BRAIN!",
+        "zh": "僵尸吃掉了你的脑子！",
+        "es": "¡LOS ZOMBIS SE COMIERON TU CEREBRO!"
+      },
+      "ShipDestroyed": {
+        "en": "THE ZOMBIES DESTROYED YOUR SHIP!",
+        "zh": "僵尸击落了你的飞船！",
+        "es": "¡LOS ZOMBIS DESTRUYERON TU NAVE!"
+      },
+      "PlantEaten": {
+        "en": "THE ZOMBIES EXECUTED YOUR PLANT!",
+        "zh": "僵尸干掉了你的植物！",
+        "es": "¡LOS ZOMBIS ACABARON CON TU PLANTA!"
+      },
+      "TNTExploded": {
+        "en": "THE ZOMBIES TRIGGERED YOUR DYNAMITE!",
+        "zh": "僵尸引爆了你的炸药桶！",
+        "es": "¡LOS ZOMBIS HICIERON EXPLOTAR TU DINAMITA!"
+      }
+    },
+    "Challenge": {
+      "Left": {
+        "en": "<COUNT> Left",
+        "zh": "剩余 <COUNT>",
+        "es": "Quedan <COUNT>"
+      },
+      "PlantCountLimit": {
+        "en": "Never have more than <PLANTCOUNT> plant<S>",
+        "zh": "场上不存在超过 <PLANTCOUNT> 株植物",
+        "es": "Nunca tengas más de <PLANTCOUNT> planta<S>"
+      },
+      "PlantProtection": {
+        "en": "Survive and protect the endangered plants",
+        "zh": "存活并保护濒危的植物",
+        "es": "Sobrevive y protege las plantas en peligro"
+      },
+      "PlantLoseLimit": {
+        "en": "Do not lose more than <PLANTCOUNT> plant<S>",
+        "zh": "失去不超过 <PLANTCOUNT> 株植物",
+        "es": "No pierdas más de <PLANTCOUNT> planta<S>"
+      },
+      "LastStand": {
+        "en": "Plan your defence and defeat the zombies",
+        "zh": "提前布阵并击败僵尸",
+        "es": "Planea tu defensa y derrota a los zombis"
+      },
+      "SunCostLimit": {
+        "en": "Spend no more than <SUNCOUNT> sun",
+        "zh": "不花费超过 <SUNCOUNT> 阳光",
+        "es": "No gastes más de <SUNCOUNT> de sol"
+      },
+      "SunProduceRequest": {
+        "en": "Produce at least <SUNCOUNT> sun",
+        "zh": "生产至少 <SUNCOUNT> 阳光",
+        "es": "Produce al menos <SUNCOUNT> de sol"
+      },
+      "SunCostCountdown": {
+        "en": "Do not spend any sun for <TIME> second<S>",
+        "zh": "在 <TIME> 秒内不花费阳光",
+        "es": "No gastes nada de sol durante <TIME> segundo<S>"
+      },
+      "ZombieKillCountDown": {
+        "en": "Kill <ZOMBIECOUNT> zombie<ZS> in <TIME> second<TS>",
+        "zh": "在 <TIME> 秒内击杀 <ZOMBIECOUNT> 个僵尸",
+        "es": "Mata a <ZOMBIECOUNT> zombi<ZS> en <TIME> segundo<TS>"
+      },
+      "SurviveAttack": {
+        "en": "Survive the zombie attack",
+        "zh": "抵御僵尸的袭击",
+        "es": "Sobrevive al ataque zombi"
+      },
+      "SurviveMassiveAttack": {
+        "en": "Survive a massive attack in the <WORLDNAME>",
+        "zh": "在<WORLDNAME>的一场大袭击中存活",
+        "es": "Sobrevive a un ataque masivo en <WORLDNAME>"
+      },
+      "SurviveFightAlone": {
+        "en": "Survive with the only plant you've got",
+        "zh": "使用唯一的这株植物打败僵尸",
+        "es": "Sobrevive con la única planta que tienes"
+      },
+      "SurviveWithoutMower": {
+        "en": "Survive without any lawn mowers",
+        "zh": "在不受小推车保护的情况下存活",
+        "es": "Sobrevive sin ningún cortacésped"
+      },
+      "SurviveWhileTNT": {
+        "en": "Survive without triggering the barrels of dynamite",
+        "zh": "在不引燃任何炸药桶的前提下存活",
+        "es": "Sobrevive sin detonar los barriles de dinamita"
+      },
+      "SunBomb": {
+        "en": "Survive while Sun Bombs fall",
+        "zh": "在太阳炸弹的奇袭下存活",
+        "es": "Sobrevive mientras caen bombas solares"
+      },
+      "MoldColonies": {
+        "en": "Survive without planting on Dave's mold colonies",
+        "zh": "不许种植在布满霉菌的地板上",
+        "es": "Sobrevive sin plantar sobre los mohos de Dave"
+      },
+      "Deadline": {
+        "en": "Complete the level within <COUNTDOWN> seconds",
+        "zh": "在 <COUNTDOWN> 秒内完成关卡",
+        "es": "Completa el nivel en <COUNTDOWN> segundos"
+      },
+      "FlowerLine": {
+        "en": "Don't let the zombies trample the flowers",
+        "zh": "别让僵尸踩坏鲜花",
+        "es": "No dejes que los zombis pisoteen las flores"
+      },
+      "Potion": {
+        "en": "Survive while evil potions boost zombies",
+        "zh": "在被药水强化的僵尸的袭击下存活",
+        "es": "Sobrevive mientras las pociones malvadas potencian a los zombis"
+      },
+      "GivenPlants": {
+        "en": "Survive the zombie attack with the given plants",
+        "zh": "使用给定的植物抵御僵尸的袭击",
+        "es": "Sobrevive al ataque zombi con las plantas dadas"
+      },
+      "CamelTouch": {
+        "en": "Match symbols to destroy the zombies",
+        "zh": "匹配相应的图案，击溃所有的僵尸",
+        "es": "Empareja símbolos para destruir a los zombis"
+      },
+      "CannonAway": {
+        "en": "Reach the target score",
+        "zh": "达到目标分数",
+        "es": "Alcanza la puntuación objetivo"
+      },
+      "QigongHole": {
+        "en": "Survive while Qigong Blackholes sweep your lawn",
+        "zh": "在气功黑洞的席卷下存活",
+        "es": "Sobrevive mientras los agujeros negros de qigong arrasan tu césped"
+      },
+      "Bowling": {
+        "en": "Deliver bowling balls to grind the zombies",
+        "zh": "投出保龄球，压垮所有的僵尸",
+        "es": "Lanza bolas de bolos para aplastar a los zombis"
+      }
+    }
+  },
+  "WorldMapScene": {
+    "World": {
+      "Default": {
+        "Name": {
+          "en": "Unknown World",
+          "zh": "未知",
+          "es": "Mundo desconocido"
+        },
+        "EndlessZoneName": {
+          "en": "Unknown Dangerroom",
+          "zh": "未知",
+          "es": "Sala del Peligro desconocida"
+        },
+        "EndlessZoneMiniGameName": {
+          "en": "Unknown Dangerroom Mini Game",
+          "zh": "未知",
+          "es": "Minijuego desconocido de la Sala del Peligro"
+        },
+        "Description": {
+          "en": "No description!",
+          "zh": "无描述！",
+          "es": "Sin descripción."
+        }
+      },
+      "Tutorial": {
+        "Name": {
+          "en": "Your House",
+          "zh": "你的房子",
+          "es": "Tu casa"
+        },
+        "EndlessZoneName": {
+          "en": "Your House",
+          "zh": "你的房子",
+          "es": "Tu casa"
+        },
+        "EndlessZoneMiniGameName": {
+          "en": "Your House",
+          "zh": "你的房子",
+          "es": "Tu casa"
+        },
+        "Description": {
+          "en": "Your house.",
+          "zh": "你的房子。",
+          "es": "Tu casa."
+        }
+      },
+      "Egypt": {
+        "Name": {
+          "en": "Ancient Egypt",
+          "zh": "神秘埃及",
+          "es": "Antiguo Egipto"
+        },
+        "EndlessZoneName": {
+          "en": "Pyramid of Doom",
+          "zh": "末日金字塔",
+          "es": "Pirámide de la perdición"
+        },
+        "EndlessZoneMiniGameName": {
+          "en": "Mummy Memory",
+          "zh": "木乃伊记忆",
+          "es": "Memoria momia"
+        },
+        "Description": {
+          "en": "Zombies infest one of Earth's earliest civilizations! Tackle mummified monsters and more under the scorching sun of Egypt, circa 2500 BC!",
+          "zh": "僵尸入侵了地球上最早的文明之一！现在还是大约公元前2500年，在埃及那炙热的阳光下，解决掉成群的干尸吧！",
+          "es": "Los zombis invaden una de las civilizaciones más antiguas de la Tierra. Enfréntate a momias y otros monstruos bajo el abrasador sol de Egipto, hacia el 2500 a. C."
+        }
+      },
+      "Pirate": {
+        "Name": {
+          "en": "Pirate Seas",
+          "zh": "海盗港湾",
+          "es": "Mares Piratas"
+        },
+        "EndlessZoneName": {
+          "en": "Dead Man's Booty",
+          "zh": "死人的遗产",
+          "es": "Botín del muerto"
+        },
+        "Description": {
+          "en": "The year is 1679, the golden age of zombie piracy! Keep your booty close, and your plants closer, as the zombies take to the sea to plunder your brains!",
+          "zh": "现在是 1679 年，是僵尸海盗文化的黄金时代！把你的赃物保管好，更别离开你的植物们，因为现在僵尸们正要出海捕获你的大脑！",
+          "es": "Corre el año 1679, la edad de oro de la piratería zombi. Vigila tu botín y mantén a tus plantas aún más cerca, porque los zombis se lanzan al mar para saquear tu cerebro."
+        }
+      },
+      "Cowboy": {
+        "Name": {
+          "en": "Wild West",
+          "zh": "狂野西部",
+          "es": "Salvaje Oeste"
+        },
+        "EndlessZoneName": {
+          "en": "Big Bad Butte",
+          "zh": "罪恶孤岭",
+          "es": "La colina del mal"
+        },
+        "Description": {
+          "en": "Head down the dusty trail for a showdown with the outlaw zombies of yesteryear! Gather up your plants for the big Brain Rush of 1850!",
+          "zh": "乘着满是灰尘的马车，前去和曾经是一群法外狂徒的僵尸们进行一场决战吧！带上你的全部植物，应对1850年的这场“掏脑热”！",
+          "es": "Recorre el polvoriento camino y enfréntate a los zombis forajidos de antaño. Reúne a tus plantas para la gran fiebre de cerebros de 1850."
+        }
+      },
+      "Kongfu": {
+        "Name": {
+          "en": "Kongfu Temple",
+          "zh": "武林寺庙",
+          "es": "Templo Kongfu"
+        },
+        "EndlessZoneName": {
+          "en": "Martial Arts Competitions",
+          "zh": "八方会武",
+          "es": "Torneo de artes marciales"
+        },
+        "Description": {
+          "en": "Back to the year 1673, when kongfu culture is prevalent all over China. Are you prepared for the battle between the skilled plants and the experienced zombies?",
+          "zh": "回到 1673 年，少林武术盛行天下，身怀绝技的植物对战久经沙场的僵尸，你准备好了吗？",
+          "es": "Regresa al año 1673, cuando la cultura kongfu se extendía por toda China. ¿Estás preparado para la batalla entre plantas expertas y zombis curtidos?"
+        }
+      },
+      "Future": {
+        "Name": {
+          "en": "Far Future",
+          "zh": "遥远未来",
+          "es": "Futuro Lejano"
+        },
+        "EndlessZoneName": {
+          "en": "Terror from Tomorrow",
+          "zh": "明日动乱",
+          "es": "Terror del mañana"
+        },
+        "Description": {
+          "en": "In the year 2323, the zombies will have brain extraction down to a science! Can the plants of the future save you from the undead of tomorrow?",
+          "zh": "在 2323 年，僵尸们将把大脑提取技术发展得炉火纯青！未来的植物能够拯救你免受明日行尸走肉的侵袭吗？",
+          "es": "En el año 2323, los zombis habrán convertido la extracción de cerebros en toda una ciencia. ¿Podrán las plantas del futuro salvarte de los no muertos del mañana?"
+        }
+      },
+      "Dark": {
+        "Name": {
+          "en": "Dark Ages",
+          "zh": "黑暗时代",
+          "es": "Edad Oscura"
+        },
+        "EndlessZoneName": {
+          "en": "Arthur's Challenge",
+          "zh": "亚瑟的挑战",
+          "es": "El desafío de Arturo"
+        },
+        "Description": {
+          "en": "Bring out your undead to the year 948! Harvest mushrooms in the dark of knight and get medieval on zombies from the days of yore!",
+          "zh": "来到 948 年！在骑士时代的黑暗中采摘蘑菇，用中世纪的方式对付那些古老年代的僵尸！",
+          "es": "Viaja al año 948. Cosecha setas en plena noche de caballeros y enfréntate a los zombis medievales de tiempos remotos."
+        }
+      },
+      "Beach": {
+        "Name": {
+          "en": "Big Wave Beach",
+          "zh": "巨浪沙滩",
+          "es": "Big Wave Beach"
+        },
+        "EndlessZoneName": {
+          "en": "Tiki Torch-er",
+          "zh": "提基火炬手",
+          "es": "Tiki antorchero"
+        },
+        "EndlessZoneMiniGameName": {
+          "en": "Wall-nut Bowling",
+          "zh": "坚果保龄球",
+          "es": "Bolos de nuez muro"
+        },
+        "Description": {
+          "en": "Take a trip back to the '60s and hang the ten on the ocean waves! Tides are changing and those gnarly zombies make it not-so-safe to go back in the water!",
+          "zh": "回到 20 世纪 60 年代，冲上那汹涌的海浪，尽情享受冲浪的乐趣吧！潮水正在变化，那些可怕的僵尸让海水不再安全，你还敢轻易回到水中吗？",
+          "es": "Viaja de vuelta a los años 60 y surfea sobre las olas del océano. Las mareas cambian y esos zombis salvajes hacen que volver al agua ya no sea tan seguro."
+        }
+      },
+      "Iceage": {
+        "Name": {
+          "en": "Frostbite Caves",
+          "zh": "极寒冰窟",
+          "es": "Cuevas Heladas"
+        },
+        "EndlessZoneName": {
+          "en": "Icebound Battleground",
+          "zh": "冰封沙场",
+          "es": "Campo de batalla helado"
+        },
+        "Description": {
+          "en": "Explore the frozen wastes of prehistory and chill out with the coolest zombies ever. Beware the winds or your plants will be frozen veggies.",
+          "zh": "探索史前时期的冰冻荒原，与冷血的僵尸在冰天雪地中战斗。当心那刺骨的寒风，不然你的植物就会变成冷冻蔬菜。",
+          "es": "Explora los parajes helados de la prehistoria y enfréntate a los zombis más fríos de todos. Cuidado con el viento, o tus plantas acabarán convertidas en verduras congeladas."
+        }
+      },
+      "Lostcity": {
+        "Name": {
+          "en": "Lost City",
+          "zh": "遗落古城",
+          "es": "Ciudad Perdida"
+        },
+        "EndlessZoneName": {
+          "en": "Temple of Bloom",
+          "zh": "花开庙宇",
+          "es": "Templo en flor"
+        },
+        "Description": {
+          "en": "Discover the vanished city of gold, where sun is plentiful and misplaced zombies abound! Use special tiles for extra sun, for these treasure-seekers are no idol threat!",
+          "zh": "探索那座消失的黄金之城，那里阳光充足，迷路的僵尸四处徘徊！利用特殊的地砖来获取额外的阳光，因为这些寻宝的僵尸可不是摆设，他们威胁十足！",
+          "es": "Descubre la ciudad dorada perdida, donde sobra el sol y abundan los zombis extraviados. Usa las casillas especiales para conseguir sol extra, porque estos buscatesoros no son ninguna amenaza decorativa."
+        }
+      },
+      "Eighties": {
+        "Name": {
+          "en": "Neon Mixtape Tour",
+          "zh": "炫光魔音游",
+          "es": "Neon Mixtape Tour"
+        },
+        "EndlessZoneName": {
+          "en": "Greatest Hits",
+          "zh": "劲爆节拍",
+          "es": "Grandes éxitos"
+        },
+        "Description": {
+          "en": "Stock up on hairspray and rewind to the 1980s! With synthesized music and voraciously radical zombies, this heinous party will, like, totally tax you to the MAX!",
+          "zh": "囤上发胶，倒带回到20世纪80年代！这里有带劲的合成音乐，但也有极度狂暴的僵尸，这场邪恶的派对会让人嗨到爆的！",
+          "es": "Haz acopio de laca y rebobina hasta los años 80. Con música sintetizada y zombis radicales devoradores, esta fiesta infernal te pondrá al límite."
+        }
+      },
+      "Dino": {
+        "Name": {
+          "en": "Jurassic Marsh",
+          "zh": "侏罗纪沼泽",
+          "es": "Pantano Jurásico"
+        },
+        "EndlessZoneName": {
+          "en": "La Brainsa Tarpits",
+          "zh": "脑焦油坑",
+          "es": "Fosas de brea cerebral"
+        },
+        "Description": {
+          "en": "The ground thunders under the awful feet of terrible lizards! Dinosaurs prowl the past, provoking prehistoric zombies into a frenzy of ancient antipathy!",
+          "zh": "在巨型蜥蜴的踩踏中，地面轰隆作响！恐龙在过去霸占了一切，激起了史前僵尸们古老的敌意，使他们陷入狂暴的愤怒之中！",
+          "es": "La tierra tiembla bajo los pies de terribles lagartos. Los dinosaurios recorren el pasado y empujan a los zombis prehistóricos a una furia ancestral."
+        }
+      },
+      "Sky": {
+        "Name": {
+          "en": "Aerial Fortress",
+          "zh": "云端堡垒",
+          "es": "Fortaleza aérea"
+        },
+        "EndlessZoneName": {
+          "en": "Thunder Firmament",
+          "zh": "雷鸣苍穹",
+          "es": "Fosas de brea cerebral"
+        },
+        "Description": {
+          "en": "This is the vast, endless sky, with clouds full of dangerous lightning. Zombies pilot all kinds of hazardous weapons — you will face challenges like never before.",
+          "zh": "这是广阔的无尽天空，云层中满是危险的雷电。僵尸们驾驶着各种危险的武器，你将遇到前所未有的挑战。",
+          "es": "Este es el vasto cielo sin fin, con nubes cargadas de relámpagos peligrosos. Los zombis pilotan toda clase de armas letales: te enfrentarás a desafíos nunca vistos."
+        }
+      },
+      "Modern": {
+        "Name": {
+          "en": "Modern Day",
+          "zh": "现代时光",
+          "es": "Edad Moderna"
+        },
+        "EndlessZoneName": {
+          "en": "Highway to the Danger Room",
+          "zh": "登峰造极",
+          "es": "Autopista hacia la Sala del Peligro"
+        },
+        "Description": {
+          "en": "The end is the beginning! Return to moments before you left in a contemporary contest stocked with zombies of every egregious era!",
+          "zh": "终点即是起点！回到你离开前的那段时光，接受来自各个年代的僵尸的洗礼！",
+          "es": "El final es el principio. Regresa al momento justo antes de partir, en un desafío contemporáneo lleno de zombis de todas las épocas más atroces."
+        }
+      }
+    }
+  },
+  "Dangerroom": {
+    "Chooser": {
+      "en": "Select a card to add to your progression!",
+      "zh": "选择一张卡片加入到您的阵营！",
+      "es": "¡Selecciona una carta para añadirla a tu progreso!"
+    },
+    "Accept": {
+      "en": "ACCEPT",
+      "zh": "确定",
+      "es": "ACEPTAR"
+    }
+  },
+  "AirRaid": {
+    "Title": {
+      "en": "Choose Your Team!",
+      "zh": "选择你的小队！",
+      "es": "¡Elige tu equipo!"
+    },
+    "Accept": {
+      "en": "Let's Rock!",
+      "zh": "一起摇滚吧！",
+      "es": "¡A luchar!"
+    }
+  },
+  "CardDecks": {
+    "CustomCardDecks": {
+      "en": "Customized Card Decks",
+      "zh": "自制卡组",
+      "es": "Mazos personalizados"
+    },
+    "RecommendedCardDecks": {
+      "en": "Recommended Card Decks",
+      "zh": "推荐卡组",
+      "es": "Mazos recomendados"
+    },
+    "ChallengingCardDecks": {
+      "en": "Challenging Card Decks",
+      "zh": "挑战卡组",
+      "es": "Mazos desafiantes"
+    },
+    "Title": {
+      "en": "Card Decks",
+      "zh": "卡组",
+      "es": "Mazos"
+    },
+    "Description": {
+      "en": "Quickly Choose Your Seeds!",
+      "zh": "快速选择你的卡牌！",
+      "es": "¡Elige tus semillas rápidamente!"
+    },
+    "CreateTitle": {
+      "en": "Create a New Card Deck!",
+      "zh": "创建一个新卡组！",
+      "es": "¡Crea un mazo nuevo!"
+    },
+    "EditTitle": {
+      "en": "Edit...",
+      "zh": "编辑……",
+      "es": "Editar..."
+    },
+    "Enter": {
+      "en": "Enter the title of your card deck...",
+      "zh": "输入卡组的标题……",
+      "es": "Escribe el título de tu mazo..."
+    },
+    "NewCardDeck": {
+      "en": "New Card Deck",
+      "zh": "新卡组",
+      "es": "Mazo nuevo"
+    },
+    "Create": {
+      "en": "CREATE",
+      "zh": "创建",
+      "es": "CREAR"
+    },
+    "Done": {
+      "en": "DONE",
+      "zh": "完成",
+      "es": "LISTO"
+    },
+    "Delete": {
+      "en": "DELETE",
+      "zh": "删除",
+      "es": "ELIMINAR"
+    }
+  },
+  "PlantMedals": {
+    "Title": {
+      "en": "Plant Medals",
+      "zh": "植物徽章",
+      "es": "Medallas de plantas"
+    },
+    "Unlock": {
+      "en": "UNLOCK",
+      "zh": "解锁",
+      "es": "DESBLOQUEAR"
+    },
+    "Description": {
+      "en": "Unlock each plant medal with <TARGETBOOSTCOUNT> boosts.",
+      "zh": "积累 <TARGETBOOSTCOUNT> 个爆发解锁各个植物勋章。",
+      "es": "Desbloquea cada medalla de planta con <TARGETBOOSTCOUNT> impulsos."
+    },
+    "ComingSoon": {
+      "en": "Coming\nSoon",
+      "zh": "即将\n到来",
+      "es": "Muy\npronto"
+    }
+  },
+  "GamePaused": {
+    "Title": {
+      "en": "Game Paused",
+      "zh": "游戏暂停",
+      "es": "Juego en pausa"
+    },
+    "ExitToMap": {
+      "en": "EXIT LEVEL",
+      "zh": "退出游戏",
+      "es": "SALIR DEL NIVEL"
+    },
+    "Restart": {
+      "en": "RESTART",
+      "zh": "重新开始",
+      "es": "REINICIAR"
+    },
+    "Resume": {
+      "en": "RESUME",
+      "zh": "继续游戏",
+      "es": "CONTINUAR"
+    },
+    "ExitTitle": {
+      "en": "Exit Level?",
+      "zh": "退出关卡？",
+      "es": "¿Salir del nivel?"
+    },
+    "ExitDescription": {
+      "en": "Are you sure you want to exit the level?\nDoing so will lose your current progress in this level.",
+      "zh": "你确定要退出本关吗？\n这样做将会使你失去本关的全部进度。",
+      "es": "¿Seguro que quieres salir del nivel?\nSi lo haces, perderás tu progreso actual en este nivel."
+    },
+    "ExitSure": {
+      "en": "EXIT",
+      "zh": "退出",
+      "es": "SALIR"
+    },
+    "ExitCancel": {
+      "en": "CANCEL",
+      "zh": "取消",
+      "es": "CANCELAR"
+    },
+    "RestartTitle": {
+      "en": "Restart Level?",
+      "zh": "重新开始？",
+      "es": "¿Reiniciar nivel?"
+    },
+    "RestartDescription": {
+      "en": "Are you sure you want to restart the level?",
+      "zh": "你确定要重新开始本关吗？",
+      "es": "¿Seguro que quieres reiniciar el nivel?"
+    },
+    "RestartSure": {
+      "en": "RESTART",
+      "zh": "重来",
+      "es": "REINICIAR"
+    },
+    "RestartCancel": {
+      "en": "CANCEL",
+      "zh": "取消",
+      "es": "CANCELAR"
+    }
+  },
+  "Almanac": {
+    "NeverDefeated": {
+      "en": "Yet to have been defeated.",
+      "zh": "尚未击败。",
+      "es": "Aún no ha sido derrotado."
+    },
+    "ViewOnMap": {
+      "en": "VIEW ON MAP",
+      "zh": "在地图中浏览",
+      "es": "VER EN EL MAPA"
+    },
+    "Speed": {
+      "en": "SPEED",
+      "zh": "速度",
+      "es": "VELOCIDAD"
+    },
+    "Toughness": {
+      "en": "TOUGHNESS",
+      "zh": "血量",
+      "es": "RESISTENCIA"
+    },
+    "SunCost": {
+      "en": "SUN COST",
+      "zh": "阳光消耗",
+      "es": "COSTE DE SOL"
+    },
+    "Special": {
+      "en": "SPECIAL",
+      "zh": "特点",
+      "es": "ESPECIAL"
+    },
+    "Recharge": {
+      "en": "RECHARGE",
+      "zh": "冷却时间",
+      "es": "RECARGA"
+    },
+    "GrowTime": {
+      "en": "GROW TIME",
+      "zh": "生长时间",
+      "es": "TIEMPO DE CRECIMIENTO"
+    },
+    "Damage": {
+      "en": "DAMAGE",
+      "zh": "伤害",
+      "es": "DAÑO"
+    },
+    "Duration": {
+      "en": "DURATION",
+      "zh": "持续时间",
+      "es": "DURACIÓN"
+    },
+    "Family": {
+      "en": "FAMILY",
+      "zh": "家族",
+      "es": "FAMILIA"
+    },
+    "Range": {
+      "en": "RANGE",
+      "zh": "索敌",
+      "es": "ALCANCE"
+    },
+    "Area": {
+      "en": "AREA",
+      "zh": "范围",
+      "es": "ÁREA"
+    },
+    "ArmingTime": {
+      "en": "ARMING TIME",
+      "zh": "装填时间",
+      "es": "TIEMPO DE ACTIVACIÓN"
+    },
+    "PlantFood": {
+      "en": "PLANT FOOD EFFECT",
+      "zh": "叶绿素效果",
+      "es": "EFECTO DEL NUTRIENTE"
+    },
+    "SunProduction": {
+      "en": "SUN PRODUCTION",
+      "zh": "阳光产量",
+      "es": "PRODUCCIÓN DE SOL"
+    }
+  },
+  "SeedChooser": {
+    "ChooseYourSeeds": {
+      "en": "Choose Your Seeds!",
+      "zh": "选择你的植物！",
+      "es": "¡Elige tus semillas!"
+    },
+    "BoostCount": {
+      "en": "LEFT BOOSTS:  <BOOST>",
+      "zh": "剩余爆发： <BOOST>",
+      "es": "IMPULSOS RESTANTES:  <BOOST>"
+    },
+    "BoostButton": {
+      "en": "BOOST",
+      "zh": "爆发",
+      "es": "POTENCIAR"
+    }
+  },
+  "PlantFamily": {
+    "Defence": {
+      "en": "Reinforce-mint Family",
+      "zh": "防御家族",
+      "es": "Familia Reinforce-mint"
+    },
+    "Shadow": {
+      "en": "Conceal-mint Family",
+      "zh": "暗影家族",
+      "es": "Familia Conceal-mint"
+    },
+    "Peashooter": {
+      "en": "Appease-mint Family",
+      "zh": "平射家族",
+      "es": "Familia Appease-mint"
+    },
+    "Fire": {
+      "en": "Pepper-mint Family",
+      "zh": "热辣家族",
+      "es": "Familia Pepper-mint"
+    },
+    "Cold": {
+      "en": "Winter-mint Family",
+      "zh": "寒冻家族",
+      "es": "Familia Winter-mint"
+    },
+    "Sharp": {
+      "en": "Spear-mint Family",
+      "zh": "穿刺家族",
+      "es": "Familia Spear-mint"
+    },
+    "Lobber": {
+      "en": "Arma-mint Family",
+      "zh": "军械家族",
+      "es": "Familia Arma-mint"
+    },
+    "Poison": {
+      "en": "Ail-mint Family",
+      "zh": "剧毒家族",
+      "es": "Familia Ail-mint"
+    },
+    "Electricity": {
+      "en": "Fila-mint Family",
+      "zh": "电能家族",
+      "es": "Familia Fila-mint"
+    },
+    "Slow": {
+      "en": "Contain-mint Family",
+      "zh": "滞缓家族",
+      "es": "Familia Contain-mint"
+    },
+    "Magic": {
+      "en": "Enchant-mint Family",
+      "zh": "魔法家族",
+      "es": "Familia Enchant-mint"
+    },
+    "Sun": {
+      "en": "Enlighten-mint Family",
+      "zh": "启明家族",
+      "es": "Familia Enlighten-mint"
+    },
+    "Melee": {
+      "en": "Enforce-mint Family",
+      "zh": "健壮家族",
+      "es": "Familia Enforce-mint"
+    },
+    "Explosive": {
+      "en": "Bombard-mint Family",
+      "zh": "爆裂家族",
+      "es": "Familia Bombard-mint"
+    },
+    "Nope": {
+      "en": "None",
+      "zh": "无",
+      "es": "Ninguna"
+    }
+  },
+  "Award": {
+    "Title": {
+      "Plant": {
+        "en": "You got a new PLANT!",
+        "zh": "你获得了一株新植物！"
+      },
+      "Upgrade": {
+        "en": "You got a new UPGRADE!",
+        "zh": "你获得了新的强化！"
+      },
+      "Trophy": {
+        "en": "You got a new TROPHY!",
+        "zh": "你获得了新的奖杯！"
+      },
+      "WorldKey": {
+        "en": "You've earned a World Key!",
+        "zh": "你获得了一枚时空钥匙！"
+      },
+      "Dangerroom": {
+        "en": "Endless Zone Activated!",
+        "zh": "无尽模式已激活！"
+      },
+      "NoTitle": {
+        "en": "",
+        "zh": ""
+      }
+    },
+    "Continue": {
+      "en": "CONTINUE",
+      "zh": "继续"
+    },
+    "Continue2": {
+      "en": "Click anywhere to continue.",
+      "zh": "点击任意位置以继续。"
+    }
+  },
+  "LevelName": {
+    "[TRY_THE_PLANT]": {
+      "en": "Try the <PLANTNAME>",
+      "zh": "试用<PLANTNAME>",
+      "es": "Prueba <PLANTNAME>"
+    },
+    "[TUTORIAL_LEVEL_NAME]": {
+      "en": "<PLAYERNAME>'s House - Day <LEVELNUMBER>",
+      "zh": "<PLAYERNAME>的房子 - 第 <LEVELNUMBER> 天",
+      "es": "La casa de <PLAYERNAME> - Día <LEVELNUMBER>"
+    },
+    "[EPIC_PLANT_DEMO_CONCEAL_LEVEL_NAME]": {
+      "en": "Demonstration for Conceal-mint Family",
+      "zh": "暗影家族 - 植物演示",
+      "es": "Demostración de la familia Conceal-mint"
+    },
+    "[EPIC_PLANT_CONCEAL_LEVEL_NAME]": {
+      "en": "Conceal-mint Family - Level <LEVELNUMBER>",
+      "zh": "暗影家族 - 第 <LEVELNUMBER> 关",
+      "es": "Familia Conceal-mint - Nivel <LEVELNUMBER>"
+    },
+    "[EPIC_PLANT_DEMO_REINFORCE_LEVEL_NAME]": {
+      "en": "Demonstration for Reinforce-mint Family",
+      "zh": "防御家族 - 植物演示",
+      "es": "Demostración de la familia Reinforce-mint"
+    },
+    "[EPIC_PLANT_REINFORCE_LEVEL_NAME]": {
+      "en": "Reinforce-mint Family - Level <LEVELNUMBER>",
+      "zh": "防御家族 - 第 <LEVELNUMBER> 关",
+      "es": "Familia Reinforce-mint - Nivel <LEVELNUMBER>"
+    },
+    "[EPIC_PLANT_DEMO_ENLIGHTEN_LEVEL_NAME]": {
+      "en": "Demonstration for Enlighten-mint Family",
+      "zh": "启明家族 - 植物演示",
+      "es": "Demostración de la familia Enlighten-mint"
+    },
+    "[EPIC_PLANT_ENLIGHTEN_LEVEL_NAME]": {
+      "en": "Enlighten-mint Family - Level <LEVELNUMBER>",
+      "zh": "启明家族 - 第 <LEVELNUMBER> 关",
+      "es": "Familia Enlighten-mint - Nivel <LEVELNUMBER>"
+    },
+    "[EPIC_PLANT_DEMO_APPEASE_LEVEL_NAME_2]": {
+      "en": "Demonstration for Appease-mint Family II",
+      "zh": "平射家族 - 植物演示 II",
+      "es": "Demostración de la familia Appease-mint II"
+    },
+    "[EPIC_PLANT_APPEASE_LEVEL_NAME_2]": {
+      "en": "Appease-mint Family Part II - Level <LEVELNUMBER>",
+      "zh": "平射家族 II - 第 <LEVELNUMBER> 关",
+      "es": "Familia Appease-mint, parte II - Nivel <LEVELNUMBER>"
+    },
+    "[EPIC_PLANT_DEMO_APPEASE_LEVEL_NAME_1]": {
+      "en": "Demonstration for Appease-mint Family I",
+      "zh": "平射家族 - 植物演示 I",
+      "es": "Demostración de la familia Appease-mint I"
+    },
+    "[EPIC_PLANT_APPEASE_LEVEL_NAME_1]": {
+      "en": "Appease-mint Family Part I - Level <LEVELNUMBER>",
+      "zh": "平射家族 I - 第 <LEVELNUMBER> 关",
+      "es": "Familia Appease-mint, parte I - Nivel <LEVELNUMBER>"
+    },
+    "[EPIC_PLANT_DEMO_LEVEL_NAME]": {
+      "en": "Demonstration for <PLANTNAME>",
+      "zh": "<PLANTNAME> - 植物演示",
+      "es": "Demostración de <PLANTNAME>"
+    },
+    "[EPIC_PLANT_LEVEL_NAME]": {
+      "en": "<PLANTNAME> - Level <LEVELNUMBER>",
+      "zh": "<PLANTNAME> - 第 <LEVELNUMBER> 关",
+      "es": "<PLANTNAME> - Nivel <LEVELNUMBER>"
+    },
+    "[LOD_LEVEL_NAME]": {
+      "en": "Piñata Party",
+      "zh": "彩陶盛宴",
+      "es": "Fiesta de piñatas"
+    },
+    "[CHALLENGE_LASTSTAND_A_NAME]": {
+      "en": "Last Stand - 1",
+      "zh": "坚不可摧 1",
+      "es": "Resistencia final - 1"
+    },
+    "[CHALLENGE_LASTSTAND_B_NAME]": {
+      "en": "Last Stand - 2",
+      "zh": "坚不可摧 2",
+      "es": "Resistencia final - 2"
+    },
+    "[CHALLENGE_LASTSTAND_C_NAME]": {
+      "en": "Last Stand - 3",
+      "zh": "坚不可摧 3",
+      "es": "Resistencia final - 3"
+    },
+    "[CHALLENGE_PRESET_A_NAME]": {
+      "en": "Locked and Loaded - 1",
+      "zh": "硬装上阵 1",
+      "es": "Bloqueado y cargado - 1"
+    },
+    "[CHALLENGE_PRESET_B_NAME]": {
+      "en": "Locked and Loaded - 2",
+      "zh": "硬装上阵 2",
+      "es": "Bloqueado y cargado - 2"
+    },
+    "[CHALLENGE_PRESET_C_NAME]": {
+      "en": "Locked and Loaded - 3",
+      "zh": "硬装上阵 3",
+      "es": "Bloqueado y cargado - 3"
+    },
+    "[CHALLENGE_PROTECT_A_NAME]": {
+      "en": "Save Our Seeds - 1",
+      "zh": "保护种子 1",
+      "es": "Salvad nuestras semillas - 1"
+    },
+    "[CHALLENGE_PROTECT_B_NAME]": {
+      "en": "Save Our Seeds - 2",
+      "zh": "保护种子 2",
+      "es": "Salvad nuestras semillas - 2"
+    },
+    "[CHALLENGE_PROTECT_C_NAME]": {
+      "en": "Save Our Seeds - 3",
+      "zh": "保护种子 3",
+      "es": "Salvad nuestras semillas - 3"
+    },
+    "[ULTIMATE_BATTLE]": {
+      "en": "Ultimate Battle",
+      "zh": "最终之战",
+      "es": "Batalla final"
+    },
+    "[EGYPT_CHALLENGE_MINIGAME_A_NAME]": {
+      "en": "Mummy Memory - 1",
+      "zh": "木乃伊记忆 1",
+      "es": "Memoria momia - 1"
+    },
+    "[EGYPT_CHALLENGE_MINIGAME_B_NAME]": {
+      "en": "Mummy Memory - 2",
+      "zh": "木乃伊记忆 2",
+      "es": "Memoria momia - 2"
+    },
+    "[EGYPT_CHALLENGE_MINIGAME_C_NAME]": {
+      "en": "Mummy Memory - 3",
+      "zh": "木乃伊记忆 3",
+      "es": "Memoria momia - 3"
+    },
+    "[PIRATE_CHALLENGE_MINIGAME_A_NAME]": {
+      "en": "Cannons Away - 1",
+      "zh": "加农炮轰击 1",
+      "es": "Cañones al ataque - 1"
+    },
+    "[PIRATE_CHALLENGE_MINIGAME_B_NAME]": {
+      "en": "Cannons Away - 2",
+      "zh": "加农炮轰击 2",
+      "es": "Cañones al ataque - 2"
+    },
+    "[PIRATE_CHALLENGE_MINIGAME_C_NAME]": {
+      "en": "Cannons Away - 3",
+      "zh": "加农炮轰击 3",
+      "es": "Cañones al ataque - 3"
+    },
+    "[WEST_CHALLENGE_MINIGAME_NAME]": {
+      "en": "Not OK Corral - Level <LEVELNUMBER>",
+      "zh": "栅栏故障 - 第 <LEVELNUMBER> 关",
+      "es": "Corral averiado - <LEVELNUMBER>"
+    },
+    "[FUTURE_CHALLENGE_MINIGAME_NAME]": {
+      "en": "All Alone - Level <LEVELNUMBER>",
+      "zh": "单枪匹马 - 第 <LEVELNUMBER> 关",
+      "es": "En solitario - <LEVELNUMBER>"
+    },
+    "[EGYPT_LEVEL_NAME]": {
+      "en": "Ancient Egypt - Day <LEVELNUMBER>",
+      "zh": "神秘埃及 - 第 <LEVELNUMBER> 天",
+      "es": "Antiguo Egipto - Día <LEVELNUMBER>"
+    },
+    "[PIRATE_LEVEL_NAME]": {
+      "en": "Pirate Seas - Day <LEVELNUMBER>",
+      "zh": "海盗港湾 - 第 <LEVELNUMBER> 天",
+      "es": "Mares Piratas - Día <LEVELNUMBER>"
+    },
+    "[WEST_LEVEL_NAME]": {
+      "en": "Wild West - Day <LEVELNUMBER>",
+      "zh": "狂野西部 - 第 <LEVELNUMBER> 天",
+      "es": "Salvaje Oeste - Día <LEVELNUMBER>"
+    },
+    "[KONGFU_LEVEL_NAME]": {
+      "en": "Kongfu Temple - Day <LEVELNUMBER>",
+      "zh": "武林寺庙 - 第 <LEVELNUMBER> 天",
+      "es": "Templo Kongfu - Día <LEVELNUMBER>"
+    },
+    "[FUTURE_LEVEL_NAME]": {
+      "en": "Far Future - Day <LEVELNUMBER>",
+      "zh": "遥远未来 - 第 <LEVELNUMBER> 天",
+      "es": "Futuro Lejano - Día <LEVELNUMBER>"
+    },
+    "[DARKAGES_LEVEL_NAME]": {
+      "en": "Dark Ages - Night <LEVELNUMBER>",
+      "zh": "黑暗时代 - 第 <LEVELNUMBER> 晚",
+      "es": "Edad Oscura - Noche <LEVELNUMBER>"
+    },
+    "[BEACH_LEVEL_NAME]": {
+      "en": "Big Wave Beach - Day <LEVELNUMBER>",
+      "zh": "巨浪沙滩 - 第 <LEVELNUMBER> 天",
+      "es": "Big Wave Beach - Día <LEVELNUMBER>"
+    },
+    "[ICEAGE_LEVEL_NAME]": {
+      "en": "Frostbite Caves - Day <LEVELNUMBER>",
+      "zh": "极寒冰窟 - 第 <LEVELNUMBER> 天",
+      "es": "Cuevas Heladas - Día <LEVELNUMBER>"
+    },
+    "[LOSTCITY_LEVEL_NAME]": {
+      "en": "Lost City - Day <LEVELNUMBER>",
+      "zh": "遗落古城 - 第 <LEVELNUMBER> 天",
+      "es": "Ciudad Perdida - Día <LEVELNUMBER>"
+    },
+    "[SKYCITY_LEVEL_NAME]": {
+      "en": "Aerial Fortress - Day <LEVELNUMBER>",
+      "zh": "云端堡垒 - 第 <LEVELNUMBER> 天",
+      "es": "Fortaleza aérea - Día <LEVELNUMBER>"
+    },
+    "[EIGHTIES_LEVEL_NAME]": {
+      "en": "Neon Mixtape Tour - Day <LEVELNUMBER>",
+      "zh": "炫光魔音游 - 第 <LEVELNUMBER> 天",
+      "es": "Neon Mixtape Tour - Día <LEVELNUMBER>"
+    },
+    "[DINO_LEVEL_NAME]": {
+      "en": "Jurassic Marsh - Day <LEVELNUMBER>",
+      "zh": "侏罗纪沼泽 - 第 <LEVELNUMBER> 天",
+      "es": "Pantano Jurásico - Día <LEVELNUMBER>"
+    },
+    "[MODERN_LEVEL_NAME]": {
+      "en": "Modern Day - Day <LEVELNUMBER>",
+      "zh": "现代时光 - 第 <LEVELNUMBER> 天",
+      "es": "Edad Moderna - Día <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_EGYPT_LEVEL_NAME]": {
+      "en": "Pyramid of Doom - Level <LEVELNUMBER>",
+      "zh": "末日金字塔 - 第 <LEVELNUMBER> 层",
+      "es": "Pirámide de la perdición - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_PIRATE_LEVEL_NAME]": {
+      "en": "Dead Man's Booty - Level <LEVELNUMBER>",
+      "zh": "死人的遗产 - 第 <LEVELNUMBER> 层",
+      "es": "Botín del muerto - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_COWBOY_LEVEL_NAME]": {
+      "en": "Big Bad Butte - Level <LEVELNUMBER>",
+      "zh": "罪恶孤岭 - 第 <LEVELNUMBER> 层",
+      "es": "La colina del mal - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_KONGFU_LEVEL_NAME]": {
+      "en": "Martial Arts Competitions - Level <LEVELNUMBER>",
+      "zh": "八方会武 - 第 <LEVELNUMBER> 层",
+      "es": "Torneo de artes marciales - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_SKYCITY_LEVEL_NAME]": {
+      "en": "Thunder Firmament - Level <LEVELNUMBER>",
+      "zh": "雷鸣苍穹 - 第 <LEVELNUMBER> 层"
+    },
+    "[DANGER_ROOM_FUTURE_LEVEL_NAME]": {
+      "en": "Terror from Tomorrow - Level <LEVELNUMBER>",
+      "zh": "明日动乱 - 第 <LEVELNUMBER> 层",
+      "es": "Terror del mañana - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_DARKAGES_LEVEL_NAME]": {
+      "en": "Arthur's Challenge - Level <LEVELNUMBER>",
+      "zh": "亚瑟的挑战 - 第 <LEVELNUMBER> 层",
+      "es": "El desafío de Arturo - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_BEACH_LEVEL_NAME]": {
+      "en": "Tiki Torch-er - Level <LEVELNUMBER>",
+      "zh": "提基火炬手 - 第 <LEVELNUMBER> 层",
+      "es": "Tiki antorchero - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_ICEAGE_LEVEL_NAME]": {
+      "en": "Icebound Battleground - Level <LEVELNUMBER>",
+      "zh": "冰封沙场 - 第 <LEVELNUMBER> 层",
+      "es": "Campo de batalla helado - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_LOSTCITY_LEVEL_NAME]": {
+      "en": "Temple of Bloom - Level <LEVELNUMBER>",
+      "zh": "花开庙宇 - 第 <LEVELNUMBER> 层",
+      "es": "Templo en flor - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_EIGHTIES_LEVEL_NAME]": {
+      "en": "Greatest Hits - Level <LEVELNUMBER>",
+      "zh": "劲爆节拍 - 第 <LEVELNUMBER> 层",
+      "es": "Grandes éxitos - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_DINO_LEVEL_NAME]": {
+      "en": "La Brainsa Tarpits - Level <LEVELNUMBER>",
+      "zh": "脑焦油坑 - 第 <LEVELNUMBER> 层",
+      "es": "Fosas de brea cerebral - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_MODERN_LEVEL_NAME]": {
+      "en": "Highway to the Danger Room - Level <LEVELNUMBER>",
+      "zh": "登峰造极 - 第 <LEVELNUMBER> 层",
+      "es": "Autopista hacia la Sala del Peligro - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_EGYPT_MINIGAME_LEVEL_NAME]": {
+      "en": "Mummy Memory - Level <LEVELNUMBER>",
+      "zh": "木乃伊记忆 - 第 <LEVELNUMBER> 层",
+      "es": "Memoria momia - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_PIRATE_MINIGAME_LEVEL_NAME]": {
+      "en": "Cannon Away - Level <LEVELNUMBER>",
+      "zh": "加农炮轰击 - 第 <LEVELNUMBER> 层",
+      "es": "Cañones al ataque - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_COWBOY_MINIGAME_LEVEL_NAME]": {
+      "en": "Not OK Corral - Level <LEVELNUMBER>",
+      "zh": "栅栏故障 - 第 <LEVELNUMBER> 层",
+      "es": "Corral averiado - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_FUTURE_MINIGAME_LEVEL_NAME]": {
+      "en": "All Alone - Level <LEVELNUMBER>",
+      "zh": "单枪匹马 - 第 <LEVELNUMBER> 层",
+      "es": "En solitario - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_MODERN_MINIGAME_LEVEL_NAME]": {
+      "en": "Beghouled - Level <LEVELNUMBER>",
+      "zh": "植物迷阵 - 第 <LEVELNUMBER> 层",
+      "es": "Laberinto vegetal - Nivel <LEVELNUMBER>"
+    },
+    "[DANGER_ROOM_BEACH_MINIGAME_LEVEL_NAME]": {
+      "en": "Wall-nut Bowling - Level <LEVELNUMBER>",
+      "zh": "坚果保龄球 - 第 <LEVELNUMBER> 层",
+      "es": "Bolos de nuez muro - Nivel <LEVELNUMBER>"
+    }
+  },
+  "LevelDescription": {
+    "[TRY_THE_PLANT]": {
+      "en": "Try the <PLANTNAME>",
+      "zh": "试用<PLANTNAME>",
+      "es": "Prueba <PLANTNAME>"
+    },
+    "[MEET_CONCEAL_FAMILY]": {
+      "en": "Meet the Conceal-mint Family!",
+      "zh": "见识暗影家族！",
+      "es": "¡Conoce a la familia Conceal-mint!"
+    },
+    "[MEET_APPEASE_FAMILY]": {
+      "en": "Meet the Appease-mint Family!",
+      "zh": "见识平射家族！",
+      "es": "¡Conoce a la familia Appease-mint!"
+    },
+    "[MEET_ENLIGHTEN_FAMILY]": {
+      "en": "Meet the Enlighten-mint Family!",
+      "zh": "见识启明家族！",
+      "es": "¡Conoce a la familia Enlighten-mint!"
+    },
+    "[MEET_REINFORCE_FAMILY]": {
+      "en": "Meet the Reinforce-mint Family!",
+      "zh": "见识防御家族！",
+      "es": "¡Conoce a la familia Reinforce-mint!"
+    },
+    "[PLAYERS_HOUSE]": {
+      "en": "<PLAYERNAME>'s House",
+      "zh": "<PLAYERNAME>的房子！",
+      "es": "La casa de <PLAYERNAME>"
+    },
+    "[PLAYERS_ATTEMPT_TO_GET_PLANT]": {
+      "en": "<PLAYERNAME>'s Attempt to Get <PLANTNAME>!",
+      "zh": "<PLAYERNAME>为得到<PLANTNAME>的尝试！",
+      "es": "¡El intento de <PLAYERNAME> por conseguir <PLANTNAME>!"
+    },
+    "[PLAYERS_TRIP_TO_LOD]": {
+      "en": "<PLAYERNAME>'s Piñata Party!",
+      "zh": "<PLAYERNAME>的彩陶盛宴！"
+    },
+    "[PLAYERS_TRIP_TO_SKYCITY]": {
+      "en": "<PLAYERNAME>'s Aerial Fortress!",
+      "zh": "<PLAYERNAME>的云端堡垒！",
+      "es": "¡La fortaleza aérea de <PLAYERNAME>!"
+    },
+    "[PLAYERS_TRIP_TO_DINO]": {
+      "en": "<PLAYERNAME>'s Trip to Jurassic Marsh!",
+      "zh": "<PLAYERNAME>的侏罗纪沼泽之旅！",
+      "es": "¡El viaje de <PLAYERNAME> al Pantano Jurásico!"
+    },
+    "[PLAYERS_TRIP_TO_MODERN]": {
+      "en": "<PLAYERNAME>'s Trip to the Modern Day!",
+      "zh": "<PLAYERNAME>的现代时光之旅！",
+      "es": "¡El viaje de <PLAYERNAME> a la Edad Moderna!"
+    },
+    "[PLAYERS_TRIP_TO_EGYPT]": {
+      "en": "<PLAYERNAME>'s Trip to Ancient Egypt!",
+      "zh": "<PLAYERNAME>的神秘埃及之旅！",
+      "es": "¡El viaje de <PLAYERNAME> al Antiguo Egipto!"
+    },
+    "[PLAYERS_TRIP_TO_PIRATE_SHIP]": {
+      "en": "<PLAYERNAME>'s Trip to the Pirate Seas!",
+      "zh": "<PLAYERNAME>的海盗港湾之旅！",
+      "es": "¡El viaje de <PLAYERNAME> a los Mares Piratas!"
+    },
+    "[PLAYERS_TRIP_TO_WEST]": {
+      "en": "<PLAYERNAME>'s Trip To the Wild West!",
+      "zh": "<PLAYERNAME>的狂野西部之旅！",
+      "es": "¡El viaje de <PLAYERNAME> al Salvaje Oeste!"
+    },
+    "[PLAYERS_TRIP_TO_KONGFU]": {
+      "en": "<PLAYERNAME>'s Trip To the Kongfu Temple!",
+      "zh": "<PLAYERNAME>的武林寺庙之旅！",
+      "es": "¡El viaje de <PLAYERNAME> al Templo Kongfu!"
+    },
+    "[PLAYERS_TRIP_TO_FUTURE]": {
+      "en": "<PLAYERNAME>'s Trip to the Far Future!",
+      "zh": "<PLAYERNAME>的遥远未来之旅！",
+      "es": "¡El viaje de <PLAYERNAME> al Futuro Lejano!"
+    },
+    "[PLAYERS_TRIP_TO_DARKAGES]": {
+      "en": "<PLAYERNAME>'s Trip to the Dark Ages!",
+      "zh": "<PLAYERNAME>的黑暗时代之旅！",
+      "es": "¡El viaje de <PLAYERNAME> a la Edad Oscura!"
+    },
+    "[PLAYERS_TRIP_TO_BEACH]": {
+      "en": "<PLAYERNAME>'s Trip to Big Wave Beach!",
+      "zh": "<PLAYERNAME>的巨浪沙滩之旅！",
+      "es": "¡El viaje de <PLAYERNAME> a Big Wave Beach!"
+    },
+    "[PLAYERS_TRIP_TO_ICEAGE]": {
+      "en": "<PLAYERNAME>'s Trip to the Frostbite Caves!",
+      "zh": "<PLAYERNAME>的极寒冰窟之旅！",
+      "es": "¡El viaje de <PLAYERNAME> a las Cuevas Heladas!"
+    },
+    "[PLAYERS_TRIP_TO_LOSTCITY]": {
+      "en": "<PLAYERNAME>'s Trip to the Lost City!",
+      "zh": "<PLAYERNAME>的遗落古城之旅！",
+      "es": "¡El viaje de <PLAYERNAME> a la Ciudad Perdida!"
+    },
+    "[PLAYERS_TRIP_TO_EIGHTIES]": {
+      "en": "<PLAYERNAME>'s Trip to Neon Mixtape Tour!",
+      "zh": "<PLAYERNAME>的炫光魔音游之旅！",
+      "es": "¡El viaje de <PLAYERNAME> al Neon Mixtape Tour!"
+    },
+    "[PLAYERS_TRIP_TO_DANGER_ROOM]": {
+      "en": "Endless Zone!",
+      "zh": "无尽地带！",
+      "es": "¡Zona interminable!"
+    },
+    "[PLAYERS_TRIP_TO_DANGER_ROOM_MINIGAME]": {
+      "en": "The Game Never Ends!",
+      "zh": "无止境地游戏吧！",
+      "es": "¡El juego nunca termina!"
+    },
+    "[PLAYERS_TRIP_TO_PREVIEW]": {
+      "en": "<PLAYERNAME>'s Plant Playground!",
+      "zh": "<PLAYERNAME>的植物展示！",
+      "es": "¡El patio de pruebas de plantas de <PLAYERNAME>!"
+    }
+  },
+  "FanmadeWindow": {
+    "Title": {
+      "en": "LEVEL TESTS",
+      "zh": "关卡测试",
+      "es": "PRUEBAS DE NIVELES"
+    },
+    "PlayLocalLevel": {
+      "en": "Play Custom Levels",
+      "zh": "游玩自制关卡",
+      "es": "Jugar niveles personalizados"
+    }
+  },
+  "UpdateWindow": {
+    "Title": {
+      "en": "UPDATES",
+      "zh": "更新内容",
+      "es": "ACTUALIZACIONES"
+    },
+    "GoToOfficialWebsite": {
+      "en": "GO TO OFFICIAL WEBSITE",
+      "zh": "前往官网",
+      "es": "IR AL SITIO OFICIAL"
+    }
+  },
+  "LevelObjectiveWindow": {
+    "Title": {
+      "en": "Level Objectives",
+      "zh": "关卡任务",
+      "es": "Objetivos del nivel"
+    },
+    "Continue": {
+      "en": "CONTINUE",
+      "zh": "继续",
+      "es": "CONTINUAR"
+    },
+    "Goals": {
+      "en": " Goals",
+      "zh": "目标",
+      "es": "OBJETIVOS"
+    }
+  },
+  "DirectQuote": {
+    "[AIRRAID_RIGHTCLICK]": {
+      "en": "RIGHT CLICK to release or drag the plant!",
+      "zh": "按下右键以释放或者拽动植物！",
+      "es": "¡HAZ CLIC DERECHO para soltar o arrastrar la planta!"
+    },
+    "[ADVICE_PLANTFOOD_FEED]": {
+      "en": "Put it on a plant to feed it!",
+      "zh": "将它喂给一株植物！",
+      "es": "¡Úsalo sobre una planta para alimentarla!"
+    },
+    "[ADVICE_PLANTFOOD_CHOOSE]": {
+      "en": "Click on the plantfood icon!",
+      "zh": "点击叶绿素图标！",
+      "es": "¡Haz clic en el icono de nutriente!"
+    },
+    "[ADVICE_PLANTFOOD_COLLECT]": {
+      "en": "Sweep across the plantfood to collect!",
+      "zh": "划过叶绿素以收集！",
+      "es": "¡Desliza el dedo sobre el nutriente para recogerlo!"
+    },
+    "[ADVICE_PLANT_SUNFLOWER_0]": {
+      "en": "Sunflowers are an extremely important plant!",
+      "zh": "向日葵是极其重要的植物！",
+      "es": "¡Los girasoles son plantas muy importantes!"
+    },
+    "[ADVICE_PLANT_SUNFLOWER_1]": {
+      "en": "Try to plant at least 3 of them!",
+      "zh": "尽量种植至少三株向日葵！",
+      "es": "¡Intenta plantar al menos 3!"
+    },
+    "[ADVICE_PLANT_SUNFLOWER_2]": {
+      "en": "Planting at least 3 sunflowers improves your\nchances of surviving a zombie attack!",
+      "zh": "种下至少三株向日葵，\n能大幅减少僵尸对你的威胁！",
+      "es": "¡Plantar al menos 3 girasoles mejora mucho\ntus probabilidades de sobrevivir a un ataque zombi!"
+    },
+    "[ADVICE_READY_TO_UNLOCK_WORLD]": {
+      "en": "Use World Keys to unlock new Worlds!",
+      "zh": "用时空钥匙解锁新的时间线吧！",
+      "es": "¡Usa llaves de mundo para desbloquear mundos nuevos!"
+    },
+    "[ADVICE_ZOMBIE_ONSLAUGHT]": {
+      "en": "Don't let the zombies reach your house!",
+      "zh": "不要让僵尸进入你的房子！",
+      "es": "¡No dejes que los zombis lleguen a tu casa!"
+    },
+    "[ADVICE_ENOUGH_SUN]": {
+      "en": "Excellent! You've collected\nenough sun for your next plant!",
+      "zh": "好样的！你已经收集到了\n足够的阳光种植新的植物！",
+      "es": "¡Excelente! Ya has reunido\nsol suficiente para tu próxima planta!"
+    },
+    "[ADVICE_COLLECTED_SUN]": {
+      "en": "Keep collecting sun! You'll\nneed it to grow more plants!",
+      "zh": "继续收集阳光！\n你将需要其以种植更多植物！",
+      "es": "¡Sigue recogiendo sol!\n¡Lo necesitarás para cultivar más plantas!"
+    },
+    "[ADVICE_COLLECT_SUN]": {
+      "en": "Sweep across the falling sun to collect!",
+      "zh": "划过阳光以收集！",
+      "es": "¡Desliza el dedo sobre el sol que cae para recogerlo!"
+    },
+    "[ADVICE_PLANTED_PEASHOOTER]": {
+      "en": "Nicely done! You can also plant by\ntyping on the keyboard and then clicking on the lawn.",
+      "zh": "做得好！你也可以通过\n按键盘并点击草坪来种植植物。",
+      "es": "¡Bien hecho! También puedes plantar\nusando el teclado y luego haciendo clic en el césped."
+    },
+    "[ADVICE_CLICK_ON_GRASS]": {
+      "en": "Place it on the grass!",
+      "zh": "将其放置在草地上！",
+      "es": "¡Colócala en el césped!"
+    },
+    "[ADVICE_CLICK_ON_SEEDPACKET]": {
+      "en": "Click on the seed packet!",
+      "zh": "点击这个植物卡牌！",
+      "es": "¡Haz clic en el paquete de semillas!"
+    },
+    "[ADVICE_CLICK_SPROUT]": {
+      "en": "Sweep across the sprout to pick it up!",
+      "zh": "划过幼苗将其捡起！",
+      "es": "¡Desliza el dedo sobre el brote para recogerlo!"
+    },
+    "[ADVICE_COLLECT_SPROUT]": {
+      "en": "It will be waiting in your Zen Garden.",
+      "zh": "它会在你的禅境花园等你。",
+      "es": "Te estará esperando en tu Jardín Zen."
+    },
+    "[ADVICE_CLICK_COIN]": {
+      "en": "Sweep across the coin to pick it up!",
+      "zh": "划过硬币将其捡起！",
+      "es": "¡Desliza el dedo sobre la moneda para recogerla!"
+    },
+    "[ADVICE_COLLECT_COINS]": {
+      "en": "Collect coins to buy cool stuff later!",
+      "zh": "收集硬币，之后能用来买一些酷东西！",
+      "es": "¡Recoge monedas para comprar cosas geniales más tarde!"
+    },
+    "[WEBSITE_KEYBINDS]": {
+      "en": "https://pvzge.com/en/useful-tool/keybind-editor.html",
+      "zh": "https://pvzge.com/useful-tool/keybind-editor.html",
+      "es": "https://pvzge.com/en/useful-tool/keybind-editor.html"
+    },
+    "[BEGHOULED_MATCH_COUNT]": {
+      "en": "<CURRENTMATCHES>/<MATCHESTOWIN> matches",
+      "zh": "<CURRENTMATCHES>/<MATCHESTOWIN> 配对",
+      "es": "<CURRENTMATCHES>/<MATCHESTOWIN> combinaciones"
+    },
+    "[ADVICE_PLANT_FOOD_BANK_FULL]": {
+      "en": "Plant Food full! Use one before picking up more.",
+      "zh": "叶绿素已满！拾取之前先用掉一颗吧。",
+      "es": "¡El nutriente está al máximo! Usa uno antes de recoger más."
+    },
+    "[ADVICE_NOT_ENOUGH_SUN]": {
+      "en": "You need to collect more sun to plant that!",
+      "zh": "你需要收集更多的阳光去种植它！",
+      "es": "¡Necesitas recoger más sol para plantar eso!"
+    },
+    "[ADVICE_SEED_REFRESH]": {
+      "en": "Seeds need time to refresh before planting again。",
+      "zh": "植物需要一段时间冷却才能再次种植。",
+      "es": "Las semillas necesitan tiempo para recargarse antes de volver a plantarse."
+    },
+    "[GEM_OBTAIN_CONGRATE]": {
+      "en": "You've earned <GEMCOUNT> gems!",
+      "zh": "你获得了 <GEMCOUNT> 颗钻石！",
+      "es": "¡Has conseguido <GEMCOUNT> gemas!"
+    },
+    "[PLANTCOSTUME_UNLOCK_CONGRATE]": {
+      "en": "You've unlocked a costume for the <PLANTNAME>!",
+      "zh": "你为<PLANTNAME>解锁了一份装扮！",
+      "es": "¡Has desbloqueado un disfraz para <PLANTNAME>!"
+    },
+    "[UPGRADE_ENABLED]": {
+      "en": "ENABLED",
+      "zh": "已启用",
+      "es": "ACTIVADO"
+    },
+    "[UPGRADE_DISABLED]": {
+      "en": "DISABLED",
+      "zh": "已禁用",
+      "es": "DESACTIVADO"
+    },
+    "[MARIGOLD_OBTAIN_CONGRATE]": {
+      "en": "Congratulations! You've unlocked Marigold!",
+      "zh": "恭喜！你解锁了金盏花！",
+      "es": "¡Enhorabuena! ¡Has desbloqueado Caléndula!"
+    },
+    "[FLOAWERPOT_PLANTFOOD_TUTORIAL]": {
+      "en": "Click on the Plantfooded Floawer Pots without plants on it to move between places.",
+      "zh": "点击叶绿素强化后且不承载植物的飞天花盆，使之在不同位置间移动。",
+      "es": "Haz clic en las macetas voladoras potenciadas con nutriente y sin plantas para moverlas entre posiciones."
+    },
+    "[WORLDMAP_PREMIUM_PLANT_UNLOCK]": {
+      "en": "Finish this level to bring the <PLANTNAME> out in the Store!",
+      "zh": "完成此关卡后可在商店购买<PLANTNAME>！",
+      "es": "¡Completa este nivel para que <PLANTNAME> aparezca en la Tienda!"
+    },
+    "[POWERUP_TUTORIAL]": {
+      "en": "Use Powerups to defeat the zombies!",
+      "zh": "使用金手指过关！",
+      "es": "¡Usa potenciadores para derrotar a los zombis!"
+    },
+    "[SOLD_OUT]": {
+      "en": "SOLD OUT",
+      "zh": "售罄",
+      "es": "AGOTADO"
+    },
+    "[PLANT_DISALLOWED]": {
+      "en": "The <PLANTNAME> cannot be used on this level.",
+      "zh": "<PLANTNAME>在本关不能使用",
+      "es": "La planta <PLANTNAME> no puede usarse en este nivel."
+    },
+    "[CANNON_COMBO_TAIL]": {
+      "en": "x Combo!",
+      "zh": " 连击！",
+      "es": "x combo!"
+    },
+    "[CANNON_POINT_SCORE]": {
+      "en": "Score: ",
+      "zh": "得分： ",
+      "es": "Puntuación:"
+    },
+    "[CANNON_POINT_TARGET]": {
+      "en": "Target: ",
+      "zh": "目标：",
+      "es": "Objetivo:"
+    },
+    "[CANNON_POINT_UPGRADE]": {
+      "en": "Upgrade: ",
+      "zh": "升级：",
+      "es": "Mejora:"
+    },
+    "[DAVE_CANNONMINIGAME_3_KILLED_1]": {
+      "en": "Cool!",
+      "zh": "酷！",
+      "es": "¡Genial!"
+    },
+    "[DAVE_CANNONMINIGAME_3_KILLED_2]": {
+      "en": "Alright!",
+      "zh": "还行！",
+      "es": "¡Muy bien!"
+    },
+    "[DAVE_CANNONMINIGAME_3_KILLED_3]": {
+      "en": "Not Bad!",
+      "zh": "不错！",
+      "es": "¡Nada mal!"
+    },
+    "[DAVE_CANNONMINIGAME_5_KILLED_1]": {
+      "en": "Twiddydinkies!",
+      "zh": "小意思！",
+      "es": "¡Pan comido!"
+    },
+    "[DAVE_CANNONMINIGAME_5_KILLED_2]": {
+      "en": "Sweet!",
+      "zh": "棒啊！",
+      "es": "¡Buenísimo!"
+    },
+    "[DAVE_CANNONMINIGAME_5_KILLED_3]": {
+      "en": "Crazy!",
+      "zh": "疯了吧！",
+      "es": "¡Una locura!"
+    },
+    "[DAVE_CANNONMINIGAME_8_KILLED_1]": {
+      "en": "AWESOME!",
+      "zh": "帅！",
+      "es": "¡ALUCINANTE!"
+    },
+    "[DAVE_CANNONMINIGAME_8_KILLED_2]": {
+      "en": "I'M CRAZY FOR COMBOS!",
+      "zh": "我太激动了！",
+      "es": "¡ME VUELVEN LOCO LOS COMBOS!"
+    },
+    "[DAVE_CANNONMINIGAME_8_KILLED_3]": {
+      "en": "WOOOOOOOOOOOOO!",
+      "zh": "喔噢噢噢噢噢噢噢！",
+      "es": "¡WOOOOOOOOO!"
+    },
+    "[DAVE_CANNONMINIGAME_12_KILLED_1]": {
+      "en": "TOASTY!",
+      "zh": "全熟啦！",
+      "es": "¡Bien tostadito!"
+    },
+    "[DAVE_CANNONMINIGAME_12_KILLED_2]": {
+      "en": "ARGLEBARGLE!",
+      "zh": "震耳欲聋！",
+      "es": "¡Arghblarg!"
+    },
+    "[DAVE_CANNONMINIGAME_12_KILLED_3]": {
+      "en": "M-M-MONSTER TACO!",
+      "zh": "你吃了玉米卷了吧！！",
+      "es": "¡T-t-taco monstruoso!"
+    },
+    "[UPDATE_REQUEST]": {
+      "en": "Please go to the official website for the latest version (<VERSIONNAME>)!",
+      "zh": "请前往官方网站获取最新版本（<VERSIONNAME>）！",
+      "es": "¡Visita el sitio web oficial para obtener la versión más reciente (<VERSIONNAME>)!"
+    }
+  },
+  "LoadingTips": [
+    {
+      "en": "Do not use Blover or Hurrikale in Aerial Fortress!",
+      "zh": "不要在云端堡垒使用三叶草和飓风甘蓝！",
+      "es": "No uses Blovers ni Hurrikales en Fortaleza aérea."
+    },
+    {
+      "en": "Freezing Barrel Rollers' barrels only slows down their rollers down.",
+      "zh": "冻住滚桶僵尸的木桶，只能让他们推得慢一些。",
+      "es": "Congelar los barriles de los Rodadores de barril solo los ralentiza."
+    },
+    {
+      "en": "Collect plant medals with boosts in the zen garden!",
+      "zh": "用植物爆发来交换收集植物徽章！",
+      "es": "Consigue medallas de plantas con impulsos."
+    },
+    {
+      "en": "Collect all the medals for each plant in the same family,\nthen you can unlock the mint for them!",
+      "zh": "集齐一个家族植物的所有徽章，\n你将为他们解锁该家族的薄荷！",
+      "es": "Consigue todas las medallas de las plantas de una misma familia\ny desbloquearás su menta."
+    },
+    {
+      "en": "Lobbers can defeat Battleplane Zombies' pilots, \nbut that might not be a good idea!",
+      "zh": "用投手可以击败战斗机僵尸的驾驶员，但这可能不是一个好主意！",
+      "es": "Las mentas potencian durante un tiempo a las plantas de su misma familia."
+    },
+    {
+      "en": "Mints boost other plants in their families for a while!",
+      "zh": "薄荷会在一段时间内强化同家族的植物！",
+      "es": "Detrás de cada regla extraña hay un incidente igual de extraño."
+    },
+    {
+      "en": "Behind every bizarre rule, there is an equally bizarre incident.",
+      "zh": "每一条奇怪的规则背后，都有奇怪的事情发生过。",
+      "es": "Juega tanto los niveles fáciles como los difíciles."
+    },
+    {
+      "en": "Play through both the easy levels and the difficult ones.",
+      "zh": "简单关要打，难关也要打。",
+      "es": "Los juegos totalmente a tu gusto suelen ser los que haces tú mismo."
+    },
+    {
+      "en": "Made with Cocos Creator.",
+      "zh": "使用 Cocos Creator 制作。",
+      "es": "Pulsa F12 y abre la ventana Console si encuentras un bug."
+    },
+    {
+      "en": "Press F12 and view the Console window if you witness a bug.",
+      "zh": "当你遇到游戏漏洞时，按 F12 观察 Console 栏目。",
+      "es": "Pulsa la rueda del ratón sobre una planta para darle alimento vegetal."
+    },
+    {
+      "en": "Press the mouse wheel to feed a plant Plantfood!",
+      "zh": "对植物按下鼠标滚轮释放叶绿素效果！",
+      "es": "No olvides que, tras completar Salvaje Oeste - Día 20, puedes reiniciar una carta en enfriamiento."
+    },
+    {
+      "en": "Don't forget that you can refresh a seedpacket from cooldown after finishing Wild West - Day 20!",
+      "zh": "别忘了在通关狂野西部第 20 天后可以使用叶绿素取消卡槽冷却！",
+      "es": "Puedes arrastrar las vagonetas,\no usar la rueda del ratón sobre los raíles."
+    },
+    {
+      "en": "You can both drag minecarts, \nand mouse-wheel at their rails!",
+      "zh": "你可以拖动矿车，\n也可以对铁轨使用滚轮！",
+      "es": "Puedes cambiar el modo de carga del audio en la ventana de ajustes."
+    },
+    {
+      "en": "You can change audios' load mode in the Setting window.",
+      "zh": "可在设置界面切换音频的加载模式。",
+      "es": "Puedes modificar las teclas mediante exportación e importación en la ventana de ajustes."
+    },
+    {
+      "en": "You can modify Key Binds through export and import process in the Setting window.",
+      "zh": "可在设置界面通过导入和导出调整调整键位绑定。",
+      "es": "Pulsa la tecla '<KEYCODE_BANANA>' para activar un Lanzaplátanos."
+    },
+    {
+      "en": "Press the key '<KEYCODE_BANANA>' to activate Banana Launcher.",
+      "zh": "按下键盘 <KEYCODE_BANANA> 键触发香蕉火箭炮。",
+      "es": "Pulsa la tecla '<KEYCODE_ALL_COLLECT>' para recoger todos los soles y las monedas."
+    },
+    {
+      "en": "Press the key '<KEYCODE_ALL_COLLECT>' to collect all the sun and coins on the lawn.",
+      "zh": "按下键盘 <KEYCODE_ALL_COLLECT> 键拾取所有的阳光和硬币。",
+      "es": "El juego sigue en desarrollo.\nPrueba primero el contenido ya terminado."
+    },
+    {
+      "en": "The game is still under development.\nTaste the content that has been finished so far!",
+      "zh": "游戏还在开发中，\n在游戏完整之前先体验一下已完成的内容吧！",
+      "es": "Las plantas sin terminar se sustituirán por Lanzaguisantes.\n Los zombis sin terminar se sustituirán por zombis básicos."
+    },
+    {
+      "en": "Plants that haven't been finished will be replaced with Peashooters.\n Zombies that haven't been finished will be replaced with Basic Zombies.",
+      "zh": "未完成的植物会被替换成豌豆射手；\n未完成的僵尸会被替换成普通僵尸。",
+      "es": "Los personajes del juego se ubican por su sombra, no por su cuerpo."
+    },
+    {
+      "en": "Characters in the game locate at their shadow rather than at themselves.",
+      "zh": "游戏中的角色定位于他们的影子，而不是他们自身。",
+      "es": "Si quieres conseguir sol rápido, planta varias columnas de Girasoles cuanto antes."
+    },
+    {
+      "en": "Plant several columns of Sunflowers as soon as possible if you wish to get sun quickly.",
+      "zh": "如果希望快速获得阳光，可以尽快种植好几列向日葵。",
+      "es": "Si quieres acabar con un zombi básico usando una Mina de patata, colócala a la distancia del alcance de una Seta soplona."
+    },
+    {
+      "en": "If you'd like to deal with a Basic Zombie using a Potato Mine, put it 3 tiles away.",
+      "zh": "如果你想用一颗土豆雷解决掉一名普通僵尸，把它放在和僵尸相距和小喷菇射程相当的距离之外。",
+      "es": "Las plantas que lanzan proyectiles calculan dónde estará el zombi cuando reciba el impacto.\nPero a veces eso te mete en problemas."
+    },
+    {
+      "en": "Three-dimensional coordinate exists in the game...Or does it?",
+      "zh": "三维坐标在这个游戏中是存在的……吗？",
+      "es": "Bonk Choy actúa como una Bomba cereza cuando recibe alimento vegetal."
+    },
+    {
+      "en": "Bonk Choys act like Cherry Bombs when fed with a Plantfood.",
+      "zh": "菜问释放叶绿素效果时威力堪比樱桃炸弹。",
+      "es": "La tienda ofrece cada día hasta 8 disfraces aleatorios."
+    },
+    {
+      "en": "The Store brings out 8 random costumes at most every day.",
+      "zh": "商店每天都会售出最多随机 8 款植物装扮。",
+      "es": "A veces los Girasoles gemelos no son mejores que los Girasoles normales."
+    },
+    {
+      "en": "Sometimes Twin Sunflowers are not better than regular Sunflowers.",
+      "zh": "有时候双胞向日葵并不优于普通的向日葵。",
+      "es": "Las Setas solares producen más despacio durante el día."
+    },
+    {
+      "en": "Sun-shrooms produce slower in the day.",
+      "zh": "阳光菇在白天生产得更慢。",
+      "es": "Las Nuez muro pueden resistir un ataque mortal extra tras recibir alimento vegetal."
+    },
+    {
+      "en": "Wall-nuts can take one extra deadly attack when fed with Plantfood.",
+      "zh": "坚果墙释放叶绿素效果后能额外承受一次致命伤害。",
+      "es": "Puede que Mega Gatling Peas no sea más fuerte que Gatling Peas."
+    },
+    {
+      "en": "Mega Gatling Peas might not be stronger than Gatling Peas.",
+      "zh": "或许超级机枪射手并不比机枪射手强。",
+      "es": "Las Scaredy-shrooms se sienten seguras bajo la protección de las Calabazas."
+    },
+    {
+      "en": "Scaredy-shrooms feel safe when covered by Pumpkins.",
+      "zh": "胆小菇在南瓜头的保护下很有安全感。",
+      "es": "Las Fume-shrooms respiran con sus 'pistolas de burbujas'."
+    },
+    {
+      "en": "Fume-shrooms breathe with their 'bubble guns'.",
+      "zh": "大喷菇用他们的“泡泡枪”呼吸。",
+      "es": "Los proyectiles de Cardo rastreador usan la fórmula a = v²/r al girar hacia su objetivo."
+    },
+    {
+      "en": "Homing Thistles' projectiles use the formula, a = v²/r, when they are turning to their target.",
+      "zh": "导向蓟的子弹在转向它们的目标时使用了公式：a = v²/r。",
+      "es": "Los proyectiles parabólicos son desviados antes por las sombrillas de los zombis con parasol que por los zombis normales cercanos."
+    },
+    {
+      "en": "Lobbed projectiles reaches Parasol Zombies' umbrellas earlier than nearby regular zombies.",
+      "zh": "投掷子弹会在砸中周围僵尸之前被阳伞僵尸的雨伞弹开。",
+      "es": "Los zombis momia gimen de forma distinta a los zombis del futuro."
+    },
+    {
+      "en": "All zombies groan differently.",
+      "zh": "木乃伊僵尸吼叫声和未来僵尸并不一样。",
+      "es": "Para evaluar una planta no basta con mirar su daño;\ntambién hay que fijarse en su intervalo de ataque."
+    },
+    {
+      "en": "To evaluate a plant's ability, one must not only observe its damage \nbut also pay attention to its attack interval.",
+      "zh": "评判植物的攻击力，不仅要观察其伤害，还要注意其攻击间隔。",
+      "es": "Toda moneda tiene dos caras."
+    },
+    {
+      "en": "Every coin has two sides.",
+      "zh": "凡事都有两面性。",
+      "es": "Las Nuez muro pueden repararse. Las Roca punzante también."
+    },
+    {
+      "en": "Spikerocks can be repaired with Wall-nut First Aid!",
+      "zh": "钢地刺可以像坚果一样被修补。",
+      "es": "Conviene desbloquear los mundos en orden."
+    },
+    {
+      "en": "When Bowling Bulbs are out of projectiles, plant another one on them to instantly reload them.",
+      "zh": "保龄泡泡缺少弹药的时候，可以重叠种植快速装填。",
+      "es": "Puedes empezar la partida directamente\ncon semillas de uno de los 'Mazos desafiantes',\ny ganar gemas extra durante el nivel."
+    },
+    {
+      "en": "Its best to unlock worlds in order.",
+      "zh": "建议按照顺序解锁世界。",
+      "es": "Puedes superar el nivel con los 'Mazos desafiantes'\nsin usar alimento vegetal ni cortacéspedes.\nIncluso sin bonificación de pala."
+    },
+    {
+      "en": "'Challenging Card Decks' appear in some levels, offering a harder way to play!",
+      "zh": "选用“挑战卡组”中的卡牌，可以直接开始游戏\n游戏时获得额外的钻石！",
+      "es": "¿Quieres conseguir una planta y no sabes dónde encontrarla?\nMíralo en el Almanaque."
+    },
+    {
+      "en": "Wanna get a plant but couldn't find it?\nCheck it's location in the Almanac!",
+      "zh": "想获得某株植物却不知道在哪里才能找到？\n去图鉴瞧瞧看！"
+    },
+    {
+      "en": "The Fire Gourd's firing distance is related to how fast it shakes.",
+      "zh": "根据火葫芦的摇晃速度判断攻击距离。"
+    },
+    {
+      "en": "Perfume-Shrooms melt Zomboni ice. \nThat perfume might be hotter than you think.",
+      "zh": "根据火葫芦的摇晃速度判断攻击距离。"
+    },    
+    {
+      "en": "Not all Gargantuars are alike. \n Watch out for their special abilities!",
+      "zh": "根据火葫芦的摇晃速度判断攻击距离。"
+    },      
+    {
+      "en": "Don't know how to fight a zombie? Check the almanac!",
+      "zh": "根据火葫芦的摇晃速度判断攻击距离。"
+    },  
+    {
+      "en": "Check out the stats of both plants and zombies in the almanac!",
+      "zh": "根据火葫芦的摇晃速度判断攻击距离。"
+    },            
+    {
+      "en": "Apple Mortar my belove- I mean Apple Mortar is great for stunning hordes of zombies.",
+      "zh": "根据火葫芦的摇晃速度判断攻击距离。"
+    },      
+    {
+      "en": "Quest Branches give you epic plants!",
+      "zh": "根据火葫芦的摇晃速度判断攻击距离。"
+    },    
+    {
+      "en": "Who's \"↙↘\" in PvZ1, but \"↖↗\" in PvZ2?",
+      "zh": "谁在一代是“↙↘”，但是在二代是“↖↗”的呢？"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "#comment": "Sandbox",
+  "objects": [
+    {
+      "objclass": "LevelDefinition",
+      "objdata": {
+        "Description": "Sandbox",
+        "LevelNumber": 1,
+        "Loot": "RTID(NoLoot@LevelModules)",
+        "Modules": [
+          "RTID(EightiesZombossIntro@LevelModules)",
+          "RTID(AutoCollect@LevelModules)",
+          "RTID(DefaultSunDropperListenToLawn@LevelModules)",
+          "RTID(ZombiesDeadWinCon@LevelModules)",
+          "RTID(CowboyRails@CurrentLevel)",
+          "RTID(PowerupsTutorial@CurrentLevel)",
+          "RTID(SeedBank@CurrentLevel)",
+          "RTID(Gravestones@CurrentLevel)",
+          "RTID(ModPlants@CurrentLevel)",
+          "RTID(KongfuTNT@CurrentLevel)",
+          "RTID(DefaultZombieWinCondition@LevelModules)"
+        ],
+        "Name": "Sandbox (Grid Items/Night)",
+        "StageModule": "RTID(FeastivusNightStage@LevelModules)",
+        "StartingSun": 100,
+        "SandBoxMode": true,
+        "SandBoxWithoutAllLawns": true
+            }
+        },
+        {
+            "aliases": [
+                "ModPlants"
+            ],
+            "objclass": "PlantModifierProperties",
+            "objdata": {
+                "SuppressParticle": true,
+                "List": [
+                    {
+                        "Type": "imitater",
+                        "NewObjdata": {
+                            "SunCost": 0,
+                            "Cooldown": 0
+                        }
+                    }
+                ]
+            }
+        },
+        {
+      "aliases": [
+        "KongfuTNT"
+      ],
+      "objclass": "KongfuTNTProperties",
+      "objdata": {
+        "Speed": 0.5,
+        "TriggerGameLose": false,
+        "DamagesToZombies": false,
+        "DamagesToPlants": true,
+        "SpawnData": [
+          {
+            "Speed": 0.5,
+            "WireLength": 3,
+            "GridX": -1,
+            "GridY": 1
+          },
+          {
+            "Speed": 0.5,
+            "WireLength": 4,
+            "GridX": -1,
+            "GridY": 2
+          },
+          {
+            "Speed": 0.5,
+            "WireLength": 3,
+            "GridX": -1,
+            "GridY": 3
+          }
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "Gravestones"
+      ],
+      "objclass": "GravestoneProperties",
+      "objdata": {
+        "ForceSpawnData": [
+          {
+            "TypeName": "kongfu_rack_torch",
+            "GridX": 7,
+            "GridY": 0
+          },
+          {
+            "TypeName": "kongfu_rack_blade",
+            "GridX": 7,
+            "GridY": 1
+          },
+          {
+            "TypeName": "kongfu_rack_hammer",
+            "GridX": 5,
+            "GridY": 1
+          },
+          {
+            "TypeName": "kongfu_rack_bomb",
+            "GridX": 7,
+            "GridY": 2
+          },
+          {
+            "TypeName": "kongfu_rack_flag",
+            "GridX": 7,
+            "GridY": 3
+          },
+          {
+            "TypeName": "kongfu_rack_fan",
+            "GridX": 5,
+            "GridY": 2
+          },
+          {
+            "TypeName": "kongfu_rack_3section_staff",
+            "GridX": 6,
+            "GridY": 2
+          },
+          {
+            "TypeName": "kongfu_rack_helmet",
+            "GridX": 5,
+            "GridY": 3
+          },
+          {
+            "TypeName": "kongfu_rack_nunchaku",
+            "GridX": 7,
+            "GridY": 4
+          },
+          {
+            "TypeName": "kongfu_rack_helmet",
+            "GridX": 5,
+            "GridY": 3
+          },
+          {
+            "TypeName": "kongfu_rack_nunchaku",
+            "GridX": 7,
+            "GridY": 4
+          },
+          {
+            "GridX": 3,
+            "GridY": 0,
+            "TypeName": "gravestone_dark"
+          },
+          {
+            "GridX": 3,
+            "GridY": 4,
+            "TypeName": "gravestone_dark"
+          },
+          {
+            "GridX": 3,
+            "GridY": 1,
+            "TypeName": "gravestoneSunOnDestruction"
+          },
+          {
+            "GridX": 3,
+            "GridY": 3,
+            "TypeName": "gravestoneSunOnDestruction"
+          },
+          {
+            "GridX": 3,
+            "GridY": 2,
+            "TypeName": "gravestonePlantfoodOnDestruction"
+          }
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "CowboyRails"
+      ],
+      "objclass": "RailcartProperties",
+      "objdata": {
+        "RailcartType": "railcart_cowboy",
+        "Railcarts": [
+          {
+            "Column": 1,
+            "Row": 1
+          }
+        ],
+        "Rails": [
+          {
+            "Column": 1,
+            "RowEnd": 4,
+            "RowStart": 0
+          }
+        ]
+      }
+    },
+    {
+      "aliases": [
+        "SeedBank"
+      ],
+      "objclass": "SeedBankProperties",
+      "objdata": {
+        "SuppressObjectiveTip": true,
+        "PresetPlantList": [
+          {
+            "PlantType": "peashooter",
+            "Level": -1
+          },
+          {
+            "PlantType": "sunflower",
+            "Level": -1
+          },
+          {
+            "PlantType": "wallnut",
+            "Level": -1
+          },
+          {
+            "PlantType": "potatomine",
+            "Level": -1
+          },
+          {
+            "PlantType": "cabbagepult",
+            "Level": -1
+          },
+          {
+            "PlantType": "bloomerang",
+            "Level": -1
+          },
+          {
+            "PlantType": "iceburg",
+            "Level": -1
+          },
+          {
+            "PlantType": "gravebuster",
+            "Level": -1
+          }
+        ],
+        "SelectionMethod": "preset"
+      }
+    },
+    {
+      "aliases": [
+        "PowerupsTutorial"
+      ],
+      "objclass": "PowerupTutorialIntroProperties",
+      "objdata": {}
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "af3e61e3-ec39-4147-afbf-89a0f8143123",
+  "name": "The Buffz & Nerfz Balance Mod (Modified)",
+  "version": "10",
+  "priority": 100,
+  "description": "Mod that rebalances a plethora of plants to make each one a decent choice. Also removes world premiums and compensates this by adding 1-2 extra plants unlocked through the expansions of every world exlcuding KFT.",
+  "author": "!!Pad Industrial Ltd. & Mirera",
+  "formatVersion": 1,
+  "gameVersion": "0.8.2 with gp-next 1.2.3",
+  "gpNextVersion": ">=1.0.0"
+}
