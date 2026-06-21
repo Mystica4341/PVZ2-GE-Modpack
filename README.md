@@ -6,7 +6,8 @@
 ### Cài Đặt Mods
 1. Tải/Clone thư mục này về
 2. Mở game và bấm ```F10```
-3. Chọn ```Open File Patch Directory```
-4. Để 2 thư mục đã tải vào đường dẫn ```com.pvzge.game\gp-next\packs```
-5. Vào lại game và chọn ```Save & Reload``` tại mục ```Datapacks```
-6. Tắt và mở lại game
+3. Qua Tab ```Experimental``` và bật 2 options ```worldmap-json``` và ```plant-level-system```
+4. Về lại tab ```Patcher``` và chọn ```Open File Patch Directory```
+5. Để 2 thư mục đã tải vào đường dẫn ```com.pvzge.game\gp-next\packs```
+6. Vào lại game và chọn ```Save & Reload``` tại mục ```Datapacks```
+7. Tắt và mở lại game
