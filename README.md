@@ -19,4 +19,4 @@
 4. Find and change Gatling Pea
    a. ```MegaGatling```: ```Peatype & PeaTypePlantFood``` change to ```Pea```
    b. ```Gatling_lvl3```: ```Peatype & PeaTypePlantFood & Cooldown``` change to ```Pea & Pea & 15``` respectively
-5. Close and enjoy
+6. Close and enjoy
