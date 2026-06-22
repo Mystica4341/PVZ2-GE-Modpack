@@ -1,0 +1,1077 @@
+PvZGE Buffz & Nerfz Rebalance Mod Changelog:
+
+*Plants that are not mentioned in this text remain practically unchanged.
+
+General Changes:
+- All heating plants except Fire Peashooter, Pepper-Pult, Lava Guava, Torchwood, etc. have had their heating reduced to encourage usage of the mentioned plants.
+- All ground plants can no longer be grabbed by parrots.
+
+- If you have any ideas for changes, feel free to ask!
+
+______________________________________________________________________
+
+
+
+
+Peashooter:
+- PF pea count: 50 > 75
+- Woah, Peashooter got buffed!
+
+Potato Mine:
+- Fully recharged at beginning of level
+- PF clone count: 2 > 3
+
+Cabbage-Pult:
+- Firerate: 2.7 > 2.65
+- Cabbage splash damage: 0 > 9.5
+- Sun cost: 100 > 125
+- Cabbage-Pult is much more unique now, rather than being a Peashooter clone.
+
+Bloomerang:
+- Boomerang pierce count: 3 > 5
+- Boomerang damage: 2
+- Boomerang splash damage: 0 > 10
+
+Iceberg Lettuce:
+- Freeze duration: 10 > 15
+- Chill duration (after thawing): 0 > 15
+- Recharge: 20 > 15 (can permastall 1 zombie)
+
+Grave Buster:
+- Can now eat Backpacks, Tents, Surfboards, Weapon/Armour stands, and Arcade cabinets.
+- Recharge time: 10 > 7.5
+- Toughness: 300 > 1200
+- ^ Can act as a temporary wall
+- Sun cost: 0 > 25
+
+Twin Sunflower:
+- Recharge time: 10 > 7.5
+- Toughness: 300 > 450
+- Now half recharged at the beginning of a level (formerly fully unrecharged).
+
+Bonk Choy:
+- Damage: 15 > 20
+- Tomb detection range: 3 > 4.5
+- Melee plants tend to be underused compared to those that are ranged. Its new strength should allow it to deal with heavily armored basics better (with support, of course)
+
+Iceweed:
+- Damage: 10 > 8
+- Sun cost: 150 > 200
+- Recharge: 5 > 10
+- Damage powered: 20 > 25
+- PF Saw DPS: 800 > 900
+- Name changed to ‘Frostweed’ (actual plant)
+
+Snowdrop:
+- Sun cost: 200 > 225
+- Recharge time: 5 > 12.5
+- Firerate: 1.35 > 2.7
+- Snowball damage: 30 > 25
+- Snowball splash: 0 > 15
+- Icicle damage: 30 > 25
+- Icicle splash: 0 > 15
+- Icicle chance per shot: 0.35 > 0.65
+- Icicle freeze duration: 7.5 > 2.5
+- Snowdrop is now a powerful staller, having a much larger chance of freezing, though the freeze duration has been lowered keeping it balanced. It is now an effective support AND offensive plant with AoE damage and chill, differentiating it more from Snow pea. About that…
+
+Snow Pea:
+- Sun cost: 150 > 175
+- Has a 15% chance to shoot an icicle that freezes zombies in a 1x1 area per shot (formerly 0).
+- Icicle freeze duration: 7.5 > 2.5
+- Snow Pea easily became one of the most redundant stallers after its nerf as well as the release of Snowdrop. Now, it regains its past buffs (only excluding the AoE to keep it different from Snowdrop) making it a great staller compared to its old, unbuffed counterpart.
+
+Dandelion:
+- Recharge time: 15 > 8.5
+- Damage: 50 > 65
+- Splash damage (1x1): 50 > 45
+- Sun cost: 275 > 300
+- Blow recover time: 15 > 18.5
+- Stun duration: 0 > 0.45
+- Uses normal dandelion seed instead of small ones for blown projectiles
+- The old Dandelion was quite underwhelming to use. It had an extremely sluggish recharge, slow firerate and mediocre damage that was only noticeable when spammed, which is already hard enough with its recharge as mentioned before and expensive sun cost.
+The reworked version is much more spammable with better damage to help it compete with plants around the same cost.
+
+Pea Vine:
+- Recharge time: 5 > 10
+- Firerate: 1.35 > 2.5
+- Pea Vine has been nerfed a bit to help emphasize its role as a multiplier plant more. The old Pea Vine’s damage was quite strong for a Peashooter that took up no space and only cost 25 more sun than the latter.
+
+Kernel-Pult:
+- Butter chance: 0.3 > 0.35
+- To make it slightly more reliable for its counters, Seagull and Pelican Zombies.
+
+Spikerock:
+- Damage: 20 > 30
+- Toughness: 900 > 4000
+- Recharge time: 5 > 7.5
+- Quite expensive for what it does with unimpressive damage.
+
+Coconut Cannon:
+- Sun cost: 400 > 375
+- Damage: 900 > 1200
+- Can no longer be grabbed by Parrots.
+
+Cherry Bomb:
+- Recharge time: 35 > 45
+
+Spring Bean:
+- Sun cost: 50 > 25
+- Knockback distance: 1 > 2.75
+- Rest time: 10 > 14
+- A slightly better knockback plant now. At least it can perma-stall a single zombie now.
+
+Threepeater, Split Pea, Pea Pod:
+- Firerate: 1.35 > 1.075
+- Toughness (Threepeater): 300 > 450
+- PF Pea count (Threepeater): 30 > 60
+- Mainly to make them worth their respective sun costs. Also, at least a fully stacked Pea Pod can kill a zombie faster than Gatling Pea now.
+- Pea Pod and Repeater’s giant peas now have splash damage (0 > 300).
+
+Buttercup:
+- Damage: 60 > 20
+- PF Damage: 150 > 40
+- Butter tile duration: 150 > 45
+- Toughness: 900 > 1200
+- Can no longer be healed by Aloe (ported RFL change)
+- Moved to the Enforce-Mint family.
+
+Chili Bean:
+- Recharge time: 20 > 15
+- PF clones: 3 > 4
+
+Lightning Reed:
+- Damage: 10 > 17.5
+- Splash damage: 10 > 15
+- Sun cost: 125 > 150
+- E-Currant stun duration: 0.4 > 0.25
+- Lightning Reed is peculiarly weak. Its damage is so low it’s only noticeable when spammed. The reworked Lightning Reed should help it be more effective on the lawn.
+
+Tall-Nut:
+- Can no longer be grabbed by Parrots.
+- Can no longer be moved in any way (Excavators, Qigong, Football Mechs, Fisherman, it’s immune to all of them!)
+- Recharge time: 20 > 25
+- Now a heavy duty wall and the stronger alternative to Resistant Radish (best used in longer levels, especially for LC, BWB, and KFT!)
+
+Jalapeno:
+- Recharge time: 35 > 30
+- Fire duration: 5 > 1
+- Damage: 1800 > 2700
+- Jalapeno now does much more damage and has a shorter recharge time compared to all the other instant-kill plants! Extremely effective for clearing out lanes with high health threats like Gargantuars as its damage is now higher than Cherry Bomb and almost the same as the new Doom Shroom.
+
+Melon Pult:
+- Sun cost: 325 > 300
+- Recharge time: 5 > 7.5
+- To make it a wee better plant compared to its chilly and hard-hitting counterparts, Winter-Melon and Cantaloupe-Pult respectively.
+
+Winter Melon:
+- Sun cost: 500 > 625
+- Recharge time: 5 > 20
+- Firerate: 2.7 > 2.85
+- The nerf might seem underwhelming for one of if not the best adventure plant in the game, but I want to keep the plant still fun to play around with.
+
+Electric Peashooter:
+- Sun cost: 200 > 400
+- Damage: 20 > 25
+- Recharge time: 5 > 20
+- E-Currant stun duration: 0.4 > 0.25
+- The best piercing plant? With the same cost of Repeater? Too cheap.
+
+Sap-fling:
+- Sun cost: 75 > 150
+- Recharge time: 5 > 7.5
+- Firerate: 2.7 > 3
+- Sap duration: 30 > 7.5
+
+Electric Currant:
+- Sun cost: 150 > 225
+- Toughness: 300 > 900
+- Toughness is multiplied by 3 when boosted by mints.
+- Recharge time: 10 > 15
+- Its newfound power to give Fila-Mint plants and Infi-nut stun has granted it a one-way trip to being nerfed.
+
+Cactus:
+- Sun cost: 175 > 225
+- Pierce count: 3 > 5
+- Pierce count PF: 3 > 8
+- PF projectiles deal electric damage.
+- Can now be placed in water.
+- Can no longer be grabbed by Parrots.
+
+Marigold:
+- Recharge time: 10 > 7
+- Green Marigold shoots more peas now. (12 > 24)
+- Pink Marigold spawns early game plants/semi instants rather than mushrooms (Chili Bean, Gumnut, Solar Sage, Lava Guava, Hypnoshroom, Squash, Seedling, Grimrose, Ghost Pepper)
+
+Laser Bean:
+- Damage: 40 > 60
+- Sun cost: 200 > 275
+- Shoot interval: 2.7 > 2.35
+
+Blover:
+- Sun cost: 50 > 100
+- Recharge time: 5 > 7.5
+- The zombies still don’t have a chance.
+
+Citron:
+- Damage: 800 > 900
+- Splash damage (1x1): 0 > 375
+- Charge time: 7 > 7.5
+
+E.M. Peach:
+- Sun cost: 25 > 75
+- Recharge time: 25 > 20
+
+Starfruit:
+- Sun cost: 150 > 125
+- Star damage: 20 > 25
+- Star splash damage (1x1): 0 > 10
+- Star speed: 1 > 0.7 (the slower stars look better in my opinion)
+
+Angel Starfruit:
+- Star damage: 30 > 25
+- Star splash damage (1x1): 0 > 10
+- Recharge time: 5 > 7.5
+- Star speed: 1 > 0.7 (the slower stars look better in my opinion)
+
+
+Shooting Starfruit:
+- Now fires large stars that break into 8 smaller ones upon hit.
+- Small star damage: 10
+- Star speed: 1 > 0.65 (the slower stars look better in my opinion)
+   - The PF stars speed has also been modified to sync in speed with the smaller ones.
+- Sun cost: 500 > 725
+- Firerate: 0.9 > 1.8
+- Recharge time: 5 > 45
+- Takes 15 seconds initially to start recharging.
+- While its damage and slow fire rate may seem weak for a plant that costs 725 sun with a 45 second recharge, the stars it fires can actually dish out a lot of damage as most of the stars will hit the exact zombie upon contact. With 2 or more, you can easily shred through large hordes of high health zombies with the power of the new and improved Shooting Starfruit!
+
+Infi-nut:
+- Recharge time: 15 > 20
+- Sun cost: 75 > 100
+- Can no longer be healed by Aloe
+- Regenerate from bite damage time: 15 > 10
+- Regenerate from death time: 15 > 12
+- Toughness: 2000 > 2400
+- Kinda overrated ngl.
+
+Magnifying Grass:
+- Rainbow bolt damage: 550 > 750
+- Splash damage (1x1): 0 > 95
+- Recharge: 5 > 10
+- Sun per shot: 50 > 75
+- PF damage: 200 > 400
+   - Its PF barely does anything to large clumps of zombies.
+- PF can be extended by more plants (can now be extended by Plantern, Toadstool, Sun Bean, Moon Bean, Solar Sage, and other Magnifying Grasses on the lawn!)
+- PF extension per sun producer: 0.35 > 0.4
+- Can no longer extend its PF with Moonflower.
+
+Tile Turnip:
+- Costs 125 instead of 250 for second tile (after that it’s 250 and onwards)
+- Moved to the Fila-Mint family.
+
+Apple Mortar:
+- Sun cost: 250 > 475
+- Recharge time: 8 > 20
+- Firerate: 1.8 > 2.75
+- Mortar stun duration: 0.75 > 1.25
+- Mortar damage: 30 > 70
+- Mortar splash damage: 0 > 45
+- PF Apple damage: 50 > 360
+- PF Apple splash damage: 0 > 240
+- PF Apple stun duration: 1 > 2
+- Now a hard-hitting, 3-lanewide AoE attacker rather than a weak stunning Threepeater. I actually didn’t remove the stun duration as it was literally the only reason why I used him in the first place.
+
+Solar Tomato:
+- Stun duration: 8 > 10
+- Sun per zombie: 50 > 25
+- Sun cost: 100 > 75
+
+Pumpkin:
+- Recharge time: 30 > 17.5
+- Long recharge not worth the already expensive plant (150 is quite high for a defensive plant, and the long recharge with short levels makes it mid). The recharge has been changed to suit the shorter levels more and make it less stressful to use in SOS levels.
+
+Holly Knight:
+- Sun cost: 150 > 250
+- Damage: 20 > 30
+- Damage PF: 40 > 75
+- Recharge time: 15 > 25
+- Name changed to ‘Holly Barrier’ (VNL name).
+- Moved to the Spear-Mint family.
+- Now the offensive version of Bamboozle.
+
+Puff-Shroom & Sea-Shroom:
+- Toughness: 150 > 300
+- Lifespan: 60 > 600
+- Fully recharged at the beginning of a level.
+
+Fume-Shroom:
+- Firerate: 2.4 > 1.2
+- Damage: 40 > 20
+- I just like the faster Fume-Shroom.
+
+Hypno-Shroom:
+- Sun cost: 125 > 75
+- Recharge time: 20 > 17.5
+
+Magnet-Shroom:
+- Sun cost: 100 > 125
+- Recharge time: 15 > 7.5
+- Rest time: 10 > 7.5
+- This plant is already quite niche, why give it such a long recharge time?
+
+Scaredy-Shroom:
+- Sun cost: 25 > 50
+- Firerate: 1.35 > 2.9
+- Recharge: 5 > 13.5
+- Spore damage: 20 > 65
+- Spore splash damage: 0 > 45
+- Knockback: 0.2 > 0.15
+- PF Spore count: 40 > 30
+- Always fires knockback spores now.
+- Scaredy-Shroom is still quite underwhelming in GE. Yeah, it got knocked back, but the chances of it knockbacking are quite low. Now, Scaredy-Shroom works similarly to Bamboo Shoot from PvZ3, taking his sweet time shooting heavy-hitting spores with AoE, like a sniper. 
+
+Ice-Shroom:
+- Sun cost: 300 > 450
+- Recharge time: 30 > 45
+- Rest time: 25 > 35
+- Freeze duration: 5 > 7.5
+- Chill duration: 5 > 10
+- Damage: 20 > 15
+- Toughness: 700 > 600
+- Its power needed to be toned down a bit.
+
+Doom-Shroom:
+- Sun cost: 225 > 275
+- Recharge time: 35 > 85
+- Damage: 2700 > 3200
+- Now an actual full-board nuke!
+
+Sun Bean:
+- Sun cost: 50 > 0
+- Recharge time: 20 > 15
+- Sun Bean is actually a much better plant now, guaranteeing a profit when used!
+
+Pea-nut:
+- Firerate: 1.35 > 1.1
+- Recharge time: 15 > 10
+
+Plantern:
+- Toughness: 300 > 900
+- Recharge time: 10 > 15
+- Can now warm nearby plants in FBC (pulse cooldown: 0 > 6)
+
+Vamporcini:
+- Base toughness: 4000 > 3000
+- Sun cost: 100 > 125
+
+Lily Pad:
+- Fully recharged at the beginning of a level.
+
+Tangle-Kelp:
+- Sun cost: 25 > 50
+- Recharge time: 20 > 7.5
+- Can now be placed in shallow puddles (kinda cursed but was added to allow synergy with Waturnip).
+- Will be able to compete with Sea-Shroom for the early game.
+
+Bowling Bulb:
+- Sun cost: 200 > 175
+- Smallest bulb now deals more damage than the second.
+- Bulb damage (aqua, blue, orange): 100, 80, 190
+- Bulb splash damage: 45, 25, 120
+- Rest time: 4 > 4.5
+- Can no longer be grabbed by Parrots.
+
+Chomper:
+- Sun cost: 150 > 175
+- Recharge time: 5 > 10
+- Chew time: 17 > 15
+
+Homing Thistle:
+- Recharge time: 5 > 15
+- Firerate: 1.35 > 1.5
+- ^ As it can keep its thistles on the board now.
+
+Guacodile:
+- Damage: 20 > 30
+- Pits now stun targets (0.2s for main target, 0.15s in 1x1 area)
+- Firerate: 1.35 > 1.5
+- Knockback: 2 >  0.5
+- PF bite damage: 150 > 175
+- Is displayed as a water plant in the almanac like VNL.
+
+Banana Launcher:
+- Rest time: 20 > 25
+- Recharge time: 5 > 15
+- Damage: 1200 > 1800
+- Banana Launcher’s old damage was a bit weak for a 500 sun plant in my opinion. Can’t even one-shot the zombie it was meant to counter, the Fisherman! The new Banana Launcher can now oneshot most zombies at the cost of its recharge time, similar to RFL.
+
+Missile Toe:
+- Sun cost: 500 > 275
+- Recharge time: 5 > 20
+- Rest time: 20 > 22.5
+- Damage (1x3): 1200 > 370
+- Has 3 tiers, you can check their respective stats in-game!
+
+Ghost Pepper & Lava Guava:
+- Recharge time: 15 > 20
+- To match most other semi-instas and tone down their power a slight bit to keep them from being spammable.
+- Ghost Pepper is moved to the Enforce-Mint family.
+
+Parsnip:
+- Sun cost: 150 > 250
+- Recharge time: 5 > 15
+- Damage: 70 > 95
+- Toughness: 300 > 600
+- Can now be placed in water.
+- Can no longer be grabbed by Parrots.
+- No longer a powercrept Bonk Choy but rather a slow but hard-hitting melee plant.
+
+Seashooter:
+- Now shoots sea peas regardless of terrain.
+- Chill duration: 0 > 0.1
+- Chill duration (1x1): 0 > 0.005
+- ^ Can now extinguish flames
+- Sun cost: 275 > 350
+- Toughness: 300 > 450
+- Sea pea damage: 30 > 25
+- Steam pea damage: 60 > 50
+- Sea pea splash damage: 0 > 15
+- Steam pea splash damage: 0 > 30
+- Recharge time: 5 > 8
+- To discourage using it over Threepeater and Pea Pod on land.
+
+Ice Bloom:
+- Sun cost: 200 > 250
+- Recharge time: 35 > 45
+- Icicle count: 4 > 3
+- Chill duration: 6.5 > 10
+
+Hot Potato:
+- Recharge time: 10 > 5
+- Can now melt octopi
+- Now much more effective for FBC, capable of quickly reheating your frozen plants! Perfect for unfreezing your plants fast during freezing winds as all heating plants
+
+Pepper-Pult:
+- Recharge time: 20 > 5
+- Decreased heating cooldown
+- Damage: 50 > 55
+- Splash damage: 10 > 15
+- While having much less recharge, Pepper-Pult’s damage has also been increased to emphasize its damage output a bit more rather than just a bad heater.
+
+Fire Peashooter:
+- Sun cost: 175 > 225
+- Splash damage: 0 > 15
+- Has a ~30% chance to fire a plasma pea every shot.
+- Recharge time: 5 > 7.5
+- To differentiate her a bit from Repeater.
+
+Hurrikale:
+- Sun cost: 100 > 125
+- Recharge time: 5 > 17.5
+- Push duration: 3 > 4.25
+
+Stunion:
+- Stun duration: 12 > 15
+- To keep the duration the same as Iceberg Lettuce.
+
+Rotobaga:
+- Firerate: 1.35 > 1.275
+- To make it a little bit better as she’s rarely used.
+
+Pyre Vine:
+- DPS: 20 > 30
+- Recharge time: 12 > 7.5
+- Why so long?
+
+Garden (Jack-O-Lantern):
+- Range: 3 > 4
+- Recharge time: 20 > 12.5
+- PF Will-o'-wisp (at least I think that’s what it’s called) count: 9 > 10
+- Sun cost: 225 > 325
+- nmt expansion when garden
+
+Sweet Potato:
+- Sun cost: 150 > 100
+- Attraction range: 2 > 3
+- Can no longer be grabbed by Parrots.
+- To make her a wee better pick in the seed selection.
+
+Hot Date:
+- Sun cost: 175 > 225
+- Damage: 1000 > 1400
+- To make his flame a bit more devastating. Also, 220 is a romantic number though it had to be 225 to keep it as a multiple of 25.
+
+Gatling Pea:
+- Recharge time: 5 > 15
+- Firerate: 0.9 > 1
+- Despite its nerfs, it is still extremely strong and can sometimes even catch up to MGP depending on the latter’s RNG due to its consistency!
+
+Mega Gatling Pea:
+- Recharge time: 5 > 20
+- Firerate: 1.35 > 1.5
+- PF Chance: 0.5 > 0
+- Each pea per burst has a 57% chance to be a normal pea, 29% chance to be a fire pea, and 14% chance to be a plasma pea (weights are 4, 2, and 1 respectively).
+- Decided to build off of MGP’s RNG mechanic while removing its PF chance because it was quite broken for its cost and was just a boring idea in general.
+
+Torchwood:
+- Recharge time: 5 > 15
+- Toughness: 2000 > 900
+- Ignited peas have splash damage (1x1)
+- Fire peas that pass Torchwoods become Plasma peas.
+
+Red Stinger:
+- Recharge time: 5 > 7.5
+- PF duration: 7.5 > 8
+- Firerate: 1.35 > 2.25
+- Semi-defensive toughness: 900 > 2500
+- Defensive toughness: 1500 > 5000
+
+Autonomous Katapulting Ejectomatic Emitter:
+- Pierce count: 4 > 5
+- Pierce count max: 4 > 6
+- Knockback distance: 0 > 0.075
+- Sun cost: 175 > 200
+- A.K.E.E (I am not typing that name again) is now an actually unique plant, rather than being a near duplicate Bloomerang!
+
+Endurian:
+- Toughness: 3000 > 4000
+- Damage: 10 > 15
+- PF Damage: 15 > 25
+- Damage interval: 0.5 > 0.65
+- To make it a bit stronger. The recharge was changed to be a bit more in line with traditional wall plants.
+
+Toadstool:
+- Chew time: 42 > 25
+- Sun production: 50 > 25
+- Max number of zombies eaten before chew: 1 > 2
+- Sun cost: 200 > 225
+- Recharge time: 5 > 10
+- Tongue slap damage: 50 > 75
+- Do note that the chew time resets when Toadstool eats her second zombie.
+- Can now be placed in water (Toads are amphibians, it wouldn’t make sense if it wasn’t amphibious!)
+
+Stallia:
+- Slow time: 12 > 15
+- PF Slow time: 12 > 25
+- ^ To make its PF a little more valuable (the PF is clearly the worst out of the 3 stallers, especially compared to Iceberg Lettuce).
+
+Gold Leaf:
+- Recharge time: 10 > 5
+- Starting sun cost: 50 > 75
+- I want my fast recharging Gold Leaf :(
+
+Zoybean Pod:
+- Sun cost: 200 > 250
+- Recharge time: 20 > 10
+- ^ Why so long?
+- Spawn chances:
+   - Normal: 50 > 25
+   - Carrothead: 30 > 35
+   - Melonhead: 20
+- Grow time: 18 > 15 (now it’s always 15, not RNG)
+- Has a larger chance to spawn Carrothead instead.
+
+Aloe:
+- Heal per second: 100 > 90
+- PF Heal per second: 100 > 125
+- Toughness: 450 > 300
+- Recharge time: 20 > 15
+- PF Time: 10 > 6.5
+- Moved to the Enchant-Mint family.
+
+Shine Vine:
+- Recharge time: 5 > 7.5
+- Sun production (on its own): 50 > 25
+  - ^ To let it not entirely outclass Gold Leaf and overall only be used for sun producers. Gold Leaf is now usable on any plant while Shine Vine is best with sun producers.
+- Toughness: 300 > 450
+- ^ To let it survive longer when stunning.
+- Stun and PF attack damage: 10 > 0
+- No longer fully recharged at the beginning of a level.
+- Sun production per stun (and PF): 5 > 15
+- Stun duration: 2 > 0.75
+- Stun interval: 3 > 1.5
+
+Skyshooter:
+- Firerate: 0.9 > 1.225
+- Knockback distance: 0.05 > 0.035
+- Knockback distance (1x1): 0.05 > 0.02
+- Quite overtuned for a flying Peashooter. The extra firerate isn’t necessary imo. However, the knockback and slightly faster firerate weren’t nerfed too much for the sake of Aerial Fortress having limited space in the first place.
+
+Moonbean:
+- Sun cost: 25 > 75
+- Damage: 900 > 600
+- Recharge time: 20 > 25
+- Plant damage: 900 > 0
+- Still needs high damage to deal with tanky AF zombies like Twin Cabin Aircrafts and (while not added) Arbiter-X.
+
+Pineapple:
+- Renamed to 'Spinapple'
+- Toughness: 6000 > 4500
+- Extra spin time: 2 > 1.25
+- Sun cost: 125 > 150
+- This plant is just broken.
+
+Anthurium:
+- Renamed to 'Ampthurium'
+- Recharge time: 5 > 7.5
+- Damage: 20 > 35
+- Fire interval: 1.35 > 1.9
+- Stun duration (half-tile): 0 > 0.3, 0.15 in half tile
+- Orb damage: 400
+- Orb splash damage: 0 > 100 (3x3)
+- Orb stun duration: 0 > 0.5
+- Restored legacy almanac with some changes.
+- Changed up the stats a bit to differentiate it a bit from Peashooter.
+
+Asparagus:
+- Renamed to 'Aceparagus'
+-Damage: 20 > 18
+-Ammo: 7 > 6
+- Sun cost: 225 > 175
+- Rest time: 6 > old ammo count
+- Changed the almanac a wee bit.
+- Surprisingly balanced for a GE plant, just added some small tweaks.
+
+Floawer Pot:
+- Sun cost: 100 > 50
+- Recharge time: 10 > 7.5
+- Initial recharge time: 7.5 > 0
+- PF Toughness: 900 > 1200
+- PF Move speed: 2.5 > 1.5
+- To make its PF a wee bit better. Also, I don’t understand why a sky-based Lily Pad need such a grand sun cost of 100.
+
+Fire Gourd:
+- Sun cost: 200 > 275
+- Recharge time: 5 > 10
+- DPS: 150 > 200
+- Fire duration: 4 > 4.25
+- Total damage: 750 > 850
+- Rest time (to fire again): 6 > 7.5
+- Rest time (for full range): 14 > 15
+- Minimum range: 1 > 1.5
+
+Bamboo Shoot:
+- Damage: 30 > 45 (22.5 x 2)
+- Recharge time: 5 > 3.5
+- Sun cost: 175 > 225
+- Range: 4 > 4.5
+- PF Damage: 100 > 625
+- ^ Seriously, spending 1 PF and not being able to deal with a browncoat?!
+- PF Toss chance: 0.7 > 0.65
+- Can no longer be grabbed by Parrots.
+
+Resistant Radish:
+- Toughness: 2000 > 2500
+- To make it slightly more reliable.
+
+
+Heavenly Peach:
+- HP per heal: 150 > 235
+- Heal interval: 10 > 7.5
+- Moved to the Enchant-Mint family.
+- To make it compete better with Aloe
+
+Lychee:
+- Toughness: 3000 > 2250
+- Recharge: 15 > 20
+- Damage per bite: 20 > 22.5
+- Damage PF: 40 > 45
+- Bite damage needed per attack: 100 > 90 (PF is now 45)
+- Moved to the Spear-Mint family.
+
+Solar Sage:
+- Sun cost: 75 > 125
+- ^ Its sun production should be able to regain the sun used on it. You need sun to make sun!
+
+Cantaloupe-Pult:
+- Sun cost: 500 > 575
+- Damage: 100 > 115
+- Recharge time: 5 > 15
+- Firerate: 2.7 > 3
+- Named changed to “Hami-Pult” (what a mouthful)
+
+Bamboozle:
+- Damage: 600 > 750
+- Splash damage: 0 > 375
+- Toughness: 2000 > 3200
+- Sun cost: 225 > 275
+- Recharge time: 15 > 25
+
+Atomic Bombegranate:
+- Sun cost: 225 > 175
+- Recharge: 25 > 27.5
+- Grow time: 20 > 30
+- Damage (small): 600 > 450
+- Damage (medium): 1200 > 1100
+- Damage (large): 2700 > 3200 (matches with Doom-Shroom)
+
+Phat Beet:
+- Damage: 15 > 25
+- Critical damage: 25 > 45
+- Recharge time: 5 > 7.5
+
+Celery Stalk:
+- Toughness: 2000 > 2400
+- Mint boosted toughness: 2000 > 3600
+- Hide time: 3 > 1.25
+- Recharge time: 10 > 13.5
+
+Garlic:
+- Toughness: 900 > 3400
+- Recharge time: 5 > 7.5
+- Now perfect for your peculiar lane diverting strategies! The toughness was buffed specifically to deal with GE zombie spam.
+
+Spore-Shroom:
+- Sun cost: 150 > 175
+- Recharge time: 5 > 10
+- Firerate: 2.85 > 3.25
+- ^As spores always guarantee a spawn now.
+- To encourage using it to spawn more of itself through infecting rather than placing them manually.
+
+Thyme Warp:
+- Sun cost: 75 > 150
+- Moved to the Contain-Mint family.
+
+Intensive Carrot:
+- Sun cost: 100 > 75
+- HP return: 0.5 > 1.5
+- Extremely strong with defense plants.
+
+Strawburst:
+- Sun cost: 400 > 450
+- Recharge time: 5 > 12.5
+- Damage (small): 300 (150 in 1x1)
+- Damage (medium): 750 (400 in 3x3)
+- Damage (large): 1450 (900 in 3x3)
+- Grow time (from med to large): 15 > 13.5
+
+Blooming Heart:
+- Sun cost: 150 > 175
+- Recharge time: 5 > 10
+- Firerate: 2.85 > 2.95
+
+Electric Blueberry:
+- Sun cost: 150 > 175
+- Recharge time: 45 > 30
+- Normal zombie target chance: 55
+- Special zombie target chance: 40 > 35
+- Gargantuar target chance: 5 > 10
+
+Gumnut:
+- Sun cost: 125 > 75
+- Gum base HP: 4000 > 3000
+- Zombie gum HP multiplier: 3 > 2
+- Recharge time: 15 > 17.5
+
+Caulipower:
+- Sun cost: 250 > 375
+- Recharge time: 45 > 30
+- Normal zombie target chance: 55 > 42
+- Special zombie target chance: 40 > 55
+- Gargantuar target chance: 5 > 3
+
+Grapeshot:
+- Damage: 1800 > 225
+- Recharge time: 35 > 45
+- Grape damage: 200 > 100
+- Grape pierce count: 5 > 4
+- Sun cost: 150 > 175
+- Grape splash damage (3x3): 0 > 75
+- *Three-shots gargantuars
+- To encourage using its grape projectiles more. Also, its damage pierces, so don’t worry about it dealing with basics and some specials!
+
+Primal Peashooter:
+- Damage: 60 > 50
+- Splash damage (1x1): 0 > 30
+- Recharge time: 5 > 7.5
+- PF Pea count: 5 > 6
+- Sun cost: 175 > 275
+- Knockback chance: 0.5 > 1
+- Knockback: 1 > 0.35
+- Knockback (1x1): 0 > 0.25
+- Firerate: 2.85 > 3.25
+
+Primal Wallnut:
+- Sun cost: 75 > 125
+- Recharge time: 5 > 7.5
+
+Perfume-Shroom:
+- Sun cost: 150 > 100
+- Recharge time: 30 > 10
+
+Cold Snapdragon:
+- Sun cost: 225 > 325
+- Chill duration: 10 > 4.5
+- Recharge time: 5 > 15
+
+Primal Sunflower:
+- Toughness: 300 > 750
+- Sun cost: 75 > 100
+- Initial sun producing time: 5 > 7.5-10
+
+Primal Potato Mine:
+- Sun cost: 50 > 100
+- Damage (1x1): 1800
+- Damage (3x3): 1800 > 750
+- Charge time: 5 > 7.5
+
+Shrinking Violet:
+- Sun cost: 75 > 100
+- Recharge time: 15 > 25
+
+Meteor Flower:
+- Sun cost: 250 > 325
+- Damage: 120 > 135
+- Recharge time: 10 > 15
+- Rest time: 7 > 7.5s
+- Second meteor miss chance: 0.35 > 0
+
+Explode-O-Nut:
+- Sun cost: 50 > 125
+- Toughness: 3000 > 2500
+- Damage: 1800 > 900 (pierces armour)
+- Recharge time: 10 > 25
+
+Moonflower:
+- Sun cost: 50 > 75
+- Sun production: 25, 50, 75, 100 > 15, 25, 50, 75 (sun production increases with each adjacent shadow plant)
+
+Nightshade:
+- Sun cost: 75 > 150
+- Recharge time: 5 > 7.5
+- Leaf respawn cooldown: 5 > 7.5
+- Firerate: 2.7 > 4.5
+- Detect distance (normal): 1.5 > 1.75
+- Detect distance (shadow): 9 > 3.5
+- Damage: 200 > 275
+- Damage (shadow): 400 > 425
+
+Shadow-Shroom:
+- Recharge time: 10 > 7.5
+- Poison lasts infinitely now. (formerly 30s)
+
+Dusk Lobber:
+- Sun cost: 150 > 275
+- Recharge time: 5 > 17.5
+
+Grimrose:
+- Sun cost: 75 > 50
+- Recharge time: 20 > 15
+- Reload interval: 10 > 8.5
+- PF Drag count: 3 > 4
+
+Gloom Vine:
+- Toughness: 300 > 450
+- Damage: 45 > 12.5
+- Firerate: 2.7 > 2.175
+- Sun cost: 125 > 75
+- 125 sun to power a single shadow plant is a bit absurd, and his damage paired with his cost understates his ability to power shadow plants imo. The extra toughness is to protect shadow plants typically in the front, like Gloom-Shroom.
+
+Gloom-Shroom:
+- DPS: 100 > 75
+- Poison DPS: 60 > 40
+- PF DPS: 1543 > 1200
+- Recharge time: 5 > 20
+- Sun cost: 250 > 300
+- Damage interval: 1.5 > 1.575
+- Toughness: 300 > 450
+- Damage duration: 0.5 > 0.8
+- Can still kill an infinite amount of basics without taking a single bite of damage! Extremely powerful with Gloom Vine.
+
+Shadow Peashooter:
+- Beam damage: 70 > 35
+- Pea firerate: 1.35 > 1.45
+- Ray firerate: 2.3 > 2.475
+- Sun cost: 125 > 325
+- Recharge time: 10 > 15
+- Mint damage buff: 500% > 400%
+- Does WAY too much for a 125 sun cost plant.
+
+Murkadamia Nut:
+- Toughness: 2500 > 1000
+- Shield toughness: 2000 > 1500
+- Jelly toughness: 2500 > 3000
+- Initial jelly toughness: 0.6 > 1.15
+- Jelly cooldown: 5 > 6.5
+- ^ Murkadamia jelly now starts out stronger!
+- HealPS: 100 > 175
+- Recharge time: 13 > 15
+- Sun cost: 100 > 75
+- Bite mirror damage: 25% > 40%
+- The old Murk Nut was peculiarly weak. Its damage was awful for hordes and you needed to power it for its full utility. The new Murk Nut should make it a better defensive and offensive plant for shadow decks.
+
+Noctarine:
+- Can now be placed on top of other plants (QoL change).
+- Sun cost: 150 > 75
+- Recharge time: 15 > 12.5
+- DPS: 20 > 9.5 (Total of 190 damage, just enough to kill basics [pierces armour])
+- Shadow DPS: 12.5 (Total of 250 damage)
+- Damage interval: 0.5 > 1
+- Duration: 15 > 20
+- Shadow Duration: 20 > 25
+- To emphasize its role in powering shadow plants more than just dealing damage.
+
+Dragon Bruit:
+- Renamed to ‘Dragon Fruit’
+- Sun cost: 200 > 350
+- Charge time: 8.5 > 6.5
+- Damage: 100 > 65
+- Splash damage (1x1): 45
+- Recharge time: 10 > 12.5
+- Reduced poison DPS and duration
+- Toughness: 300 > 450
+- Projectile now spawns a seedling, which grows into a baby Dragon Fruit at full stage.
+- Sedling damage (small): 25 (1x1)
+- Seedling damage (medium): 35 (3x3)
+- Baby Dragon Fruits can be shoveled for some sun.
+
+Gold Bloom:
+- Recharge time: 85 > 900
+- Sun production: 375 > 325
+- Mint multiplier: 3 > 2
+
+Escape Root:
+- Sun cost: 50 > 100
+- Damage: 1800 > 1600
+- Damage (Primal Potato Mine): 2700 > 1600
+- Toughness: 300 > 900
+
+Umbrella Leaf:
+- Sun cost: 100 > 150
+- Recharge time: 5 > 10
+- Toughness: 300 > 600
+
+Power Lily:
+- Recharge time: 60 > 50
+- Moved to the Enchant-Mint family.
+- Can now be placed on water (she’s a water lily, duh!)
+
+Cran Jelly:
+- DPS: 3000 > 2250
+- Velocity: 8 > 7
+- Recharge time: 10 > 20
+- Jelly lifespan: 30 > 15
+- Moved to the Ail-Mint family.
+
+Snap Pea:
+Chew time: 20 > 14
+Toughness: 300 > 450
+PF Swallow count: 4 > 5
+Pea damage: 40 > 30
+Sun cost: 200 > 325
+
+Appease-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 12 > 8
+- Recharge time: 85 > 120
+- Pea count: 6 > 4
+
+Enlighten-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 10 > 8
+- Recharge time: 85 > 120
+- Sun production: 75 > 0 (iirc it still produces an extra 25 sun, just that it can’t be changed)
+
+Reinforce-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 16 > 8
+- Recharge time: 85 > 120
+
+Bombard-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 16 > 8
+- Recharge time: 85 > 120
+- Explosion damage: 1800 > 1200
+
+Arma-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 12 > 8
+- Recharge time: 85 > 120
+- Projectile damage: 900 > 275
+- Projectile stun duration: 5 > 2.5
+- Projectile count: 5 > 15
+
+Spear-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 18 > 8
+- Recharge time: 85 > 120
+- Saw DPS: 900 > 200
+
+Winter-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 10 > 8
+- Recharge time: 85 > 120
+- Chill duration: 15 > 600
+
+Enforce-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 18 > 8
+- Recharge time: 85 > 120
+
+Contain-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 16 > 8
+- Recharge time: 85 > 120
+- Stun duration: 8 > 7.5
+
+Pepper-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 16 > 8
+- Recharge time: 85 > 120
+- Fire DPS: 225 > 40
+- The GE Pepper-Mint could literally kill every zombie on the board including Gargs. Buffed way too much in this game, considering it was already extremely strong.
+
+Ail-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 12 > 8
+- Recharge time: 85 > 120
+- Poison DPS: 50 > 35
+
+Fila-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 12 > 8
+- Recharge time: 85 > 120
+- Damage: 150 > 190
+- To make the effect more satisfying, being able to at least one shot every basic.
+
+Enchant-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 16 > 8
+- Recharge time: 85 > 120
+- Hypnotized zombie count: 3 > 5
+
+Conceal-Mint:
+- Sun cost: 0 > 275
+- Buff duration: 12 > 8
+- Recharge time: 85 > 120
+- Zombies pulled: 5 > 6
+
+NEW PLANTS:
+
+
+
+Waturnip:
+- Creates a shallow water puddle upon planting.
+- Sun cost: 25
+- Recharge: 5
+- Mainly used to pair with Seashooters, who are stronger when in water.
+
+Chip-ling: (ported from mR)
+- Sun cost: 0
+- Recharge: 6.5
+- Damage: 65 (three-shots basics)
+- Can be placed in water.
+- PF does nothing.
+- Literally RFL’s Potato Chip but weaker.
+
+Tumbleweed: (not in GE yet)
+- Sun cost: 50
+- Recharge: 5.5 > 7.5
+- Damage: 60
+- Knockback: 1.53125 > 1.35
+
+Garliclove:
+- Sun cost: 0
+- Recharge: 6.5
+- Toughness: 50
+- Diverts any zombie that eats it into an adjacent lane (basically Eclise Garlimite)
