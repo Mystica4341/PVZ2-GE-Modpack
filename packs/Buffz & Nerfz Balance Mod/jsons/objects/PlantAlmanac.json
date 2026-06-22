@@ -5583,8 +5583,8 @@
               "zh": "范围伤害"
             },
             "SORT": {
-              "en": "95 (3x3)",
-              "zh": "95 (3x3 范围)"
+              "en": "95 (3x2)",
+              "zh": "95 (3x2 范围)"
           }},
           {
             "TYPE": "RANGE",
@@ -5609,6 +5609,16 @@
           "zh": "西瓜投手会对成群的僵尸造成大量伤害。"
         },
         "Special": [
+          {
+            "NAME": {
+              "en": "Special",
+              "zh": "特点"
+            },
+            "DESCRIPTION": {
+              "en": "immune to ice winds",
+              "zh": "不会被冻结, 更快地冰释周围的植物"
+            }
+          },
           {
             "NAME": {
               "en": "Damage Details",
@@ -5641,7 +5651,7 @@
           }
         ],
         "Chat": {
-          "en": "Dark Matter Dragonfruit's ancient ancestors were vigorously hunted, retreating them into the darkest, deepest depths of space. Now their descendants are back for cold, fruity vengeance.",
+          "en": "Dark Matter Dragonfruit's ancient ancestors were vigorously hunted, retreating them into the darkest, deepest depths of space by the ancient zombies. Now their descendants are back for cold, fruity vengeance.",
           "zh": "“暗物质火龙果的祖先曾被猎杀至太空深处。如今，他们的后代带着冰冷的果实复仇归来了。"
         },
         "BriefIntroduction": {

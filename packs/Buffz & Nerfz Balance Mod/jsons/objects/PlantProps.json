@@ -48,6 +48,7 @@
         "PlantFoodDPS": 600,
         "PlantFoodSplashDPS": 100,
         "DarkMatterEffectDuration": 6,
+        "ImmuneToIceblock": true,
         "MintBoostedProps": {
           "ResistanceMult": 1,
           "SpeedMult": 2,
@@ -158,32 +159,6 @@
         "ImmuneToIceblock": true,
         "TornadoDuration": 6.5,
         "ZombieDraggingFactor": 1.75,
-        "MintDurationFactor": 2,
-        "MintBoostedProps": {
-          "ResistanceMult": 1,
-          "SpeedMult": 1,
-          "Plantfood": false
-        }
-      }
-    },
-    {
-      "objclass": "PlantProperties",
-      "aliases": [
-        "loquat_lvl2"
-      ],
-      "objdata": {
-        "CannotBeSheepenedByWizard": true,
-        "Damage": 800,
-        "Cooldown": 10,
-        "CooldownFrom": 1,
-        "SunCost": 0,
-        "BeghouledCost": 1000,
-        "Toughness": 300,
-        "Family": "Slow",
-        "ImmuneToBoomBox": true,
-        "ImmuneToIceblock": true,
-        "TornadoDuration": 3,
-        "ZombieDraggingFactor": -0.15,
         "MintDurationFactor": 2,
         "MintBoostedProps": {
           "ResistanceMult": 1,
