@@ -1,4 +1,4 @@
-{
+﻿{
   "#comment": "Plant Properties!",
   "version": 1,
   "objects": [
@@ -1049,15 +1049,15 @@
         "megagatling"
       ],
       "objdata": {
-        "ShootInterval": 1.5,
+        "ShootInterval": 1.35,
         "ShootIntervalAdditional": 0.15,
         "PeaType": "pea",
         "PeaTypePlantfood": "pea",
-        "PlantfoodPeaCount": 100,
+        "PlantfoodPeaCount": 150,
         "ChanceToPlantfood": 0,
-        "Cooldown": 25,
+        "Cooldown": 5,
         "CooldownFrom": 1,
-        "SunCost": 525,
+        "SunCost": 450,
         "BeghouledCost": 4000,
         "Toughness": 300,
         "Family": "Peashooter",

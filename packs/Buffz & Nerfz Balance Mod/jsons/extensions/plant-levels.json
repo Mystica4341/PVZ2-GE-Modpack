@@ -1,4 +1,4 @@
-{
+﻿{
   "$schema": "https://raw.githubusercontent.com/Gzh0821/pvzg_site/refs/heads/main/src/.vuepress/public/jsons/schema/gpn-plant-levels.schema.json",
   "plants": {
     "missiletoe": {
@@ -245,3 +245,6 @@
     }
   }
 }
+
+
+
