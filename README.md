@@ -17,6 +17,6 @@
 2. Replace ```TIER *``` To ```*```
 3. Open file ```plantProps``` in ```Buffz & Neftz Balance Mod\jsons\objects```
 4. Find and change Gatling Pea <br/>
-   a. ```MegaGatling```: ```Peatype & PeaTypePlantFood``` change to ```Pea```
+   a. ```MegaGatling```: ```Peatype & PeaTypePlantFood``` change to ```Pea``` <br/>
    b. ```Gatling_lvl3```: ```Peatype & PeaTypePlantFood & Cooldown``` change to ```Pea & Pea & 15``` respectively
 6. Close and enjoy
