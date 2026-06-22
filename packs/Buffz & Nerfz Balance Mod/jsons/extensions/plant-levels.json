@@ -191,6 +191,25 @@
         }
       }
     },
+    "dusklobber": {
+      "levels": {
+        "1": {
+          "cloneCodename": "dusklobber",
+          "icon": "silver",
+          "displayName": "I"
+        },
+        "2": {
+          "cloneCodename": "dusklobber_lvl2",
+          "icon": "gold",
+          "displayName": "II"
+        },
+        "3": {
+          "cloneCodename": "dusklobber_lvl3",
+          "icon": "star",
+          "displayName": "III"
+        }
+      }
+    },
     "pinkstarfruit": {
       "levels": {
         "1": {
@@ -202,6 +221,25 @@
           "cloneCodename": "pinkstarfruit_lvl2",
           "icon": "gold",
           "displayName": "II"
+        }
+      }
+    },
+    "zoybeanpod": {
+      "levels": {
+        "1": {
+          "cloneCodename": "zoybeanpod",
+          "icon": "silver",
+          "displayName": "I"
+        },
+        "2": {
+          "cloneCodename": "zoybeanpod_lvl2",
+          "icon": "gold",
+          "displayName": "II"
+        },
+        "3": {
+          "cloneCodename": "zoybeanpod_lvl3",
+          "icon": "star",
+          "displayName": "III"
         }
       }
     }

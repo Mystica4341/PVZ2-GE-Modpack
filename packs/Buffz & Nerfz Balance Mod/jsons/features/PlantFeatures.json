@@ -335,7 +335,7 @@
         "PlantPlace": "dirt"
       },
       "BOOST": 2,
-      "COSTUME": 0,
+      "COSTUME": 1,
       "ALMANAC": "RTID(pumpkin@PlantAlmanac)",
       "PROPS": "RTID(pumpkin@PlantProps)",
       "RES": {
@@ -354,7 +354,7 @@
       "TYPE": [
         "vine"
       ],
-      "COSTUME": 0,
+      "COSTUME": 1,
       "OBTAINWORLD": "epic",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
@@ -1059,7 +1059,7 @@
         "spikeweed",
         "spikerock"
       ],
-      "OBTAINWORLD": "pirate",
+      "OBTAINWORLD": "mint",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -1303,7 +1303,7 @@
         "lastStandDisallowed",
         "losingPlant"
       ],
-      "COSTUME": 1,
+      "COSTUME": 2,
       "OBTAINWORLD": "epic",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
@@ -4319,6 +4319,54 @@
       }
     },
     {
+      "ID": 1024,
+      "NAME": {
+        "en": "Dusk Lobber",
+        "zh": "幽暮投手"
+      },
+      "_CARDSPRITENAME": "dusklobber",
+      "CODENAME": "dusklobber_lvl2",
+      "TYPE": [
+        "plant"
+      ],
+      "COSTUME": 2,
+      "OBTAINWORLD": "frontyard",
+      "ZENGARDEN": {
+        "PlantPlace": "dirt"
+      },
+      "BOOST": 2,
+      "ALMANAC": "RTID(dusklobber_lvl2@PlantAlmanac)",
+      "PROPS": "RTID(dusklobber_lvl2@PlantProps)",
+      "RES": {
+        "Disabled": "DuskLobber",
+        "Plant": "DuskLobber"
+      }
+    },
+    {
+      "ID": 1025,
+      "NAME": {
+        "en": "Dusk Lobber",
+        "zh": "幽暮投手"
+      },
+      "_CARDSPRITENAME": "dusklobber",
+      "CODENAME": "dusklobber_lvl3",
+      "TYPE": [
+        "plant"
+      ],
+      "COSTUME": 2,
+      "OBTAINWORLD": "frontyard",
+      "ZENGARDEN": {
+        "PlantPlace": "dirt"
+      },
+      "BOOST": 2,
+      "ALMANAC": "RTID(dusklobber_lvl3@PlantAlmanac)",
+      "PROPS": "RTID(dusklobber_lvl3@PlantProps)",
+      "RES": {
+        "Disabled": "DuskLobber",
+        "Plant": "DuskLobber"
+      }
+    },
+    {
       "ID": 151,
       "NAME": {
         "en": "Grimrose",
@@ -4887,6 +4935,54 @@
       }
     },
     {
+      "ID": 1026,
+      "NAME": {
+        "en": "Zoybean Pod",
+        "zh": "豆腐尸荚"
+      },
+      "_CARDSPRITENAME": "zoybeanpod",
+      "CODENAME": "zoybeanpod_lvl2",
+      "TYPE": [
+        "plant"
+      ],
+      "COSTUME": 1,
+      "OBTAINWORLD": "future",
+      "ZENGARDEN": {
+        "PlantPlace": "dirt"
+      },
+      "BOOST": 2,
+      "ALMANAC": "RTID(zoybeanpod_lvl2@PlantAlmanac)",
+      "PROPS": "RTID(zoybeanpod_lvl2@PlantProps)",
+      "RES": {
+        "Disabled": "ZoybeanPod",
+        "Plant": "ZoybeanPod"
+      }
+    },
+    {
+      "ID": 1027,
+      "NAME": {
+        "en": "Zoybean Pod",
+        "zh": "豆腐尸荚"
+      },
+      "_CARDSPRITENAME": "zoybeanpod",
+      "CODENAME": "zoybeanpod_lvl3",
+      "TYPE": [
+        "plant"
+      ],
+      "COSTUME": 1,
+      "OBTAINWORLD": "future",
+      "ZENGARDEN": {
+        "PlantPlace": "dirt"
+      },
+      "BOOST": 2,
+      "ALMANAC": "RTID(zoybeanpod_lvl3@PlantAlmanac)",
+      "PROPS": "RTID(zoybeanpod_lvl3@PlantProps)",
+      "RES": {
+        "Disabled": "ZoybeanPod",
+        "Plant": "ZoybeanPod"
+      }
+    },
+    {
       "ID": 169,
       "NAME": {
         "en": "Atomic Bombegranate",
@@ -4967,7 +5063,7 @@
         "en": "Pyre Vine",
         "zh": "柴火藤蔓"
       },
-      "COSTUME": 0,
+      "COSTUME": 1,
       "_CARDSPRITENAME": "pyrevine",
       "CODENAME": "pyrevine",
       "TYPE": [
@@ -5511,7 +5607,7 @@
     {
       "ID": 199,
       "NAME": {
-        "en": "Aceparagus",
+        "en": "Aceparagus Fighter",
         "zh": "芦笋战机"
       },
       "CODENAME": "asparagus",
@@ -5869,6 +5965,7 @@
     "shrinkingviolet",
     "dragonbruit",
     "shootingstarfruit",
+    "darkmatterdragonfruit",
     "appeasemint",
     "enlightenmint",
     "reinforcemint",
@@ -5935,6 +6032,8 @@
     "powerplant_delta",
     "powerplant_gamma",
     "zoybeanpod",
+    "zoybeanpod_lvl2",
+    "zoybeanpod_lvl3",
     "starfruit",
     "sunshroom",
     "puffshroom",
@@ -6011,6 +6110,8 @@
     "nightshade",
     "shadowshroom",
     "dusklobber",
+    "dusklobber_lvl2",
+    "dusklobber_lvl3",
     "grimrose",
     "murkadamia",
     "noctarine",
@@ -6071,7 +6172,7 @@
     "coldsnapdragon",
     "bamboozle",
     "caulipower",
-    "poisonpeahooter",
+    "poisonpeashooter",
     "grapeshot",
     "explodeonut",
     "shrinkingviolet",
@@ -6080,6 +6181,7 @@
     "shootingstarfruit",
     "shootingstarfruit_lvl2",
     "shootingstarfruit_lvl3",
+    "darkmatterdragonfruit",
     "powerplant_gamma2",
     "powerplant_alpha2",
     "powerplant_beta2",

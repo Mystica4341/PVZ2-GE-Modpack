@@ -19,7 +19,10 @@
         "xshot",
         "gatling",
         "megagatling",
-        "primalpeashooter"
+        "snappea",
+        "primalpeashooter",
+        "skyshooter",
+        "peacommando"
       ]
     },
     {
@@ -39,6 +42,7 @@
         "shinevine",
         "solarsage",
         "primalsunflower",
+        "moonbean",
         "goldbloom"
       ]
     },
@@ -57,26 +61,28 @@
         "pumpkin",
         "gumnut",
         "peanut",
-        "chardguard",
+        "lilypad",
         "sweetpotato",
         "endurian",
         "turnip",
         "lychee",
         "bamboozle",
         "primalwallnut",
+        "pineapple",
+        "floawerPot",
         "umbrellaleaf"
       ]
     },
     {
       "Family": "Explosive",
-      "TargetType": "",
+      "TargetType": "bombardmint",
       "TryingLevels": [],
       "Medals": [
         "potatomine",
+        "seedling2",
         "cherry_bomb",
         "doomshroom",
         "atombomb_seedling",
-        "strawburst",
         "dandelion",
         "grapeshot",
         "primalpotatomine",
@@ -86,16 +92,16 @@
     },
     {
       "Family": "Lobber",
-      "TargetType": "",
+      "TargetType": "armamint",
       "TryingLevels": [],
       "Medals": [
         "cabbagepult",
-        "kernelpult",
         "coconutcannon",
         "melonpult",
         "applemortar",
         "banana",
         "akee",
+        "strawburst",
         "cantaloupe"
       ]
     },
@@ -111,7 +117,8 @@
         "hollyknight",
         "homingthistle",
         "bambooshoot",
-        "cactus"
+        "cactus",
+        "asparagus"
       ]
     },
     {
@@ -133,24 +140,25 @@
     },
     {
       "Family": "Melee",
-      "TargetType": "",
+      "TargetType": "enforcemint",
       "TryingLevels": [],
       "Medals": [
         "bonkchoy",
-        "buttercup",
+        "springbean",
         "squash",
         "tanglekelp",
         "guacodile",
         "chomper",
         "parsnip",
         "ghostpepper",
+        "chardguard",
         "phatbeet",
         "celerystalker"
       ]
     },
     {
       "Family": "Fire",
-      "TargetType": "",
+      "TargetType": "peppermint",
       "TryingLevels": [],
       "Medals": [
         "snapdragon",
@@ -162,14 +170,16 @@
         "torchwood",
         "hotdate",
         "pyrevine",
+        "wasabiwhip",
         "lavaguava",
         "firegourd",
-        "meteorflower"
+        "meteorflower",
+        "bulbkekengi"
       ]
     },
     {
       "Family": "Poison",
-      "TargetType": "",
+      "TargetType": "ailmint",
       "TryingLevels": [],
       "Medals": [
         "chilibean",
@@ -177,15 +187,17 @@
         "fumeshroom",
         "vamporcini",
         "scaredyshroom",
+        "garlic_slice",
         "seashroom",
         "garlic",
         "sporeshroom",
-        "bloominghearts"
+        "poisonpeashooter",
+        "cranjelly"
       ]
     },
     {
       "Family": "Electricity",
-      "TargetType": "",
+      "TargetType": "filamint",
       "TryingLevels": [],
       "Medals": [
         "lightningreed",
@@ -195,27 +207,31 @@
         "powerplant",
         "empea",
         "magnetshroom",
-        "electricblueberry"
+        "electricblueberry",
+        "anthurium"
       ]
     },
     {
       "Family": "Magic",
-      "TargetType": "",
+      "TargetType": "enchantmint",
       "TryingLevels": [],
       "Medals": [
         "hypnoshroom",
+        "imitater",
         "aloe",
         "peach",
         "zoybeanpod",
         "intensivecarrot",
         "caulipower",
+        "bloominghearts",
+        "perfumeshroom",
         "shrinkingviolet",
         "powerlily"
       ]
     },
     {
       "Family": "Shadow",
-      "TargetType": "",
+      "TargetType": "concealmint",
       "TryingLevels": [],
       "Medals": [
         "moonflower",
@@ -227,24 +243,27 @@
         "gloomshroom",
         "dragonbruit",
         "noctarine",
-        "murkadamianut",
+        "murkadamia",
         "shadowpeashooter"
       ]
     },
     {
       "Family": "Slow",
-      "TargetType": "",
+      "TargetType": "containmint",
       "TryingLevels": [],
       "Medals": [
         "gravebuster",
-        "springbean",
+        "kernelpult",
+        "buttercup",
         "sapfling",
+        "tool_projectile_bowling_primalwallnut",
         "marigold",
         "blover",
         "stunion",
         "stallia",
+        "powerplant_gamma2",
         "thymewarp",
-        "cranjelly"
+        "loquat"
       ]
     }
   ]

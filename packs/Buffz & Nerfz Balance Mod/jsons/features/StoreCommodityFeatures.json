@@ -116,7 +116,13 @@
       "CommodityType": "plant",
       "CommodityName": "seedling2",
       "CurrencyType": "coin",
-      "CurrencyRequired": 17500,
+      "CurrencyRequired": 17500
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "dragonbruit",
+      "CurrencyType": "gem",
+      "CurrencyRequired": 80,
       "UnlockLevel": "kongfu24"
     },
     {
@@ -170,17 +176,45 @@
     },
     {
       "CommodityType": "plant",
-      "CommodityName": "dragonbruit",
+      "CommodityName": "shootingstarfruit",
       "CurrencyType": "gem",
       "CurrencyRequired": 85,
       "UnlockLevel": "modern_zomboss_08_lostcity"
     },
     {
       "CommodityType": "plant",
-      "CommodityName": "shootingstarfruit",
+      "CommodityName": "darkmatterdragonfruit",
       "CurrencyType": "gem",
       "CurrencyRequired": 100,
       "UnlockLevel": "modern44"
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "snowpea",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 0,
+      "UnlockLevel": "egypt28"
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "squash",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 0,
+      "UnlockLevel": "egypt34"
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "peanut",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 0,
+      "UnlockLevel": "pirate27"
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "applemortar",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 0,
+      "UnlockLevel": "pirate34"
     },
     {
       "CommodityType": "plant",
@@ -216,6 +250,13 @@
       "CurrencyType": "coin",
       "CurrencyRequired": 0,
       "UnlockLevel": "cowboy31"
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "plantern",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 0,
+      "UnlockLevel": "dark13"
     },
     {
       "CommodityType": "plant",
@@ -566,6 +607,50 @@
             "__gpnStore": {
                 "requirePlants": [
                     "pinkstarfruit"
+                ]
+            }
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "dusklobber_lvl2",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 15000,
+            "__gpnStore": {
+                "requirePlants": [
+                    "dusklobber"
+                ]
+            }
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "dusklobber_lvl3",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 25000,
+            "__gpnStore": {
+                "requirePlants": [
+                    "dusklobber_lvl2"
+                ]
+            }
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "zoybeanpod_lvl2",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 15000,
+            "__gpnStore": {
+                "requirePlants": [
+                    "zoybeanpod"
+                ]
+            }
+    },
+    {
+      "CommodityType": "plant",
+      "CommodityName": "zoybeanpod_lvl3",
+      "CurrencyType": "coin",
+      "CurrencyRequired": 25000,
+            "__gpnStore": {
+                "requirePlants": [
+                    "zoybeanpod_lvl2"
                 ]
             }
     },

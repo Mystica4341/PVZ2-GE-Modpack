@@ -5,6 +5,91 @@
     {
       "objclass": "ProjectileProperties",
       "aliases": [
+        "darkmatter"
+      ],
+      "objdata": {
+        "IgnoredBy3SectionStaff": true,
+        "CannotBeReversedByJester": true,
+        "Damage": 50,
+        "DamageType": "fire",
+        "SplashDamage": [
+          {
+            "Damage": 95,
+        "DamageType": "fire",
+            "Range": {
+              "w": 2.5,
+              "h": 3
+            }
+          }
+        ],
+        "Size": {
+          "w": 30,
+          "h": 30
+        }
+      }
+    },
+    {
+      "objclass": "ProjectileProperties",
+      "aliases": [
+        "darkmatter_shadow"
+      ],
+      "objdata": {
+        "IgnoredBy3SectionStaff": true,
+        "CannotBeReversedByJester": true,
+        "Damage": 40,
+        "DamageType": "fire",
+        "DarkMatterDuration": 3.5,
+        "SplashDamage": [
+          {
+            "DamageType": "fire",
+            "Damage": 80,
+            "Range": {
+              "w": 2.5,
+              "h": 3
+            }
+            },
+          {
+            "DarkMatterDuration": 3.5,
+            "Range": {
+              "w": 3,
+              "h": 3
+            }
+          }
+        ],
+        "Size": {
+          "w": 30,
+          "h": 30
+        }
+      }
+    },
+    {
+      "objclass": "ProjectileProperties",
+      "aliases": [
+        "pea_commando1"
+      ],
+      "objdata": {
+        "Damage": 50,
+        "SpeedMult": 1.5,
+        "YellowIgnitedType": "pea_commando2_flame_yellow",
+        "BlueIgnitedType": "",
+        "SplashDamage": [
+          {
+            "Damage": 30,
+            "Range": {
+              "w": 3,
+              "h": 1
+            }
+          }
+        ],
+        "Size": {
+          "w": 20,
+          "h": 20
+        }
+      }
+    },
+    {
+      "objclass": "ProjectileProperties",
+      "aliases": [
         "pea_commando2"
       ],
       "objdata": {
@@ -1113,10 +1198,19 @@
         "pea_snow1"
       ],
       "objdata": {
-        "Damage": 60,
+        "Damage": 50,
+        "SplashDamage": [
+          {
+            "Damage": 30,
+            "Range": {
+              "w": 3,
+              "h": 1
+            }
+          }
+        ],
         "SpeedMult": 1.5,
         "YellowIgnitedType": "pea1",
-        "BlueIgnitedType": "pea1",
+        "BlueIgnitedType": "",
         "ChillDuration": 15,
         "IceBlockLevel": 1,
         "Size": {
@@ -1542,7 +1636,7 @@
             "Range": {
               "w": 3,
               "h": 3,
-              "KnockbackDistance": 0.65
+              "KnockbackDistance": 1.5
             }
           }
         ],
@@ -1551,7 +1645,7 @@
           "h": 18
         },
         "SpeedMult": 1.4,
-        "KnockbackDistance": 0.5
+        "KnockbackDistance": 2
       }
     },
     {
@@ -3521,11 +3615,11 @@
         "pepper"
       ],
       "objdata": {
-        "Damage": 55,
+        "Damage": 50,
         "DamageType": "fire",
         "SplashDamage": [
           {
-            "Damage": 15,
+            "Damage": 20,
             "Range": {
               "w": 3,
               "h": 3
@@ -5409,10 +5503,42 @@
         "dusklobber1"
       ],
       "objdata": {
-        "Damage": 15,
+        "Damage": 45,
+        "Poison": {
+          "DPS": 25,
+          "Duration": 1
+        },
         "SplashDamage": [
           {
-            "Damage": 75,
+            "Poison": {
+              "DPS": 25,
+              "Duration": 1
+              },
+            "Damage": 25,
+            "Range": {
+              "w": 3,
+              "h": 3
+            }
+          }
+        ],
+        "Size": {
+          "w": 20,
+          "h": 20
+        }
+      }
+    },
+    {
+      "objclass": "ProjectileProperties",
+      "aliases": [
+        "dusklobber_lvl2"
+      ],
+      "objdata": {
+        "Damage": 50,
+        "StunDuration": 0.35,
+        "SplashDamage": [
+          {
+            "StunDuration": 0.35,
+            "Damage": 15,
             "Range": {
               "w": 3,
               "h": 3
@@ -5913,7 +6039,7 @@
         "DestroysTiles": true,
         "SupressArmorProtection": true,
         "Damage": 500,
-        "DamageType": "fire",
+        "DamageType": "electricity",
         "ShakesScreenOnImpact": true,
         "CannotBeReversedByJester": true,
         "SplashDamage": [

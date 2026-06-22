@@ -26,6 +26,9 @@
             "TYPE": "RECHARGE"
           },
           {
+            "TYPE": "TOUGHNESS"
+          },
+          {
             "TYPE": "GROWTIME",
             "SORT": {
               "en": "15s",
@@ -48,6 +51,207 @@
             },
             "DESCRIPTION": {
               "en": "30 (basic), 35 (carrothead), 15 (melonhead)",
+              "zh": "30（基本），35（胡萝卜头），15（西瓜头）"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Plantfood effect",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "summons a Zomboid Gargantuar with 3600HP",
+              "zh": "Zoybean Pod"
+            }
+          }
+        ],
+        "Chat": {
+          "en": "\"Developing plant zomboids in eerie mimicry of zombie life is well within the boundaries of human experience,\" Zoybean Pod insists with a calm, unvarying steadiness.",
+          "zh": "“以诡异的方式模仿僵尸生命来培育豆腐僵尸，这其实完全在人们经验的范畴之内。”豆腐尸荚坚持道，语气带着一种平静而恒定的沉稳。"
+        },
+        "BriefIntroduction": {
+          "en": "Grows helpful zomboids",
+          "zh": "生成为我们战斗的豆腐僵尸"
+        },
+        "DisplayOffset": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "aliases": [
+        "zoybeanpod_lvl2"
+      ],
+      "objclass": "PlantAlmanacProperties",
+      "objdata": {
+        "Elements": [
+          {
+            "TYPE": "SUNCOST"
+          },
+          {
+            "TYPE": "RECHARGE"
+          },
+          {
+            "TYPE": "TOUGHNESS",
+            "NAME": {
+              "en": "ZOMBOID TOUGHNESS",
+              "zh": "伤害/秒"
+            },
+            "SORT": {
+              "en": "1200",
+              "zh": "1200"
+          }},
+          {
+            "TYPE": "TOUGHNESS"
+          },
+          {
+            "TYPE": "GROWTIME",
+            "SORT": {
+              "en": "20s",
+              "zh": "20秒"
+            }
+          },
+          {
+            "TYPE": "FAMILY"
+          }
+        ],
+        "Introduction": {
+          "en": "Zoybean Pods slowly sprout to full pods, then release plant \"zomboids\" that creep slowly and act as defensive tanks.",
+          "zh": "豆腐尸荚生长成为硕大的豆荚，并释放一只“豆腐僵尸”为你战斗。"
+        },
+        "Special": [
+          {
+            "NAME": {
+              "en": "Weakness",
+              "zh": "护甲几率"
+            },
+            "DESCRIPTION": {
+              "en": "wall-like zomboids don't deal damage",
+              "zh": "30（基本），35（胡萝卜头），15（西瓜头）"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Plantfood effect",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "summons a Zomboid Gargantuar with 3600HP",
+              "zh": "Zoybean Pod"
+            }
+          }
+        ],
+        "Chat": {
+          "en": "\"Developing plant zomboids in eerie mimicry of zombie life is well within the boundaries of human experience,\" Zoybean Pod insists with a calm, unvarying steadiness.",
+          "zh": "“以诡异的方式模仿僵尸生命来培育豆腐僵尸，这其实完全在人们经验的范畴之内。”豆腐尸荚坚持道，语气带着一种平静而恒定的沉稳。"
+        },
+        "BriefIntroduction": {
+          "en": "Grows helpful zomboids",
+          "zh": "生成为我们战斗的豆腐僵尸"
+        },
+        "DisplayOffset": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "aliases": [
+        "zoybeanpod_lvl3"
+      ],
+      "objclass": "PlantAlmanacProperties",
+      "objdata": {
+        "Elements": [
+          {
+            "TYPE": "SUNCOST"
+          },
+          {
+            "TYPE": "RECHARGE"
+          },
+          {
+            "TYPE": "TOUGHNESS",
+            "NAME": {
+              "en": "ZOMBOID TOUGHNESS",
+              "zh": "伤害/秒"
+            },
+            "SORT": {
+              "en": "240 / 370",
+              "zh": "240 / 370"
+          }},
+          {
+            "TYPE": "TOUGHNESS"
+          },
+          {
+            "TYPE": "DAMAGE",
+            "SORT": {
+              "en": "50",
+              "zh": "50"
+            }
+          },
+          {
+            "TYPE": "DAMAGE",
+            "NAME": {
+              "en": "SPLASH DAMAGE",
+              "zh": "范围伤害"
+            },
+            "SORT": {
+              "en": "20 (1x3)",
+              "zh": "20 (1x3)"
+          }},
+          {
+            "TYPE": "GROWTIME",
+            "SORT": {
+              "en": "22.5s",
+              "zh": "22.5秒"
+            }
+          },
+          {
+            "TYPE": "FAMILY"
+          }
+        ],
+        "Introduction": {
+          "en": "Zoybean Pods slowly grow from sprouts to pods, spawning ranged plant \"zombunters\" that chuck damaging tofu. It can spawn both regular zombunters, as well as stationary \"zombunter elites\" that lob chilling tofus.",
+          "zh": "豆腐尸荚生长成为硕大的豆荚，并释放一只“豆腐僵尸”为你战斗。"
+        },
+        "Special": [
+          {
+            "NAME": {
+              "en": "Spawning chances",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "80 (regular), 20 (elite)",
+              "zh": "Zoybean Pod"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Firing speed",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "every tile (regular), 4.5-5s (elite)",
+              "zh": "Zoybean Pod"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Special",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "elites target the rightmost zombie in their lane, and deal chill for 10s",
+              "zh": "Zoybean Pod"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Weakness",
+              "zh": "护甲几率"
+            },
+            "DESCRIPTION": {
+              "en": "zombunters stop firing and deal much less bite damage at closer-range (50 DPS)",
               "zh": "30（基本），35（胡萝卜头），15（西瓜头）"
             }
           },
@@ -184,11 +388,11 @@
           }
         ],
         "Chat": {
-          "en": "Don't be surprised by Ampthurium's ability to neutralize positive and negative charges, just look at the brothers' physics exam papers with flying colours and you will understand immediately. Yet, they rarely understand each other's thoughts, such as which colored tie to wear; whether to watch a documentary or a TV show; and whether to eat at home or go out for food. Though, they know that without each other, neither could be a talent in wielding lightning.",
+          "en": "Don't be surprised by Ampthurium's ability to neutralize positive and negative charges, just look at the brothers' physics exam papers with flying colours and you will understand. Yet, they rarely understand each other's thoughts, such as which colored tie to wear; whether to watch a documentary or a TV show; and whether to eat at home or go out for food. Though, they know that without each other, neither could be a talent in wielding lightning.",
           "zh": "不要为电离红掌中和正负电荷的能力而感到惊讶，看看兄弟俩全部都是满分的物理试卷你就明白了。但是它俩却始终无法理解对方的想法，比如在选择戴什么颜色的领带、在看纪录片还是电视剧、在去印度餐厅还是中餐厅约会这样的问题上。不过他们也明白，缺了对方，他们谁也不是操纵闪电的天才。"
         },
         "BriefIntroduction": {
-          "en": "Fire lightning bolts and absorb electric charges",
+          "en": "Fire lightning bolts and absorbs electric charges",
           "zh": "发射球状电并吸收电荷"
         },
         "DisplayOffset": {
@@ -305,11 +509,11 @@
           }
         ],
         "Chat": {
-          "en": "Don't be surprised by Ampthurium's ability to neutralize positive and negative charges, just look at the brothers' physics exam papers with flying colours and you will understand immediately. Yet, they rarely understand each other's thoughts, such as which colored tie to wear; whether to watch a documentary or a TV show; and whether to eat at home or go out for food. Though, they know that without each other, neither could be a talent in wielding lightning.",
+          "en": "Don't be surprised by Ampthurium's ability to neutralize positive and negative charges, just look at the brothers' physics exam papers with flying colours and you will understand. Yet, they rarely understand each other's thoughts, such as which colored tie to wear; whether to watch a documentary or a TV show; and whether to eat at home or go out for food. Though, they know that without each other, neither could be a talent in wielding lightning.",
           "zh": "不要为电离红掌中和正负电荷的能力而感到惊讶，看看兄弟俩全部都是满分的物理试卷你就明白了。但是它俩却始终无法理解对方的想法，比如在选择戴什么颜色的领带、在看纪录片还是电视剧、在去印度餐厅还是中餐厅约会这样的问题上。不过他们也明白，缺了对方，他们谁也不是操纵闪电的天才。"
         },
         "BriefIntroduction": {
-          "en": "Fire lightning bolts and absorb electric charges",
+          "en": "Fire lightning bolts and absorbs electric charges",
           "zh": "发射球状电并吸收电荷"
         },
         "DisplayOffset": {
@@ -436,11 +640,11 @@
           }
         ],
         "Chat": {
-          "en": "Don't be surprised by Ampthurium's ability to neutralize positive and negative charges, just look at the brothers' physics exam papers with flying colours and you will understand immediately. Yet, they rarely understand each other's thoughts, such as which colored tie to wear; whether to watch a documentary or a TV show; and whether to eat at home or go out for food. Though, they know that without each other, neither could be a talent in wielding lightning.",
+          "en": "Don't be surprised by Ampthurium's ability to neutralize positive and negative charges, just look at the brothers' physics exam papers with flying colours and you will understand. Yet, they rarely understand each other's thoughts, such as which colored tie to wear; whether to watch a documentary or a TV show; and whether to eat at home or go out for food. Though, they know that without each other, neither could be a talent in wielding lightning.",
           "zh": "不要为电离红掌中和正负电荷的能力而感到惊讶，看看兄弟俩全部都是满分的物理试卷你就明白了。但是它俩却始终无法理解对方的想法，比如在选择戴什么颜色的领带、在看纪录片还是电视剧、在去印度餐厅还是中餐厅约会这样的问题上。不过他们也明白，缺了对方，他们谁也不是操纵闪电的天才。"
         },
         "BriefIntroduction": {
-          "en": "Fire lightning bolts and absorb electric charges",
+          "en": "Fire lightning bolts and absorbs electric charges",
           "zh": "发射球状电并吸收电荷"
         },
         "DisplayOffset": {
@@ -508,7 +712,7 @@
           }
         ],
         "Introduction": {
-          "en": "Aceparagi shoot down zombies in three lanes.",
+          "en": "Aceparagus Fighters shoot down zombies in three lanes.",
           "zh": "芦笋战机可以攻击前方及相邻两行的僵尸。"
         },
         "Special": [
@@ -529,12 +733,12 @@
             },
             "DESCRIPTION": {
               "en": "Shoots strong bullets down 3 lanes for 1200 damage",
-              "zh": "Asparagus"
+              "zh": "Aceparagus Fighter"
             }
           }
         ],
         "Chat": {
-          "en": "Aceparagus seems to enjoy the prestigious reputation of being the \"King of Vegetables\", yet he takes no pride in this. Having loved studying all kinds of firearms and aerodynamics since a young seedling, he can only realize his value on the battlefield when confronting the zombies. \"I don't want to be recognized for what I am, but only for how I fight!\"",
+          "en": "Aceparagus Fighter seems to enjoy the prestigious reputation of being the \"King of Vegetables\", yet he takes no pride in this. Having loved studying all kinds of firearms and aerodynamics since a young seedling, he can only realize his value on the battlefield when confronting the zombies. \"I don't want to be recognized for what I am, but only for how I fight!\"",
           "zh": "芦笋享有“蔬菜之王”的美称，然而它却并不以此为傲。从小热爱研究各类热兵器的它只有在战场上才能实现自己的价值。“我只希望大家能够记住战场上热血的我！”芦笋认真地说道。"
         },
         "BriefIntroduction": {
@@ -4073,7 +4277,7 @@
           }
         ],
         "Introduction": {
-          "en": "Dusk Lobbers are shadow plants that lob explosive buds down the lane. When powered Dusk Lobbers can lob buds down three lane.",
+          "en": "Dusk Lobbers are shadow plants that lob explosive buds down the lane.",
           "zh": "幽暮投手沿着本行投掷炸裂性花蕾，也属于暗影植物。得到暗影能量时会沿着三行投掷。"
         },
         "Special": [
@@ -4104,6 +4308,212 @@
         },
         "BriefIntroduction": {
           "en": "Lobs explosive buds",
+          "zh": "投掷炸裂性花蕾"
+        },
+        "DisplayOffset": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "aliases": [
+        "dusklobber_lvl2"
+      ],
+      "objclass": "PlantAlmanacProperties",
+      "objdata": {
+        "Elements": [
+          {
+            "TYPE": "SUNCOST"
+          },
+          {
+            "TYPE": "RECHARGE"
+          },
+          {
+            "TYPE": "TOUGHNESS"
+          },
+          {
+            "TYPE": "DAMAGE",
+            "SORT": {
+              "en": "50/2.85s",
+              "zh": "50/2.85秒"
+            }
+          },
+          {
+            "TYPE": "AREA",
+            "NAME": {
+              "en": "SPLASH DAMAGE",
+              "zh": "范围伤害"
+            },
+            "SORT": {
+              "en": "15 (3x3)",
+              "zh": "15 (3x3 范围)"
+          }},
+          {
+            "TYPE": "RANGE",
+            "SORT": {
+              "en": "Lobbed",
+              "zh": "抛物线"
+            }
+          },
+          {
+            "TYPE": "SPECIAL",
+            "SORT": {
+              "en": "Stun (0.25s)",
+              "zh": "抛物线"
+            }
+          },
+          {
+            "TYPE": "AREA",
+            "SORT": {
+              "en": "3x3",
+              "zh": "3x3 范围"
+            }
+          },
+          {
+            "TYPE": "FAMILY"
+          }
+        ],
+        "Introduction": {
+          "en": "Dusk Lobbers are shadow plants that lob explosive buds down the lane that stun for a brief duration.",
+          "zh": "幽暮投手沿着本行投掷炸裂性花蕾，也属于暗影植物。得到暗影能量时会沿着三行投掷。"
+        },
+        "Special": [
+          {
+            "NAME": {
+              "en": "Special",
+              "zh": "特点"
+            },
+            "DESCRIPTION": {
+              "en": "lob buds down 3 lanes when powered",
+              "zh": "得到暗影能量时能沿着三行投掷花蕾"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Plantfood effect",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "Lobs 4 massive cactus flower buds at that zombies that deal 240 damage in a 3x3 area",
+              "zh": "Dusk Lobber"
+            }
+          }
+        ],
+        "Chat": {
+          "en": "Lobbing comes easily for Dusk Lobber, but that's only because she's had extensive training and really enjoys parabolas.",
+          "zh": "对幽暮投手来说，投掷很容易，但这只是因为她受过大量的训练，而且非常喜欢抛物线。"
+        },
+        "BriefIntroduction": {
+          "en": "Lobs explosive buds that stun",
+          "zh": "投掷炸裂性花蕾"
+        },
+        "DisplayOffset": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "aliases": [
+        "dusklobber_lvl3"
+      ],
+      "objclass": "PlantAlmanacProperties",
+      "objdata": {
+        "Elements": [
+          {
+            "TYPE": "SUNCOST"
+          },
+          {
+            "TYPE": "RECHARGE"
+          },
+          {
+            "TYPE": "TOUGHNESS"
+          },
+          {
+            "TYPE": "DAMAGE",
+            "SORT": {
+              "en": "45/3s",
+              "zh": "45/3秒"
+            }
+          },
+          {
+            "TYPE": "AREA",
+            "NAME": {
+              "en": "SPLASH DAMAGE",
+              "zh": "范围伤害"
+            },
+            "SORT": {
+              "en": "25 (3x3)",
+              "zh": "25 (3x3 范围)"
+          }},
+          {
+            "TYPE": "RANGE",
+            "SORT": {
+              "en": "Lobbed",
+              "zh": "抛物线"
+            }
+          },
+          {
+            "TYPE": "SPECIAL",
+            "SORT": {
+              "en": "Poison",
+              "zh": "抛物线"
+            }
+          },
+          {
+            "TYPE": "AREA",
+            "SORT": {
+              "en": "3x3",
+              "zh": "3x3 范围"
+            }
+          },
+          {
+            "TYPE": "FAMILY"
+          }
+        ],
+        "Introduction": {
+          "en": "Dusk Lobbers are shadow plants that lob explosive buds down the lane that apply light poison damage.",
+          "zh": "幽暮投手沿着本行投掷炸裂性花蕾，也属于暗影植物。得到暗影能量时会沿着三行投掷。"
+        },
+        "Special": [
+          {
+            "NAME": {
+              "en": "Special",
+              "zh": "特点"
+            },
+            "DESCRIPTION": {
+              "en": "lob buds down 3 lanes when powered",
+              "zh": "得到暗影能量时能沿着三行投掷花蕾"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Special",
+              "zh": "特点"
+            },
+            "DESCRIPTION": {
+              "en": "poison deals 25 DPS for 1s all affected targets",
+              "zh": "得到暗影能量时能沿着三行投掷花蕾"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Plantfood effect",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "Lobs 6 massive cactus flower buds at that zombies that deal 240 damage in a 3x3 area",
+              "zh": "Dusk Lobber"
+            }
+          }
+        ],
+        "Chat": {
+          "en": "Lobbing comes easily for Dusk Lobber, but that's only because she's had extensive training and really enjoys parabolas.",
+          "zh": "对幽暮投手来说，投掷很容易，但这只是因为她受过大量的训练，而且非常喜欢抛物线。"
+        },
+        "BriefIntroduction": {
+          "en": "Lobs explosive buds that stun",
           "zh": "投掷炸裂性花蕾"
         },
         "DisplayOffset": {
@@ -5136,6 +5546,107 @@
         "BriefIntroduction": {
           "en": "Does heavy damage to groups of zombies",
           "zh": "对一群僵尸造成大量伤害"
+        },
+        "DisplayOffset": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "aliases": [
+        "darkmatterdragonfruit"
+      ],
+      "objclass": "PlantAlmanacProperties",
+      "objdata": {
+        "Elements": [
+          {
+            "TYPE": "SUNCOST"
+          },
+          {
+            "TYPE": "RECHARGE"
+          },
+          {
+            "TYPE": "TOUGHNESS"
+          },
+          {
+            "TYPE": "DAMAGE",
+            "SORT": {
+              "en": "50/3.25s",
+              "zh": "50/3.25秒"
+            }
+          },
+          {
+            "TYPE": "AREA",
+            "NAME": {
+              "en": "SPLASH DAMAGE",
+              "zh": "范围伤害"
+            },
+            "SORT": {
+              "en": "95 (3x3)",
+              "zh": "95 (3x3 范围)"
+          }},
+          {
+            "TYPE": "RANGE",
+            "SORT": {
+              "en": "Straight",
+              "zh": "抛物线"
+            }
+          },
+          {
+            "TYPE": "AREA",
+            "SORT": {
+              "en": "3x2",
+              "zh": "3x2 范围"
+            }
+          },
+          {
+            "TYPE": "FAMILY"
+          }
+        ],
+        "Introduction": {
+          "en": "Dark Matter Dragonfruits are shadow plants that charge up explosive, dark energy stars and launch them at the zombies. When powered, they deal slow that scales with the zombie's health.",
+          "zh": "西瓜投手会对成群的僵尸造成大量伤害。"
+        },
+        "Special": [
+          {
+            "NAME": {
+              "en": "Damage Details",
+              "zh": "特点"
+            },
+            "DESCRIPTION": {
+              "en": "deals 40 direct damage/80 splash when powered, 50 direct damage/95 splash damage otherwise",
+              "zh": "比起直接接触其子弹的僵尸，受到子弹暗能量爆炸波及的僵尸会受到更高的伤害"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Special",
+              "zh": "特点"
+            },
+            "DESCRIPTION": {
+              "en": "when powered, the more health a zombie has, the more slow/heaviness is dealt (heaviness reudces knockback)",
+              "zh": "得到暗影能量时，僵尸越健全，沉重效果越显著"
+            }
+          },
+          {
+            "NAME": {
+              "en": "Plantfood effect",
+              "zh": "ENG"
+            },
+            "DESCRIPTION": {
+              "en": "Charges up a massive star of dark matter, which blasts out a dark stellar beam that deals a massive 400 DPS and knocks back zombies in its lane for 6s",
+              "zh": "Dark Matter Dragonfruit"
+            }
+          }
+        ],
+        "Chat": {
+          "en": "Dark Matter Dragonfruit's ancient ancestors were vigorously hunted, retreating them into the darkest, deepest depths of space. Now their descendants are back for cold, fruity vengeance.",
+          "zh": "“暗物质火龙果的祖先曾被猎杀至太空深处。如今，他们的后代带着冰冷的果实复仇归来了。"
+        },
+        "BriefIntroduction": {
+          "en": "Launches stars that deal massive damage",
+          "zh": "发射能造成巨大伤害的恒星"
         },
         "DisplayOffset": {
           "x": 0,
@@ -7189,37 +7700,17 @@
           },
           {
             "TYPE": "DAMAGE",
-            "VALUE": 8
+            "VALUE": 10
           },
           {
             "TYPE": "FAMILY"
           }
         ],
         "Introduction": {
-          "en": "Torchwoods turn peas that pass through them into fireballs that deal twice as much damage. They also deal close damage as well as lanewide flame damage on defeat.",
+          "en": "Torchwoods turn peas that pass through them into fireballs that deal twice as much damage. They also deal close damage as well as lane and columnwide flame damage on defeat.",
           "zh": "火炬树桩将经过的豌豆点燃，造成双倍伤害。他们也会对靠近的僵尸造成伤害，死亡时会在燃烧一整行的僵尸。"
         },
         "Special": [
-          {
-            "NAME": {
-              "en": "Special",
-              "zh": "特点"
-            },
-            "DESCRIPTION": {
-              "en": "deals light damage when zombies are nearby",
-              "zh": "对靠近的僵尸造成伤害"
-            }
-          },
-          {
-            "NAME": {
-              "en": "Special",
-              "zh": "特点"
-            },
-            "DESCRIPTION": {
-              "en": "deals lane and column wide flame damage when eaten",
-              "zh": "死亡时对整行僵尸造成燃烧伤害"
-            }
-          },
           {
             "NAME": {
               "en": "Special",
@@ -8230,7 +8721,7 @@
           }
         ],
         "Introduction": {
-          "en": "Coconut Cannons fire coconuts down a single lane, causing a medium explosion on impact.",
+          "en": "Coconut Cannons fire coconuts down a single lane, causing a medium explosion on impact and dealing knockback.",
           "zh": "椰子加农炮沿着本行发射，炸裂时造成范围性伤害。"
         },
         "Special": [
@@ -9188,8 +9679,8 @@
               "zh": "PUSH & CHILL DURATION"
             },
             "SORT": {
-              "en": "4.25s",
-              "zh": "4.25秒"
+              "en": "2.5s",
+              "zh": "2.5秒"
             }
           },
           {
@@ -9234,7 +9725,7 @@
               "zh": "特点"
             },
             "DESCRIPTION": {
-              "en": "blows away flying zombies in lane",
+              "en": "blows away flying zombies in its lane",
               "zh": "吹飞本行所有的飞行僵尸"
             }
           }
@@ -13167,7 +13658,7 @@
           }
         ],
         "Introduction": {
-          "en": "Bowling Bulbs rolls shots that can bounce into multiple zombies. The Larger bulbs deal more damage.",
+          "en": "Bowling Bulbs rolls shots that can bounce into multiple zombies. The larger the bulb, the more damage that is dealt!",
           "zh": "保龄泡泡滚出可以在僵尸之间来回碰撞的保龄球。保龄球越大，造成的伤害越大。"
         },
         "Special": [
@@ -13480,8 +13971,8 @@
           {
             "TYPE": "DAMAGE",
             "SORT": {
-              "en": "65/2.7s",
-              "zh": "65/2.7秒"
+              "en": "50/2.7s",
+              "zh": "50/2.7秒"
             }
           },
           {
@@ -13491,8 +13982,8 @@
               "zh": "范围伤害"
             },
             "SORT": {
-              "en": "27.5 (3x3)",
-              "zh": "27.5 (3x3 范围)"
+              "en": "20 (3x3)",
+              "zh": "20 (3x3 范围)"
           }},
           {
             "TYPE": "RANGE",
@@ -13875,7 +14366,7 @@
           }
         ],
         "Introduction": {
-          "en": "A.K.E.E.s lob knockacking projectiles that bounce from zombie to zombie.",
+          "en": "A.K.E.E.s lob knockbacking seed projectiles that bounce from zombie to zombie.",
           "zh": "AKEE 喷射出能在僵尸之间弹跳的投掷物"
         },
         "Special": [
@@ -13885,7 +14376,7 @@
               "zh": "ENG"
             },
             "DESCRIPTION": {
-              "en": "Katapults a massive projectile at the first zombie in its lane, bouncing up to 8 times and dealing 450 damage with heavy knockback per hit",
+              "en": "Katapults a massive seed at the first zombie in its lane, bouncing up to 8 times and dealing 450 damage with heavy knockback per hit",
               "zh": "Autonomous Katapulting Ejectomatic Emitter"
             }
           }],

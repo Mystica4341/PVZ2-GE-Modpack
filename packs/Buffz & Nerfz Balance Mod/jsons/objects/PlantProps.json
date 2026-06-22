@@ -29,6 +29,35 @@
     {
       "objclass": "PlantProperties",
       "aliases": [
+        "darkmatterdragonfruit"
+      ],
+      "objdata": {
+        "ShootInterval": 3.25,
+        "ShootIntervalAdditional": 0.15,
+        "Cooldown": 17.5,
+        "CooldownFrom": 1,
+        "SunCost": 425,
+        "BeghouledCost": 4000,
+        "Toughness": 300,
+        "PeaType": "darkmatter",
+        "PeaTypeShadow": "darkmatter_shadow",
+        "Family": "Shadow",
+        "MintDamageFactor": 3,
+        "PlantfoodKnockbackSPS": 1.5,
+        "PlantfoodDuration": 6,
+        "PlantFoodDPS": 600,
+        "PlantFoodSplashDPS": 100,
+        "DarkMatterEffectDuration": 6,
+        "MintBoostedProps": {
+          "ResistanceMult": 1,
+          "SpeedMult": 2,
+          "Plantfood": false
+        }
+      }
+    },
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
         "snappea"
       ],
       "objdata": {
@@ -128,7 +157,33 @@
         "ImmuneToBoomBox": true,
         "ImmuneToIceblock": true,
         "TornadoDuration": 6.5,
-        "ZombieDraggingFactor": 4,
+        "ZombieDraggingFactor": 1.75,
+        "MintDurationFactor": 2,
+        "MintBoostedProps": {
+          "ResistanceMult": 1,
+          "SpeedMult": 1,
+          "Plantfood": false
+        }
+      }
+    },
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
+        "loquat_lvl2"
+      ],
+      "objdata": {
+        "CannotBeSheepenedByWizard": true,
+        "Damage": 800,
+        "Cooldown": 10,
+        "CooldownFrom": 1,
+        "SunCost": 0,
+        "BeghouledCost": 1000,
+        "Toughness": 300,
+        "Family": "Slow",
+        "ImmuneToBoomBox": true,
+        "ImmuneToIceblock": true,
+        "TornadoDuration": 3,
+        "ZombieDraggingFactor": -0.15,
         "MintDurationFactor": 2,
         "MintBoostedProps": {
           "ResistanceMult": 1,
@@ -477,6 +532,82 @@
     {
       "objclass": "PlantProperties",
       "aliases": [
+        "zoybeanpod_lvl2"
+      ],
+      "objdata": {
+        "Cooldown": 20,
+        "CooldownFrom": 1,
+        "SunCost": 250,
+        "BeghouledCost": 2000,
+        "Toughness": 900,
+        "Family": "Defence",
+        "MintPotionLevel": 3,
+        "GrowthInterval": {
+          "Min": 6.5,
+          "Max": 6.5
+        },
+        "SummonType": [
+          {
+            "Weight": 1,
+            "Type": "zoybean_armor2_lvl2"
+          }
+        ],
+        "SummonTypePlantfood": [
+          {
+            "Weight": 1,
+            "Type": "zoybean_gargantuar"
+          }
+        ],
+        "MintBoostedProps": {
+          "ResistanceMult": 1,
+          "SpeedMult": 3,
+          "Plantfood": false
+        }
+      }
+    },
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
+        "zoybeanpod_lvl3"
+      ],
+      "objdata": {
+        "Cooldown": 15,
+        "CooldownFrom": 0.5,
+        "SunCost": 300,
+        "BeghouledCost": 2000,
+        "Toughness": 300,
+        "Family": "Magic",
+        "MintPotionLevel": 3,
+        "GrowthInterval": {
+          "Min": 7.5,
+          "Max": 7.5
+        },
+        "SummonType": [
+          {
+            "Weight": 80,
+            "Type": "zoyhunter"
+          },
+          {
+            "Weight": 20,
+            "Type": "zoyhunter_elite"
+          }
+        ],
+        "SummonTypePlantfood": [
+          {
+            "Weight": 1,
+            "Type": "zoybean_gargantuar"
+          }
+        ],
+        "MintBoostedProps": {
+          "ResistanceMult": 1,
+          "SpeedMult": 3,
+          "Plantfood": false
+        }
+      }
+    },
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
         "dusklobber"
       ],
       "objdata": {
@@ -488,6 +619,54 @@
         "Cooldown": 15,
         "CooldownFrom": 0.5,
         "SunCost": 250,
+        "BeghouledCost": 2500,
+        "Toughness": 300,
+        "Family": "Shadow",
+        "MintBoostedProps": {
+          "ResistanceMult": 1,
+          "SpeedMult": 2,
+          "Plantfood": false
+        }
+      }
+    },
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
+        "dusklobber_lvl2"
+      ],
+      "objdata": {
+        "CabbageType": "dusklobber_lvl2",
+        "CabbageTypePlantfood": "dusklobber_pf",
+        "ThrowInterval": 2.85,
+        "ThrowIntervalAdditional": 0.15,
+        "PlantfoodProjectilesToFire": 4,
+        "Cooldown": 12.5,
+        "CooldownFrom": 0.33,
+        "SunCost": 225,
+        "BeghouledCost": 2500,
+        "Toughness": 300,
+        "Family": "Shadow",
+        "MintBoostedProps": {
+          "ResistanceMult": 1,
+          "SpeedMult": 2,
+          "Plantfood": false
+        }
+      }
+    },
+    {
+      "objclass": "PlantProperties",
+      "aliases": [
+        "dusklobber_lvl3"
+      ],
+      "objdata": {
+        "CabbageType": "dusklobber1",
+        "CabbageTypePlantfood": "dusklobber_pf",
+        "ThrowInterval": 3,
+        "ThrowIntervalAdditional": 0.15,
+        "PlantfoodProjectilesToFire": 6,
+        "Cooldown": 17.5,
+        "CooldownFrom": 0.75,
+        "SunCost": 325,
         "BeghouledCost": 2500,
         "Toughness": 300,
         "Family": "Shadow",
@@ -566,9 +745,9 @@
         "SunValue": 75,
         "ProduceInterval": 25,
         "ProduceIntervalAdditional": 2,
-        "ProduceCountdownStart": 7.5,
-        "ProduceCountdownStartAdditional": 10,
-        "Cooldown": 7.5,
+        "ProduceCountdownStart": 5,
+        "ProduceCountdownStartAdditional": 5,
+        "Cooldown": 5,
         "CooldownFrom": 0,
         "SunCost": 100,
         "BeghouledCost": 1500,
@@ -1516,7 +1695,7 @@
         "ProduceCountdownStart": 5,
         "ProduceCountdownStartAdditional": 5,
         "Cooldown": 7.5,
-        "CooldownFrom": 0.5,
+        "CooldownFrom": 0,
         "SunCost": 125,
         "BeghouledCost": 1500,
         "Toughness": 300,
@@ -1563,9 +1742,9 @@
         "SunValue": 25,
         "ProduceInterval": 23.5,
         "ProduceIntervalAdditional": 1.5,
-        "ProduceCountdownStart": 7.5,
-        "ProduceCountdownStartAdditional": 5,
-        "Cooldown": 12,
+        "ProduceCountdownStart": 4,
+        "ProduceCountdownStartAdditional": 3.5,
+        "Cooldown": 7.5,
         "CooldownFrom": 0,
         "SunCost": 75,
         "BeghouledCost": 1500,
@@ -1599,7 +1778,7 @@
         "ReloadInterval": 8.5,
         "Cooldown": 15,
         "CooldownFrom": 0.75,
-        "SunCost": 25,
+        "SunCost": 50,
         "BeghouledCost": 1000,
         "Toughness": 300,
         "Family": "Shadow",
@@ -2209,6 +2388,7 @@
         "spikerock"
       ],
       "objdata": {
+        "CannotBePushedByFootballMech": true,
         "CannotBeGrabbedByParrot": true,
         "ImmuneToBoomBox": true,
         "Damage": 30,
@@ -2243,7 +2423,7 @@
         "Damage": 25,
         "AttackInterval": 0.5,
         "PlantfoodDuration": 5,
-        "SpawnedScale": 0.9,
+        "SpawnedScale": 0.95,
         "PlantfoodDPS": 800,
         "PlantfoodSideDPS": 60,
         "PlantfoodDragSPS": 3,
@@ -2254,10 +2434,10 @@
         "BeghouledCost": 1500,
         "Toughness": 2700,
         "Family": "Sharp",
-        "MintDamageFactor": 2,
+        "MintDamageFactor": 1.5,
         "MintBoostedProps": {
           "ResistanceMult": 1,
-          "SpeedMult": 2,
+          "SpeedMult": 1.5,
           "Plantfood": false
         }
       }
@@ -3050,7 +3230,7 @@
         "torchwood"
       ],
       "objdata": {
-        "Damage": 8,
+        "Damage": 10,
         "DamageScale": 2,
         "DamageScalePlantfooded": 3,
         "DamageInterval": 1,
@@ -3324,7 +3504,7 @@
         "RestTime": 12,
         "Cooldown": 5,
         "CooldownFrom": 1,
-        "SunCost": 400,
+        "SunCost": 375,
         "BeghouledCost": 3000,
         "Toughness": 300,
         "Family": "Lobber",
@@ -3347,7 +3527,7 @@
         "RestTime": 15,
         "Cooldown": 7.5,
         "CooldownFrom": 1,
-        "SunCost": 375,
+        "SunCost": 400,
         "BeghouledCost": 3000,
         "Toughness": 300,
         "Family": "Lobber",
@@ -3623,7 +3803,7 @@
       ],
       "objdata": {
         "CannotBeSheepenedByWizard": true,
-        "PushDuration": 4.25,
+        "PushDuration": 2.5,
         "Cooldown": 17.5,
         "CooldownFrom": 1,
         "SunCost": 100,

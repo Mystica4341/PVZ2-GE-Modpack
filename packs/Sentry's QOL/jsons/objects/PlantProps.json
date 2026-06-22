@@ -3890,7 +3890,16 @@
 			"objdata": {
 				"Family": "None"
 			}
-		        },										
+		        },	
+		{
+			"aliases": [
+				"darkmatterdragonfruit"
+			],
+			"objclass": "PlantProperties",
+			"objdata": {
+				"Family": "None"
+			}
+		        },													
 				{
 			"aliases": [
 				"appeasemint"

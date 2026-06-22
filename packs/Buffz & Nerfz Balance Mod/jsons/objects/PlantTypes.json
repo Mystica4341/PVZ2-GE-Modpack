@@ -2246,6 +2246,32 @@
     {
       "objclass": "PlantType",
       "aliases": [
+        "dusklobber_lvl2"
+      ],
+      "objdata": {
+        "PlantBasedOn": "dusklobber",
+        "Properties": "RTID(dusklobber_lvl2@PlantProps)",
+        "ShiftedPlantFeatures": {
+          "ALMANAC": "RTID(dusklobber_lvl2@PlantAlmanac)"
+        }
+      }
+    },
+    {
+      "objclass": "PlantType",
+      "aliases": [
+        "dusklobber_lvl3"
+      ],
+      "objdata": {
+        "PlantBasedOn": "dusklobber",
+        "Properties": "RTID(dusklobber_lvl3@PlantProps)",
+        "ShiftedPlantFeatures": {
+          "ALMANAC": "RTID(dusklobber_lvl3@PlantAlmanac)"
+        }
+      }
+    },
+    {
+      "objclass": "PlantType",
+      "aliases": [
         "grimrose"
       ],
       "objdata": {
@@ -2516,6 +2542,32 @@
       "objdata": {
         "PlantBasedOn": "icebloom",
         "Properties": "RTID(icebloom@PlantProps)"
+      }
+    },
+    {
+      "objclass": "PlantType",
+      "aliases": [
+        "zoybeanpod_lvl2"
+      ],
+      "objdata": {
+        "PlantBasedOn": "zoybeanpod_lvl2",
+        "Properties": "RTID(zoybeanpod_lvl2@PlantProps)",
+        "ShiftedPlantFeatures": {
+          "ALMANAC": "RTID(zoybeanpod_lvl2@PlantAlmanac)"
+        }
+      }
+    },
+    {
+      "objclass": "PlantType",
+      "aliases": [
+        "zoybeanpod_lvl3"
+      ],
+      "objdata": {
+        "PlantBasedOn": "zoybeanpod_lvl3",
+        "Properties": "RTID(zoybeanpod_lvl3@PlantProps)",
+        "ShiftedPlantFeatures": {
+          "ALMANAC": "RTID(zoybeanpod_lvl3@PlantAlmanac)"
+        }
       }
     },
     {

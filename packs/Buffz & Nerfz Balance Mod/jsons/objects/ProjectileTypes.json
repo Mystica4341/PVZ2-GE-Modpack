@@ -2461,8 +2461,19 @@
       ],
       "objdata": {
         "MintBoostedType": "dusklobber2",
-        "ProjectileBasedOn": "dusklobber",
+        "ProjectileBasedOn": "dusklobber1",
         "Props": "RTID(dusklobber@ProjectileProps)"
+      }
+    },
+    {
+      "objclass": "ProjectileType",
+      "aliases": [
+        "dusklobber_lvl2"
+      ],
+      "objdata": {
+        "MintBoostedType": "dusklobber2",
+        "ProjectileBasedOn": "dusklobber",
+        "Props": "RTID(dusklobber_lvl2@ProjectileProps)"
       }
     },
     {
@@ -2472,7 +2483,7 @@
       ],
       "objdata": {
         "MintBoostedType": "dusklobber2",
-        "ProjectileBasedOn": "dusklobber1",
+        "ProjectileBasedOn": "dusklobber_pf",
         "Props": "RTID(dusklobber1@ProjectileProps)"
       }
     },
