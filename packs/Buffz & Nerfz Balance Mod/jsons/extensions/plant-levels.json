@@ -6,17 +6,17 @@
         "1": {
           "cloneCodename": "missiletoe",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "missiletoe_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "missiletoe_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -25,17 +25,17 @@
         "1": {
           "cloneCodename": "anthurium",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "anthurium_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "anthurium_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -44,17 +44,17 @@
         "1": {
           "cloneCodename": "coconutcannon",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "coconutcannon_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "coconutcannon_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -63,17 +63,17 @@
         "1": {
           "cloneCodename": "cantaloupe",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "cantaloupe_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "cantaloupe_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -82,17 +82,17 @@
         "1": {
           "cloneCodename": "wintermelon",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "wintermelon_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "wintermelon_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -101,17 +101,17 @@
         "1": {
           "cloneCodename": "applemortar",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "applemortar_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "applemortar_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -120,17 +120,17 @@
         "1": {
           "cloneCodename": "shootingstarfruit",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "shootingstarfruit_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "shootingstarfruit_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -139,17 +139,17 @@
         "1": {
           "cloneCodename": "firegourd",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "firegourd_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "firegourd_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -158,17 +158,17 @@
         "1": {
           "cloneCodename": "gatling",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "gatling_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "gatling_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -177,17 +177,17 @@
         "1": {
           "cloneCodename": "electricpeashooter",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "electricpeashooter_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "electricpeashooter_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -196,17 +196,17 @@
         "1": {
           "cloneCodename": "dusklobber",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "dusklobber_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "dusklobber_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     },
@@ -215,12 +215,12 @@
         "1": {
           "cloneCodename": "pinkstarfruit",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "pinkstarfruit_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         }
       }
     },
@@ -229,21 +229,19 @@
         "1": {
           "cloneCodename": "zoybeanpod",
           "icon": "silver",
-          "displayName": "I"
+          "displayName": "LVL 1"
         },
         "2": {
           "cloneCodename": "zoybeanpod_lvl2",
           "icon": "gold",
-          "displayName": "II"
+          "displayName": "LVL 2"
         },
         "3": {
           "cloneCodename": "zoybeanpod_lvl3",
           "icon": "star",
-          "displayName": "III"
+          "displayName": "LVL 3"
         }
       }
     }
   }
 }
-
-

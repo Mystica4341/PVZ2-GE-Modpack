@@ -6,7 +6,7 @@ echo.
 :: ==============================================================
 :: BUOC KHOI DAU: XOA PLANTPROPS TRONG SENTRY'S QOL
 :: ==============================================================
-echo [0/2] Deleting PlantProps.json trong Sentry's QOL...
+echo [0/3] Deleting PlantProps.json trong Sentry's QOL...
 if exist "packs\Sentry's QOL\jsons\objects\PlantProps.json" (
     del /f /q "packs\Sentry's QOL\jsons\objects\PlantProps.json"
     echo Deleted: Da xoa file PlantProps.json trong Sentry's QOL!
@@ -86,9 +86,9 @@ echo.
 :: ==============================================================
 :: PHAN 3: CAP NHAT FILE PLANT-LEVELS.JSON
 :: ==============================================================
-echo [3/3] Replacing "TIER *" in plant-levels.json...
-powershell -Command "Get-ChildItem -Path '.' -Filter '*plant-levels*.json' -Recurse | ForEach-Object { $file = $_.FullName; (Get-Content $file -Raw -Encoding UTF8) -replace 'TIER ', '' | Set-Content $file -Encoding UTF8 }"
-echo Done replacing "TIER *" in plant-levels.json!
+echo [3/3] Replacing "TIER *" to "LVL *" in plant-levels.json...
+powershell -Command "Get-ChildItem -Path '.' -Filter '*plant-levels*.json' -Recurse | ForEach-Object { $file = $_.FullName; (Get-Content $file -Raw -Encoding UTF8) -replace 'TIER V', 'LVL 5' -replace 'TIER IV', 'LVL 4' -replace 'TIER III', 'LVL 3' -replace 'TIER II', 'LVL 2' -replace 'TIER I', 'LVL 1' | Set-Content $file -Encoding UTF8 }"
+echo Hoan thanh cap nhat plant-levels.json!
 echo.
 
 echo Done Replacing PVZ 2 GE Mod!
