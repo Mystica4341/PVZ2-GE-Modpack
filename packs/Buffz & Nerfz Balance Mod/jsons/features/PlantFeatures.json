@@ -1,4 +1,4 @@
-{
+﻿{
   "PLANTS": [
     {
       "ID": 0,
@@ -720,7 +720,7 @@
         "plant"
       ],
       "COSTUME": 1,
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -2403,7 +2403,7 @@
         "losingPlant"
       ],
       "COSTUME": 1,
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -4282,7 +4282,7 @@
         "plant"
       ],
       "COSTUME": 1,
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -4306,7 +4306,7 @@
         "plant"
       ],
       "COSTUME": 2,
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -4330,7 +4330,7 @@
         "plant"
       ],
       "COSTUME": 2,
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -4354,7 +4354,7 @@
         "plant"
       ],
       "COSTUME": 2,
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -4379,7 +4379,7 @@
         "losingPlant"
       ],
       "COSTUME": 2,
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
@@ -5596,7 +5596,7 @@
       "TYPE": [
         "plant"
       ],
-      "OBTAINWORLD": "frontyard",
+      "OBTAINWORLD": "modern",
       "ZENGARDEN": {
         "PlantPlace": "dirt"
       },
