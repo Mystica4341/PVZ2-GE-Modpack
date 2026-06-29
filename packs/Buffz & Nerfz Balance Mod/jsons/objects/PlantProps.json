@@ -2075,28 +2075,6 @@
     {
       "objclass": "PlantProperties",
       "aliases": [
-        "blover"
-      ],
-      "objdata": {
-        "CannotBeSheepenedByWizard": true,
-        "BlowDuration": 4,
-        "Cooldown": 7.5,
-        "CooldownFrom": 0.5,
-        "SunCost": 100,
-        "BeghouledCost": 500,
-        "Toughness": 300,
-        "Family": "Slow",
-        "MintDurationFactor": 3,
-        "MintBoostedProps": {
-          "ResistanceMult": 1,
-          "SpeedMult": 1,
-          "Plantfood": false
-        }
-      }
-    },
-    {
-      "objclass": "PlantProperties",
-      "aliases": [
         "iceweed"
       ],
       "objdata": {
@@ -5410,22 +5388,6 @@
           "SpeedMult": 1,
           "Plantfood": false
         }
-      }
-    },
-    {
-      "objclass": "PlantProperties",
-      "aliases": [
-        "goldleaf"
-      ],
-      "objdata": {
-        "Cooldown": 7.5,
-        "CooldownFrom": 0.5,
-        "SunCost": 75,
-        "BeghouledCost": 0,
-        "Toughness": 300,
-        "Family": "Sun",
-        "SunCostIncrement": 25,
-        "TileType": "goldtile"
       }
     },
     {

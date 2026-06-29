@@ -27,7 +27,7 @@ set "ps_script=%temp%\update_plants.ps1"
 >> "%ps_script%" echo     $lines = Get-Content $f.FullName -Encoding UTF8
 :: ==============================================================
 >> "%ps_script%" echo     # --- BEGIN Delete Nefted plants ---
->> "%ps_script%" echo     $plantsToDelete = @('primalsunflower', 'primalpotatomine', 'primalwalnut', 'primalpeashooter', 'moonflower', 'nightshade', 'shadowshroom', 'grimrose', 'shadowpeashooter', 'darkmatterdragonfruit')
+>> "%ps_script%" echo     $plantsToDelete = @('primalsunflower', 'primalpotatomine', 'primalwalnut', 'primalpeashooter', 'moonflower', 'nightshade', 'shadowshroom', 'grimrose', 'shadowpeashooter', 'darkmatterdragonfruit', 'blover', 'goldleaf')
 >> "%ps_script%" echo     foreach ($plant in $plantsToDelete) {
 >> "%ps_script%" echo         $targetLine = -1
 >> "%ps_script%" echo         for ($idx = 0; $idx -lt $lines.Count; $idx++) {
